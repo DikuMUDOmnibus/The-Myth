@@ -1,0 +1,435 @@
+#AREADATA
+Name        Madness~
+Builders    None~
+VNUMs       31450 31500
+Security    1
+End
+
+
+
+#MOBILES
+#31450
+no name~
+(no short description)~
+(no long description)~
+~
+1 0 0 S
+4 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31455
+Ãÿï~
+–6è~
+A huge #Ppurple #Gdinosaur stands here trying to give you a hug
+~
+~
+3 0 0 S
+667 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31466
+vohzd~
+The Vohzd~
+The Vohzd lumbers about towering over you.
+~
+~
+1 67633152 0 S
+995 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#31450
+a Bloody Scimitar~
+a Bloody Scimitar~
+A long curved sword covered in blood rests here
+~
+~
+5 545 0
+0 0 0 0
+2 12500 0
+#31451
+egg~
+you activate $p.~
+A fine mist seeps up from the ground and reforms into $n.~
+~
+13 1 0
+0 0 0 0
+0 0 0
+#0
+
+
+
+#ROOMS
+#31450
+Breeding Pit~
+~
+0 4 0
+D4
+~
+~
+0 0 3001
+S
+#31451
+A Branching of Ways~
+Walking into this room you find it completely blank with sigils carved
+into them.  To the north is the symbol for a halo.  To the West is the
+symbol for the wolf.  East is a symbol resembling a wand.  
+~
+0 0 0
+D0
+~
+~
+0 0 31453
+D1
+~
+~
+0 0 31455
+D3
+~
+~
+0 0 31454
+D4
+~
+~
+0 0 31452
+S
+#31452
+A Branching of Ways~
+Walking into this room you find it completely blank with sigils carved
+into them.  To the south is a pitchfork and to the north is a symbol for
+unity 
+~
+0 0 0
+D0
+~
+~
+0 0 31457
+D2
+~
+~
+0 0 31456
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 31451
+S
+#31453
+Vampire and Angel Meeting Room~
+~
+0 0 0
+D4
+~
+~
+0 0 3001
+S
+#31454
+Vampire and Werewolf Meeting Room~
+~
+0 0 0
+D4
+~
+~
+0 0 3001
+S
+#31455
+Vampire and Mage Meeting Room~
+~
+0 0 0
+D4
+~
+~
+0 0 3001
+S
+#31456
+Vamp and Demon Meeting Room~
+~
+0 0 0
+D4
+~
+~
+0 0 3001
+S
+#31457
+The Neutral Meeting Hall~
+~
+0 0 0
+D4
+~
+~
+0 0 3001
+S
+#31458
+A Branching of Ways~
+Walking into this room you find it completely blank with sigils carved
+into them.  To the North is the symbol for a halo.  To the west is the
+symbol for a wand.  To the east theres a bloody smear.  
+~
+0 0 0
+D0
+~
+~
+0 0 31460
+D1
+~
+~
+0 0 31454
+D3
+~
+~
+0 0 31461
+D4
+~
+~
+0 0 31459
+S
+#31459
+A Branching of Ways~
+Walking into this room you find it completely black with sigils carved
+into them.  To the north is the symbol for Unity and to the south is a
+pitchfork 
+~
+0 0 0
+D0
+~
+~
+0 0 31457
+D2
+~
+~
+0 0 31462
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 31458
+S
+#31460
+Werewolf and Angel Meeting Room~
+~
+0 0 0
+D4
+~
+~
+0 0 3001
+S
+#31461
+Werewolf and Mage Meeting Room~
+~
+0 0 0
+D4
+~
+~
+0 0 3001
+S
+#31462
+Werewolf and Demon Meeting Room~
+~
+0 0 0
+D4
+~
+~
+0 0 3001
+S
+#31463
+A Branching of Ways~
+Walking into this room you find it completely black with sigils carved
+into the walls.  To the north is a halo.  To the west is the symbol for a
+werewolf.  And to the East is a bloody smear 
+~
+0 0 0
+D0
+~
+~
+0 0 31465
+D1
+~
+~
+0 0 31455
+D3
+~
+~
+0 0 31461
+D4
+~
+~
+0 0 31464
+S
+#31464
+A Branching of Ways~
+Walking into the room you find it completely blank with sigils carved
+into the walls.  To the north is the symbol for Unity and to the south is a
+pitchfork 
+~
+0 0 0
+D0
+~
+~
+0 0 31457
+D2
+~
+~
+0 0 31466
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 31463
+S
+#31465
+Mage and Angel Meeting Room~
+~
+0 0 0
+D4
+~
+~
+0 0 3001
+S
+#31466
+Mage and Demon Meeting Room~
+~
+0 0 0
+D4
+~
+~
+0 0 3001
+S
+#31467
+A Branching of Ways~
+Walking into this room you find it completely black with sigils carved
+into the walls.  To the north is a wand.  To the west is the symbol for a
+werewolf.  And to the East is a bloody smear 
+~
+0 0 0
+D0
+~
+~
+0 0 31465
+D1
+~
+~
+0 0 31453
+D3
+~
+~
+0 0 31460
+D4
+~
+~
+0 0 31468
+S
+#31468
+A Branching of Ways~
+Walking into the room you find it completely blank with sigils carved
+into the walls.  To the north is the symbol for Unity and to the south is a
+pitchfork 
+~
+0 0 0
+D0
+~
+~
+0 0 31457
+D2
+~
+~
+0 0 31469
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 31467
+S
+#31469
+Angel and Demon Meeting Room~
+~
+0 0 0
+D4
+~
+~
+0 0 3001
+S
+#31470
+A Branching of Ways~
+Walking into this room you find it completely blank with sigils carved
+into the walls.  To the north is a wand.  To the west is the symbol for a
+werewolf.  And to the east is a bloody smear .  
+~
+0 0 0
+D0
+~
+~
+0 0 31466
+D1
+~
+~
+0 0 31456
+D3
+~
+~
+0 0 31462
+D4
+~
+~
+0 0 31471
+S
+#31471
+A Branching of Ways~
+Walking into this room you find it completely blank with sigils carved
+into the walls.  To the north is the symbol for Unity and to the south is a
+halo 
+~
+0 0 0
+D0
+~
+~
+0 0 31457
+D2
+~
+~
+0 0 31469
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 31470
+S
+#0
+
+
+
+#SPECIALS
+M 31466 spec_fido Load to: The Vohzd
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

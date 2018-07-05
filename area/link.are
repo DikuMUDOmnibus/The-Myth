@@ -1,0 +1,398 @@
+#AREADATA
+Name        Morglum  Linker and HQs~
+Builders    None~
+VNUMs       21700 21800
+Security    1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#21700
+Darkness~
+You stand in complete and utter darkness.
+~
+0 25613 0
+D0
+~
+~
+0 0 21600
+D1
+~
+~
+0 0 490
+D5
+~
+~
+0 0 31000
+S
+#21701
+Cappadocian HQ~
+The walls expand to reveal a large cavern which seems to have been
+naturally constructed. A stray beam of light cuts into the room from
+a crack in the rough stone ceiling high above your head.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+S
+#21702
+Assamite HQ~
+The walls expand to reveal a large cavern which seems to have been
+naturally constructed. A stray beam of light cuts into the room from
+a crack in the rough stone ceiling high above your head.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+S
+#21703
+Setite HQ~
+The walls expand to reveal a large cavern which seems to have been
+naturally constructed. A stray beam of light cuts into the room from
+a crack in the rough stone ceiling high above your head.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+S
+#21704
+Malkavian HQ~
+The walls expand to reveal a large cavern which seems to have been
+naturally constructed. A stray beam of light cuts into the room from
+a crack in the rough stone ceiling high above your head.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+S
+#21705
+Vamp? HQ~
+The walls expand to reveal a large cavern which seems to have been
+naturally constructed. A stray beam of light cuts into the room from
+a crack in the rough stone ceiling high above your head.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+S
+#21706
+Spirit HQ~
+You enter a cool dark comforting room and immediately your mind, body
+and spirit feel refreshed. This Haven gives you the opportunity to regain
+your composure and contemplate your latest battle.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+S
+#21707
+Earth HQ~
+You enter a cool dark comforting room and immediately your mind, body
+and spirit feel refreshed. This Haven gives you the opportunity to regain
+your composure and contemplate your latest battle.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+S
+#21708
+Water HQ~
+You enter a cool dark comforting room and immediately your mind, body
+and spirit feel refreshed. This Haven gives you the opportunity to regain
+your composure and contemplate your latest battle.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+S
+#21709
+Air HQ~
+You enter a cool dark comforting room and immediately your mind, body
+and spirit feel refreshed. This Haven gives you the opportunity to regain
+your composure and contemplate your latest battle.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+S
+#21710
+Fire HQ~
+You enter a cool dark comforting room and immediately your mind, body
+and spirit feel refreshed. This Haven gives you the opportunity to regain
+your composure and contemplate your latest battle.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+S
+#21711
+Bone Gnawers HQ~
+The walls expand to form a huge, circular cavern. It glitters pink gold
+and green around the edges, fading to sparkling white in the center.
+Outcroppings of crystals of every size and colour dazzle you, glinting
+with light from an unseen source. Quartz, citrine and amethyst glow
+gently, bathing you in jewel-like hues.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+S
+#21712
+Glass Walkers HQ~
+The walls expand to form a huge, circular cavern. It glitters pink gold
+and green around the edges, fading to sparkling white in the center.
+Outcroppings of crystals of every size and colour dazzle you, glinting
+with light from an unseen source. Quartz, citrine and amethyst glow
+gently, bathing you in jewel-like hues.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+S
+#21713
+Fianna HQ~
+The walls expand to form a huge, circular cavern. It glitters pink gold
+and green around the edges, fading to sparkling white in the center.
+Outcroppings of crystals of every size and colour dazzle you, glinting
+with light from an unseen source. Quartz, citrine and amethyst glow
+gently, bathing you in jewel-like hues.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+S
+#21714
+Red Talons HQ~
+The walls expand to form a huge, circular cavern. It glitters pink gold
+and green around the edges, fading to sparkling white in the center.
+Outcroppings of crystals of every size and colour dazzle you, glinting
+with light from an unseen source. Quartz, citrine and amethyst glow
+gently, bathing you in jewel-like hues.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+S
+#21715
+Bone Gnawers HQ~
+The walls expand to form a huge, circular cavern. It glitters pink gold
+and green around the edges, fading to sparkling white in the center.
+Outcroppings of crystals of every size and colour dazzle you, glinting
+with light from an unseen source. Quartz, citrine and amethyst glow
+gently, bathing you in jewel-like hues.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+S
+#21716
+Axel Demons HQ~
+You stand before a great alter to Satan lord of the dead. You feel his
+presence all around you here, soothing your wounds and healing your soul.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 30000
+S
+#21717
+Faust's Angel HQ~
+You are standing in a room lined with gold.  A small heat seems like it its
+seeping through the walls.  You are in total happiness and one with god. You
+look around and see painting and murals of the holy wars and of satan being cast
+out of heaven. You feel disturbed just thinking that anyone would defy god.
+~
+0 16396 0
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 30050
+S
+#21718
+ValtOr Demons HQ~
+You stand before a great alter to Satan lord of the dead. You feel his
+presence all around you here, soothing your wounds and healing your soul.
+~
+0 16396 1
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 30000
+S
+#21719
+Angel2 HQ~
+You are standing in a room lined with gold.  A small heat seems like it its
+seeping through the walls.  You are in total happiness and one with god. You
+look around and see painting and murals of the holy wars and of satan being cast
+out of heaven. You feel disturbed just thinking that anyone would defy god.
+~
+0 16396 1
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 30050
+S
+#21720
+Demon3 HQ~
+You stand before a great alter to Satan lord of the dead. You feel his
+presence all around you here, soothing your wounds and healing your soul.
+~
+0 16396 1
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 30000
+S
+#21721
+Angel3 HQ~
+You are standing in a room lined with gold.  A small heat seems like it its
+seeping through the walls.  You are in total happiness and one with god. You
+look around and see painting and murals of the holy wars and of satan being cast
+out of heaven. You feel disturbed just thinking that anyone would defy god.
+~
+0 16396 1
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 30050
+S
+#21722
+Baali Main Hall~
+Seemingly carved out of the black rock surrounding you from all sides is
+the Baali main hall. In the middle of the room is a table with bowls filled
+with blood on it to sate your thirst. In one of the corners is a large hole
+with flames leaping out from it leading down to hell. Above you is Midgard
+where a Baali has his true fun in tormenting the innocent or the not so
+innocent.
+~
+0 16397 1
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 30000
+S
+#21723
+Nephandi Main Hall~
+The walls in this room are formed out of pure black pearl. A black
+leather couch stands in one of the corners, the room is lit by a large
+roaring fire in the middle of the room that also serves as a gate to hell. 
+The heat is almost to much to bear.
+~
+0 16397 1
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 30000
+S
+#21724
+B.S.D Main Hall~
+A small fire burns with red embers in the centre of the room. Paw prints
+dot the dusty earth ground here, as do the hoof marks of a demonic. Freshly
+gnawed bones also lie displaced around the fire-site, this would indicate
+that perhaps this is a place for the tribal gathering. A place where all
+can be one and sit around sharing a kill or even plotting their next hunt.
+~
+0 16397 1
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 30000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

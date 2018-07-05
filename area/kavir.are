@@ -1,0 +1,1552 @@
+#AREADATA
+Name        KaVir   Odds and ends~
+Builders    None~
+VNUMs       200 30069
+Security    1
+End
+
+
+
+#MOBILES
+#28889
+Alpha Omega guardian defender~
+The Alpha & Omega guardian~
+The Alpha & Omega guardian is here.
+~
+The  Guardian protects the castle at all costs.
+~
+8259 136 1000 S
+8999 2 2 1d1+1499 2d4+30
+12000 0
+0 0 1
+#28890
+fallen angels guardian defender~
+The Fallen Angels guardian~
+The Fallen Angels guardian is here.
+~
+The  Guardian protects the castle at all costs.
+~
+8259 136 1000 S
+8999 2 2 1d1+1499 2d4+30
+12000 0
+0 0 1
+#28891
+dragoneer guardian defender~
+The Dargoneer guardian~
+The Dragoneer guardian is here.
+~
+The  Guardian protects the castle at all costs.
+~
+8259 136 1000 S
+8999 2 2 1d1+1499 2d4+30
+12000 0
+0 0 1
+#222
+demon~
+A huge demon~
+A huge hulking demon stands here!
+~
+~
+1 0 0 S
+298 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#30000
+hell hound~
+a hell hound~
+A hell hound stands here snarling at you.
+~
+He looks very hungry...
+~
+2051 0 -1000 S
+18 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#30001
+guardian demon~
+a guardian demon~
+A huge guardian demon stands here, radiating evil.
+~
+He glares at your and flexes his huge clawed hands.
+~
+3 0 -1000 S
+4 2 2 1d1+300 1d8+32
+100000 0
+0 0 1
+#30002
+gremlin~
+a nasty little gremlin~
+A nasty little gremlin stands here, hopping from foot to foot.
+~
+He grins wickedly at you through pointed little teeth.
+~
+3 552 -1000 S
+17 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#30003
+gremlin~
+a big ugly gremlin~
+A big ugly gremlin stands here, snarling angrilly.
+~
+He snarls angrilly at you through long pointed fangs.
+~
+3 552 -1000 S
+54 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#30004
+gremlin~
+a huge vicious gremlin~
+A huge vicious gremlin stands here, growling with anger.
+~
+He growls viciously at you through huge curved tusks.
+~
+3 552 -1000 S
+5 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#30005
+cute fluffy creature~
+a cute little fluffy creature~
+A cute little fluffy creature looks up at you, begging for food.
+~
+"Please, kind person, spare me some food?", he squeaks.  You consider 
+stamping on the wretched little creature, but then decide it's not worth 
+the mess it would make on your boots.
+~
+3 552 1000 S
+12 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#30006
+mount~
+a generic mount~
+A generic mount stands here, waiting to be ridden.
+~
+It looks like it would make a good mount...
+~
+2051 0 -1000 S
+1 2 2 1d1+100 1d8+32
+100000 0
+0 0 1
+#30007
+frog~
+a small green frog~
+A small green frog sits here.
+~
+It's small, green, and intelligent-looking.
+~
+3 552 1000 S
+9 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#30008
+raven~
+a raven~
+A raven is flapping around here.
+~
+You notice that it is very intelligent-looking.
+~
+3 524840 1000 S
+14 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#30009
+cat~
+a small black cat~
+A small black cat is curled up here.
+~
+It is very cute, and very intelligent-looking.
+~
+3 552 1000 S
+12 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#30010
+dog~
+a small brown dog~
+A small brown dog is sitting here.
+~
+It is very cute, and very intelligent-looking.
+~
+3 552 1000 S
+16 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#30011
+zombie lord~
+the Zombie Lord~
+The Zombie Lord is here.
+~
+He looks very evil, very intelligent, and very rotten.
+~
+3 552 -1000 S
+1502 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#30012
+eye eyeball~
+an eyeball~
+An eyeball is lying on the ground.
+~
+It stares right back at you!
+~
+3 552 1000 S
+1 2 2 1d1+30 1d8+32
+100000 0
+0 0 1
+#30013
+mole rat molerat~
+a naked mole rat~
+A naked mole rat scurries around on the floor.
+~
+It looks just like Furry.
+~
+3 552 1000 S
+14 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#30014
+yak~
+a great hairy yak~
+A huge, hairy, stinking yak stands here.
+~
+It looks rather fearsome, and smells even worse.
+~
+2051 0 -1000 S
+53 2 2 1d1+100 1d8+32
+100000 0
+0 0 1
+#30015
+astral projection~
+an astral projection~
+The astral projection of someone is standing here.
+~
+You see a pale, translucent figure.
+~
+3 573992 -1000 S
+53 2 2 1d1+100 1d8+32
+100000 0
+0 0 1
+#30016
+clone mirror image~
+a clone~
+The Mirror Image of someone is standing here.
+~
+You see nothing special.
+~
+3 552 -1000 S
+51 2 2 1d1+100 1d8+32
+100000 0
+0 0 1
+#30030
+blackrose black rose guardian defender~
+The Black Rose guardian~
+The Black Rose guardian is here.
+~
+The  Guardian protects the castle at all costs.
+~
+8259 136 1000 S
+8997 2 2 1d1+1499 2d4+30
+12000 0
+0 0 1
+#30050
+unicorn~
+a beautiful white unicorn~
+A unicorn stands here gazing calmly at you.
+~
+He looks very hungry...
+~
+2051 0 -1000 S
+15 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#30069
+huge werewolf beast~
+A huge beast~
+An ancient Wendigo warrior stands here, grinning wickedly and peering
+around the room.
+~
+~
+3 8344 500 S
+398 -21 -20 41d41+410 5d10+25
+125000 0
+0 0 0
+#9603
+Howler_Monkey3~
+a tall thin monkey~
+(no long description)~
+~
+1 32800 0 S
+347 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#555
+Peter~
+Peter~
+Peter stands here with his pumkin pie.
+~
+Peter is a dork!
+~
+1 0 0 S
+504 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#27201
+krad~
+#r-=#eDarkBlade#r=- Healer~
+A #eDarkBlade healer is here, healing killers #n
+~
+~
+3 128 0 S
+116 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#27202
+(null)~
+the corpse of a templar page~
+You seep up from the ground and reform your body.~
+~
+3 0 0 S
+102 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#27203
+esor kcalb~
+The Black Rose healer~
+The Black Rose healer is here healing the wounded.
+~
+~
+3 0 0 S
+101 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#27204
+reenogard~
+The Dragoneer Healer~
+The Dragoneer healer is here healing the wounded.
+~
+~
+3 0 0 S
+101 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#27205
+agemoahpla~
+The Alpha & Omega Healer~
+The Alpha & Omega healer is here healing the wounded.
+~
+~
+3 0 0 S
+103 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#27206
+Black Rose guardian~
+Black Rose Guardian~
+Black Rose Guardian defending this castle
+~
+~
+1 4194370 0 S
+30001 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#27221
+29722~
+The Angel~
+A statue of a beautiful angel dominates the room.
+~
+~
+67 0 0 S
+108 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#200
+treasure gold quest~
+(Priceless) A gold quest piece~
+(Priceless) A shiny gold coin lies here~
+~
+13 0 5
+15 15 15 15
+1 0 0
+#222
+axe khrone~
+an axe of khrone~
+An axe of khrone lies here.~
+~
+5 16896 8193
+18000 25 50 3
+1 1000000 0
+A
+19 50
+A
+18 50
+#30000
+soul blade~
+a soul blade~
+A soul blade lies here.~
+~
+5 16451 8193
+0 10 20 11
+3 60 0
+A
+12 5
+A
+13 5
+A
+14 5
+A
+17 -10
+A
+18 5
+A
+19 5
+Q
+$p starts pulsing with energy.~
+$p stops pulsing with energy.~
+You twist the pommel of your soul blade.~
+$p starts pulsing with energy.~
+$p stops pulsing with energy.~
+$n twists the pommel of $s soul blade.~
+50 86
+#30001
+shimmering portal~
+a shimmering portal~
+A shimmering portal floats in the air.~
+~
+27 0 0
+102 0 0 0
+1000 300 0
+#30002
+egg~
+a small egg~
+A small egg has been left here.~
+~
+28 0 1
+0 0 0 0
+5 10 0
+#30003
+egg shell~
+a broken egg shell~
+A broken egg shell is lying here.~
+~
+13 0 1
+0 0 0 0
+5 100 0
+#30004
+entrails %s~
+the spilled entrails of %s~
+The spilled entrails of %s lie in a pool here.~
+~
+19 0 16385
+30 0 30004 0
+2 0 0
+#30005
+brain %s~
+the quivering brain of %s~
+The quivering brain of %s wobbles on the floor.~
+~
+19 0 16385
+16 0 30005 0
+2 0 0
+#30006
+eye eyeball %s~
+the squidgy eyeball of %s~
+The squidgy eyeball of %s rolls around on the floor.~
+~
+19 0 16385
+1 0 30006 0
+2 0 0
+#30007
+pool blood %s~
+a pool of blood~
+A pool of spilt blood lies here.~
+~
+25 64 0
+10 10 13 0
+5000 10 0
+#30008
+egg~
+a large green egg~
+A large green egg lies here in a pool of goo.~
+~
+28 0 1
+0 0 0 0
+5 100 0
+#30009
+egg~
+a small green egg~
+A small green egg lies crystalized on the floor.~
+~
+26 1 1
+50 605 605 605
+2 10000 0
+#30010
+voodoo doll~
+a voodoo doll~
+A voodoo doll lies here.~
+~
+29 0 16385
+0 0 0 0
+5 100 0
+#30011
+wooden stake~
+a wooden stake~
+A wooden stake lies here.~
+~
+30 0 16385
+0 0 0 0
+5 10 0
+#30012
+face %s~
+the ripped off face of %s~
+The ripped off face of %s lies on the floor.~
+~
+19 0 16385
+10 0 30012 0
+2 0 0
+#30013
+windpipe %s~
+the torn-out windpipe of %s~
+The torn-out windpipe of %s lies broken on the floor.~
+~
+19 0 16385
+5 0 30013 0
+2 0 0
+#30014
+cracked head %s~
+the cracked-open head of %s~
+The cracked-open head of %s lies on the floor.~
+~
+13 0 16385
+1 0 30014 0
+2 0 0
+#30015
+elevator door~
+the elevator door~
+A small door stands against the wall.~
+~
+27 0 0
+30004 0 0 30003
+1000 300 0
+#30016
+elevator door~
+the elevator door~
+A small door stands against the wall.~
+~
+27 0 0
+30003 0 0 30004
+1000 300 0
+#30017
+elevator door~
+the elevator door~
+A small door stands against the wall.~
+~
+27 0 0
+30003 0 3 30005
+1000 300 0
+#30018
+elevator door~
+the elevator door~
+A small door stands against the wall.~
+~
+27 0 0
+30003 0 3 30006
+1000 300 0
+#30019
+elevator door~
+the elevator door~
+A small door stands against the wall.~
+~
+27 0 0
+30003 0 3 30007
+1000 300 0
+#30020
+blood fountain~
+a fountain of dark twisted metal~
+A fountain of dark twisted metal spews blood around the room.~
+~
+25 64 0
+100000 100000 13 0
+5000 10 0
+#30021
+crossbow~
+a heavy crossbow~
+A heavy crossbow lies here.~
+~
+31 0 16385
+30022 1 1 1
+5 10 0
+#30022
+crossbow bolt~
+a crossbow bolt~
+A crossbow bolt lies here.~
+~
+32 0 16385
+75 10 20 1
+1 10 0
+#30023
+revolver~
+a revolver~
+A revolver lies here in the dirt.~
+~
+31 0 16385
+0 0 6 2
+5 10 0
+#30024
+bullet~
+a bullet~
+A small bullet lies on the ground.~
+~
+32 0 16385
+100 100 100 2
+1 10 0
+#30025
+ear %s~
+the sliced off ear of %s~
+The sliced off ear of %s lies on the floor.~
+~
+19 0 16385
+1 0 30025 0
+2 0 0
+#30026
+nose %s~
+the sliced off nose of %s~
+The sliced off nose of %s lies on the floor.~
+~
+19 0 16385
+1 0 30026 0
+2 0 0
+#30027
+tooth %s~
+the knocked-out tooth of %s~
+The knocked-out tooth of %s lies on the floor.~
+~
+13 0 16385
+1 0 30027 0
+2 0 0
+#30028
+tongue %s~
+the torn-out tongue of %s~
+The torn-out tongue of %s lies on the floor.~
+~
+19 0 16385
+2 0 30028 0
+2 0 0
+#30029
+hand %s~
+the severed hand of %s~
+The severed hand of %s lies on the floor.~
+~
+19 0 16385
+10 0 30029 0
+2 0 0
+#30030
+foot %s~
+the severed foot of %s~
+The severed foot of %s lies on the floor.~
+~
+19 0 16385
+10 0 30030 0
+2 0 0
+#30031
+thumb %s~
+the severed thumb of %s~
+The severed thumb of %s lies on the floor.~
+~
+19 0 16385
+1 0 30031 0
+2 0 0
+#30032
+index finger %s~
+the severed index finger of %s~
+The severed index finger of %s lies on the floor.~
+~
+19 0 16385
+1 0 30032 0
+2 0 0
+#30033
+middle finger %s~
+the severed middle finger of %s~
+The severed middle finger of %s lies on the floor.~
+~
+19 0 16385
+1 0 30033 0
+2 0 0
+#30034
+ring finger %s~
+the severed ring finger of %s~
+The severed ring finger of %s lies on the floor.~
+~
+19 0 16385
+1 0 30034 0
+2 0 0
+#30035
+little finger %s~
+the severed little finger of %s~
+The severed little finger of %s lies on the floor.~
+~
+19 0 16385
+1 0 30035 0
+2 0 0
+#30036
+toe %s~
+the severed toe of %s~
+The severed toe of %s lies on the floor.~
+~
+19 0 16385
+1 0 30036 0
+2 0 0
+#30037
+protoplasm plasm ball~
+a ball of protoplasm~
+A ball of protoplasm floats in the air.~
+~
+13 0 1
+0 0 0 0
+0 0 0
+#30039
+quest card~
+a quest card~
+A small silvery card lies on the floor.~
+~
+34 0 1
+0 0 0 0
+5 5 0
+#30040
+quest machine~
+the quest-making machine~
+A small machine sits on the floor.~
+~
+35 0 0
+0 0 0 0
+5 5 0
+#30041
+protoplasm plasm ball~
+a ball of protoplasm~
+A ball of protoplasm floats in the air.~
+~
+13 0 1
+0 0 0 0
+0 0 0
+#30042
+ashes dust %s~
+a pile of ashes~
+A pile of ashes lie here.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#30043
+walln~
+a wall of flowing blood~
+A wall of flowing blood blocks your way north.~
+~
+25 64 0
+100000 100000 13 0
+5000 10 0
+#30044
+walls~
+a wall of flowing blood~
+A wall of flowing blood blocks your way south.~
+~
+25 64 0
+100000 100000 13 0
+5000 10 0
+#30045
+walle~
+a wall of flowing blood~
+A wall of flowing blood blocks your way east.~
+~
+25 64 0
+100000 100000 13 0
+5000 10 0
+#30046
+wallw~
+a wall of flowing blood~
+A wall of flowing blood blocks your way west.~
+~
+25 64 0
+100000 100000 13 0
+5000 10 0
+#30047
+walld~
+a wall of flowing blood~
+A wall of flowing blood blocks your way down.~
+~
+25 64 0
+100000 100000 13 0
+5000 10 0
+#30048
+wallu~
+a wall of flowing blood~
+A wall of flowing blood blocks your way up.~
+~
+25 64 0
+100000 100000 13 0
+5000 10 0
+#9600
+Medalion of Pain~
+a small shiny medalion~
+A small shiny medalion on a black ribbon lies here
+~
+~
+9 1 4
+0 0 0 0
+0 0 0
+#27056
+test~
+test~
+Test
+~
+~
+9 0 0
+0 0 0 0
+0 20000 0
+A
+13 50
+A
+0 50
+#27206
+bad~
+bad~
+Something bad
+~
+~
+5 0 8193
+0 0 0 0
+0 0 0
+#27208
+nookie~
+a tasty-looking chocolate nookie~
+Someone has dropped a delicious-looking chocolate nookie here.
+~
+~
+26 0 1
+35 81 28 0
+0 990 0
+#22222
+gate magical rift~
+a swirling rift of energy~
+A swirling rift of energy is floating above the ground here.~
+~
+12 0 0
+0 0 0 0
+1000 250 0
+#22223
+shimmering gate moon moongate~
+a shimmering moongate~
+A shimmering moongate hovers above the ground here.~
+~
+12 0 0
+0 0 0 0
+6 250 0
+#22224
+demonic gate~
+a demonic gate~
+A demonic gate is here humming in the air.~
+~
+27 0 0
+102 0 0 0
+1000 300 0
+#10101
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#10102
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#0
+
+
+
+#ROOMS
+#30000
+Hell~
+You are standing in hell.
+~
+0 16396 1
+S
+#30001
+The Dark Crypt~
+You are standing within a small dark crypt.
+~
+0 1032 0
+D4
+Above you is the temple altar.
+~
+~
+0 -1 3054
+T
+lights!~
+~
+~
+|all*~
+1 0 0
+T
+&want*pie*~
+$p appears in $n's hands.~
+$p appears in your hands.~
+all~
+32 3009 0
+T
+|drink*water*~
+~
+~
+all~
+4096 17 0
+S
+#30002
+The Disconnection Room~
+This is the room where everyone goes just before they quit.  If you are a 
+mortal you should *NOT* be here, so please get out...NOW.
+~
+0 12 1
+T
+|hell*~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 30000 0
+S
+#30003
+The elevator~
+You are standing inside a small elevator.
+~
+0 12 1
+T
+|open*~
+~
+~
+all~
+512 0 0
+T
+|close*~
+~
+~
+all~
+1024 0 0
+T
+|ground*bottom*0*~
+~
+~
+all~
+2048 30004 0
+T
+|one*first*1*~
+~
+~
+all~
+2048 30005 0
+T
+|two*second*2*~
+~
+~
+all~
+2048 30006 0
+T
+|three*third*3*~
+~
+~
+all~
+2048 30007 0
+S
+#30004
+Ground floor~
+You are standing on the ground floor.
+~
+0 12 1
+T
+|open*~
+~
+~
+all~
+512 0 0
+T
+|close*~
+~
+~
+all~
+1024 0 0
+S
+#30005
+First floor~
+You are standing on the first floor.
+~
+0 12 1
+T
+|open*~
+~
+~
+all~
+512 0 0
+T
+|close*~
+~
+~
+all~
+1024 0 0
+S
+#30006
+Second floor~
+You are standing on the second floor.
+~
+0 12 1
+T
+|open*~
+~
+~
+all~
+512 0 0
+T
+|close*~
+~
+~
+all~
+1024 0 0
+S
+#30007
+Third floor~
+You are standing on the third floor.
+~
+0 12 1
+T
+|open*~
+~
+~
+all~
+512 0 0
+T
+|close*~
+~
+~
+all~
+1024 0 0
+S
+#30008
+The object room~
+~
+0 12 1
+S
+#30050
+Heaven~
+You are standing in heaven.
+~
+0 16396 1
+S
+#9675
+Questmaster's Room~
+As you walk in to the room you can see posters filling up
+the walls.  A full size fruit machine stands in the corner
+just waiting for someone to fill it up.  The shelves are
+filled with more than 1000 CD's of all types of music, and
+there are even some old records as well.  As you walk
+further into the room you can see 2 networked PC's with
+Quake 2 running.  The Hi-Fi in the corner is blasting out
+some thumpy club music.  You can just about see a piece of
+carpet, but thats all.
+ 
+~
+0 16900 0
+S
+#9676
+Questmasters Bedroom~
+You are now in Questmasters Bedroom, in the center of the room
+there is a large double bed.  There are two bedside cabinets
+at either side of the bed, each with it's own lamp.  There is
+also a radio built into the head of the bed.  In one corner
+there is also a large glass fronted wardrobe which is full of
+Jeans, T-Shirts and Shirts.  The curtains are a light blue
+colour, slightly faded due to the sunshine coming through the
+window.  You also notice an en-suite bathroom to the east.
+~
+0 16900 0
+S
+#6650
+~
+~
+0 4 0
+S
+#27202
+#r-=#eDarkBlade#n#r=- DarkBlade room of death~
+~
+0 16388 0
+S
+#27203
+#r-=#eDarkBlade#r=- Healing Room~
+~
+0 17412 0
+S
+#27204
+#r-=#eDarkBlade#r=- Lost Souls~
+~
+0 16388 0
+S
+#27205
+#r-=#eDarkBlade#r=- Hell~
+~
+0 16384 0
+D5
+~
+~
+0 0 30000
+S
+#27206
+rose no more~
+~
+0 16388 0
+S
+#27207
+Castle Black Rose Healing Room~
+~
+0 16384 0
+D1
+~
+~
+0 0 27206
+S
+#27208
+Castle Black Rose Sparring Room~
+~
+0 16384 0
+D3
+~
+~
+0 0 27206
+S
+#27209
+Castle Black Rose Alter~
+~
+0 16384 0
+D2
+~
+~
+0 0 27206
+S
+#27210
+Castle Black Rose Entrance~
+~
+0 16384 0
+D0
+~
+~
+0 0 27206
+S
+#27211
+Dragoneer Recall~
+~
+0 16384 0
+D0
+~
+~
+0 0 27214
+D1
+~
+~
+0 0 27213
+D2
+~
+~
+0 0 27215
+D3
+~
+~
+0 0 27212
+D4
+~
+~
+0 0 3001
+S
+#27212
+Dragoneer Healing Room~
+~
+0 16384 0
+D1
+~
+~
+0 0 27211
+S
+#27213
+Dragoneer Sparring Room~
+~
+0 16384 0
+D3
+~
+~
+0 0 27211
+S
+#27214
+Dragoneer Alter~
+~
+0 16384 0
+D2
+~
+~
+0 0 27211
+S
+#27215
+Dragoneer Castle Entrance~
+~
+0 16384 0
+D0
+~
+~
+0 0 27211
+S
+#27216
+Alpha & Omega Recall~
+~
+0 16384 0
+D0
+~
+~
+0 0 27219
+D1
+~
+~
+0 0 27218
+D2
+~
+~
+0 0 27220
+D3
+~
+~
+0 0 27217
+D4
+~
+~
+0 0 3001
+S
+#27217
+Alpha & Omega Healing Room~
+~
+0 16384 0
+D1
+~
+~
+0 0 27216
+S
+#27218
+Alpha & Omega Sparring Room~
+~
+0 16384 0
+D3
+~
+~
+0 0 27216
+S
+#27219
+Alpha & Omega Alter~
+~
+0 16384 0
+D2
+~
+~
+0 0 27216
+S
+#27220
+Alpha & Omega Castle Entrance~
+~
+0 16384 0
+D0
+~
+~
+0 0 27216
+S
+#27221
+Fallen Hall~
+The most depressing scene, architectural splendour hidden by drapes of
+darkness, surrounds you.  This place creates a mood that chills you to the
+bone as if the darkness were choking the very glamour of the hall.  Despite
+the dark setting you can make out most of the room, there is a large table
+running it's length with a chair every few paces around the edge, there are
+several paintings hanging on the walls most of which seem to cry out for
+freedom from the smothering darkness.  Elegant pillars of marble reach to
+the domed, sculpted ceiling and glass display cases protect various
+treasures from the dank air.  Considering the atmosphere of this place you
+are surprised that there could be people here enjoying their meals.  There
+are several of the people sitting around the great table talking and
+socialising as if they were at a dinner party.  
+~
+0 16384 0
+D1
+~
+~
+0 0 27223
+D3
+~
+~
+0 0 27224
+D4
+~
+~
+0 0 27225
+D5
+~
+~
+0 0 27222
+S
+#27222
+Dungeon~
+As you descend into the darkness you start to hear the noise of human
+suffering, screams of torture interspersed with the sound of breaking bones
+and snapped tendons.  You finally reach the door and can't help but pause
+before entering.  A long corridor stretches out in front of you with
+connecting cells on either side, all of which are barred with solid iron
+poles driven into the ground and ceiling.  Several of the prisoners are
+banging on the bars begging to be released, only to be quietened by the whip
+of the gaoler.  The stench of human defecation fills the air making you gag
+and retch, some of the captives attempt to throw the contents of their
+commodes at you, most of which miss.  
+~
+0 16384 0
+D4
+~
+~
+0 0 27221
+S
+#27223
+Fallen Gallery~
+You are now in a room, which does more to lessen your mood and confuse
+you about the nature of this place.  It appears to be some sort of gallery
+as pictures and sculptures adorn the walls and sit on plinths obviously
+designed to accentuate the works that accompany them.  Several of the
+pictures are actually very good pieces of skill but whether or not you would
+call them art is another thing.  Invariably these pieces depict death or
+violence of some kind, ranging from scenes of war to executions and acts of
+murder and sacrifice.  None of them are in anyway pleasing to the eye.  You
+decide to investigate some of the sculptures and find no respite, the
+statues are of twisted angels, their wings burned and broken, looking
+towards the heavens open mouthed as if calling for forgiveness.  Some of
+them have arrows jutting from their bodies fired from the bows of fellow
+angels.  
+~
+0 16384 0
+D2
+~
+~
+0 0 9535
+D3
+~
+~
+0 0 27221
+S
+#27224
+Throne Room~
+Upon entering this room its purpose becomes instantly plain, a large
+white throne of purest samite stands at the far end.  Light cascades from
+every surface creating slowly spinning myriad beams to reflect off the walls
+and ceiling.  Squinting slightly you approach the throne taking slow steps
+so as not to miss any of the spectacle you are witnessing.  The throne is
+sculpted in such a way as to make any one who would sit in it appear to
+possess wings, but why someone would want to create such an illusion is
+beyond you.  As you get closer you can see that the throne is decorated with
+plush materials varying from animal furs to silk cushions, trays holding
+different culinary delicacies sit in place at either side.  
+~
+0 16384 0
+D1
+~
+~
+0 0 27221
+S
+#27225
+The Fallen Healer~
+,u,   ,;!!!`,;;.
+                 ,$F` ;<!!',;<!!'',<
+                 $$   !'.<!!!!`;<!',;; ,cc,
+                 $$   ! ;!!'.;!'`,<!'od$$$>
+                 `$>  ! !!! !!'<!!! $$$$P"
+                .,,.    "!! !! !!! J$$",dMMn,.
+                `!!!!!!!!,' !!'!!'d$$F,MMMMMMMMMn,.
+                         `'-`''` d$$$>MMMMMMMMMMMMMMbn,
+                              `-d$$$$;'""TTTMMMMMMMMMMMMMn,
+                                <$$F",<!!!;;;;,,.""TTTMMMMMMMmn,.
+                                 `' !!!!!!!!!!!!!!!!>;,.`""TTMMMMMn,
+                                    !!!!!!!!!!!!!!!!!!!!!;       """"===.
+                                    !!!!!!!!!!!!!!!!!!!!!!!>,
+                                    !!!!!!!!!!!!!!!!!!!!!!!!!!
+    .::::::::..     ....            !!!!!!!!!!!!!!!!!!!!!!!!!'
+ ::::::::::::::::::::::::::..:      `!!!!!!!!!!!!!!!!!!!!!!!
+::::::::::::::::::::::::::::::       `<!!!!!!!!!!!!!!!!!!'
+::::::::::::::::::::::::::::::       $c`!!!!!!!!!!!!!!!',dc
+:::::::::::::'``.,,.`::::::::::.`    $$bc,`'!!!!!!!'`,cd$$$,
+``':::::::',u$$$$$$$$c`::::::::`     ?$$$$$bc,,,,,c$$$$$$$$h
+c,$i`::::'d$$$$$$$$$$$c`'`,,`':>-c$$$c`$$$$$$$$$$$$$$$$$$$$$
+$$ $':::: $$$$$$$$$$$$$$$$$$P :: 3$$$$$.?$$$$$$$$$$$$$$$$$$$
+$. $'::',c$$??$uc"?$$$$$$$$$ ::'c$$$$$$$bc.?$$$$$$$$$$$$$$"
+3Ju? :,c$$""" `"?$c?$$$$$$$F.:,<$$$$$$$$$$$bu"??$$$$$$$$P'
+`? dc $$$$$bc,.  "$b?$,PCdP" !! $$$$$$$$$$$$$$$$cu$$$$$b$
+$FL`$$$$$$$$$,%-  `?",d""  ;!!!,?$$$$$$$$$$$$$$$$$$$$$$$'
+$:$K3$$$$$$$$$uccd$$$r   '!!!!!!> ?$$$$$$$$$$$$$$$$$$$$'
+"$$$$$$$$$$$$$$$$$$$F,dP !!!!!!!!!.?$$$$$$$$$$$$$$$$$P'
+<$$$$$$$$$P??z;c?$$F'",<!!!!!!!!!!!>"?$$$$$$$$$$$$$F
+`$$$$$$F;=cuC?CC$,"?,!!!!!!!!!!!!!!!!>`?$$$$$$$$P"
+,?$$$$$$?%c;;;(?(';!!!!!!!!!!!!!!!!!!!!!.??$$PF_
+$,?$$$$$$$$$ec`";!!!!!!!!!!!!!!!!!!!!!!!!!>. -!>'
+$$h`?$$$$$$$$$F!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!;
+$$$$ ?$$$$$$<$F:`'!!!!!!!!!!!!!!!!!!!!!!!!'''''
+$?CUdh:.?"""`" !!;`<!!!!!!!!!!!!''''```
+?$$$?F'!!!!!!'''!!!>.`!!!!!!!(;;/'`
+$TCc$F:!!!'.:<!::.`<!.<!!!!!!!!'
+V$$$$ !!'.!!!!!!!!!:`< !!!!!'`
+$$$$$ ! <!!!!!!!!!!!!;;!!!'
+$$$$F' <!!!!!!!!!!`!!!!!'
+$$$$ `;!!!!!!!!!!! !!!
+$$$F';!!!!!!!!!!! !'
+$$P !!!!!!!!!!!! '
+$F <!!!!!!!!!!>
+F;!!!!!!!!!!!!
+ 
+ 
+~
+0 17408 0
+D5
+~
+~
+0 0 27221
+S
+#27230
+~
+~
+0 16384 0
+D0
+~
+~
+0 0 27231
+D1
+~
+~
+0 0 27232
+D2
+~
+~
+0 0 27235
+D3
+~
+~
+0 0 27233
+D5
+~
+~
+0 0 27234
+S
+#27231
+Healer~
+~
+0 17408 0
+D2
+~
+~
+0 0 27230
+S
+#27232
+~
+~
+0 16384 0
+D3
+~
+~
+0 0 27230
+S
+#27233
+~
+~
+0 16384 0
+D1
+~
+~
+0 0 27230
+S
+#27234
+~
+~
+0 16896 0
+D4
+~
+~
+0 0 27230
+S
+#27235
+~
+~
+0 16384 0
+D0
+~
+~
+0 0 27230
+S
+#10143
+#rAn#Rge#rLL#Rus's #YPers#yonal #BHeLL#n~
+You Stand in a room which is engulfed with an unearthly flame. Wafts of lava shoot forth from the ground, etching your armor.A #rCrimson#n red blood paints 
+ the walls. In The Center of the Room is a Demonic Pentagram which is Surrounded By Eldritch Fires.
+               #w        ..-=------=-..
+               #w      *'              `*
+               #w   ,' #r\-=._      _.=-/ ',
+               #w   7   #r\   -=__=-   /   T
+               #w   |    #r\_.=-  -=._/    |
+               #w   |_.=- #r\        / -=._|
+               #w   L------#r\------/------7
+               #w   `.      #r\    /      .'
+               #w      *,     #r\  /     ,*
+               #w      ``-=__\/_#r_=-''
+#n
+~
+0 24588 0
+S
+#0
+
+
+
+#SPECIALS
+M 30000 spec_eater Load to: a hell hound
+M 30002 spec_gremlin_born Load to: a nasty little gremlin
+M 30003 spec_gremlin_born Load to: a big ugly gremlin
+M 30004 spec_gremlin_born Load to: a huge vicious gremlin
+M 30005 spec_gremlin_original Load to: a cute little fluffy creature
+M 30011 spec_zombie_lord Load to: the Zombie Lord
+M 30050 spec_eater Load to: a beautiful white unicorn
+M 9603 spec_cast_mage Load to: a tall thin monkey
+M 27201 spec_cast_adept Load to: #r-=#eDarkBlade#r=- Healer
+M 27203 spec_cast_adept Load to: The Black Rose healer
+M 27204 spec_cast_adept Load to: The Dragoneer Healer
+M 27205 spec_cast_adept Load to: The Alpha & Omega Healer
+M 27206 spec_cast_judge Load to: Black Rose Guardian
+M 27221 spec_cast_adept Load to: The Angel
+S
+
+
+
+#RESETS
+O 0 30015 0 30003
+O 0 30016 0 30004
+O 0 30017 0 30005
+O 0 30018 0 30006
+O 0 30019 0 30007
+O 0 30040 0 30001
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

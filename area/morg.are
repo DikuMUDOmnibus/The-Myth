@@ -1,0 +1,268 @@
+#AREADATA
+Name        Morglum   Morglums House~
+Builders    None~
+VNUMs       29200 29214
+Security    1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#29201
+bed~
+the large fourposter bed~
+A large four poster bed lies against the far wall.~
+~
+12 0 0
+0 0 0 0
+500 0 0
+Q
+(null)~
+You pull the covers back over your head.~
+You pull back the covers of the bed and climb in.~
+$n pulls the covers back over $s head.~
+(null)~
+$n pulls back the covers of the bed and climbs in.~
+136 29213
+#0
+
+
+
+#ROOMS
+#29200
+Entranceway to a Large Mansion~
+You are standing at the entrance of what seems a large sandstone mansion.
+There are terracotta color tiles on the floor, and 2 large marble columns
+flanking each side of it...  
+~
+0 0 1
+D0
+~
+~
+0 -1 29201
+S
+#29201
+The Hallway~
+Magnificant works of art cover these walls, they look as if they should
+be in an art gallery.  There are persion rugs covering the floor.  
+~
+0 8 0
+D0
+~
+~
+0 -1 29203
+D2
+~
+~
+0 -1 29200
+D3
+~
+~
+0 -1 29202
+S
+#29202
+The Lounge~
+You are standing in the lounge.  There is a large picture window on the
+far wall, giving you a wonderful view of the landscape that the house is
+built in.  A large log fire is burning from within the fireplace.
+~
+0 8 0
+D1
+~
+~
+0 -1 29201
+S
+#29203
+The Hallway~
+As you walk further along this hallway, you taste the smell of cooking
+coming from the kitchen.  
+~
+0 8 0
+D0
+~
+~
+0 -1 29206
+D1
+~
+~
+0 -1 29205
+D2
+~
+~
+0 -1 29201
+D3
+~
+~
+0 -1 29204
+S
+#29204
+The Kitchen~
+There is a large table situated in the centre of this room.  There is a
+large black oven on the far wall, where Morglum does all of his cooking. 
+Above your head there is a rack with all kinds of kitchen utensils hanging
+from it.  
+~
+0 8 0
+D1
+~
+~
+0 -1 29203
+S
+#29205
+The Dining Room~
+There is a large oak table in the centre of the room, with space to sit 8
+people.  In the centre of the table is a large arrangement of flowers.  
+~
+0 8 0
+D3
+~
+~
+0 -1 29203
+S
+#29206
+The bottom of the Stairs~
+You are standing at the bottom of a flight of stairs.
+~
+0 8 0
+D2
+~
+~
+0 -1 29203
+D4
+~
+~
+0 -1 29207
+S
+#29207
+Top of the Stairs~
+You are standing at the top of the flight of stair, sure does seem a long
+way down...  
+~
+0 8 0
+D0
+~
+~
+0 -1 29208
+D5
+~
+~
+0 -1 29206
+S
+#29208
+The Upstairs Hallway~
+You are standing on the first floor of the mansion.  The hallway
+continues to the north, there are doors on either side of it.  
+~
+0 8 0
+D0
+~
+~
+0 -1 29211
+D1
+~
+~
+0 -1 29210
+D2
+~
+~
+0 -1 29207
+D3
+~
+~
+0 -1 29209
+S
+#29209
+The Bathroom~
+You are standing in one of the most ornate bathrooms you have ever seen. 
+There are what seems to be gold plated taps, on the bath and sink.  The
+floor is covered with marble.  There is a shower in the far corner.  This
+room looks like its used to relax from a hard days work.  
+~
+0 8 0
+D1
+~
+~
+0 -1 29208
+S
+#29210
+The Spare Bedroom~
+This is the Spare Bedroom.  There is a cupboard in the corner, and a
+single bed here.  
+~
+0 8 0
+D3
+~
+~
+0 -1 29208
+S
+#29211
+The Upstairs Hallway~
+You find yourself at the end of the hallway.
+~
+0 8 0
+D0
+~
+~
+0 -1 29212
+D2
+~
+~
+0 -1 29208
+S
+#29212
+The Master Bedroom~
+You find yourself in a very cozy looking room.  There is a log fire
+burning from within the fireplace.  As you look out of the window of this
+room you see the picturesque countryside that this house is situtated in. 
+~
+0 1672 0
+D2
+~
+~
+0 -1 29211
+S
+#29213
+Inside the Bed~
+You find yourself inside a very comfortable bed...
+~
+0 1676 0
+T
+|love*~
+$n #pglows#n and vanishes suddenly.~
+A warm #pglow#n enters the room.~
+|morglum*luna*~
+16384 29214 0
+S
+#29214
+The Secret Room~
+You are standing within Morglums and Luna's secret room.  Now I wonder what
+they do in here...  *grin* :) 
+~
+0 1676 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 29201 0 29212
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

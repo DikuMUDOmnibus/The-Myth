@@ -1,0 +1,49 @@
+The Myth
+
+David Spink - Morglum@phreaker.net
+
+=== Copyright and License Terms
+
+Diku Mud is copyright (C) 1990, 1991 by Sebastian Hammer, Michael Seifert,
+Hans Henrik St{rfeldt, Tom Madsen, and Katja Nyboe.  Their license agreement
+is in the file 'license.doc'.
+
+Merc Diku Mud is a derivative of the original Diku Mud and is subject to their
+copyright and license agreement.  Merc Diku Mud contains substantial
+enhancements to Diku Mud.  These enhancements are copyright 1992, 1993 by
+Michael Chastain, Michael Quan, and Mitchell Tse.
+
+The Myth is a derivative of God Wars and Merc2.1 and is subject to their copyright
+and license agreement, as well as those of Diku.  The Myth contains numerous
+code changes and additions.  With the exception of the prompt code, ALL other changes
+were done by Morglum.
+
+In order to use The Myth you must follow the Diku license, Merc license,
+God Wars license and The Myth license.
+
+The exact terms of the Diku license are in the file 'license.doc'.  A 
+summary of these terms is:
+
+	-- No resale or operation for profit.
+	-- Original author's names must appear in login sequence.
+	-- The 'credits' command must report original authors.
+	-- You must notify the Diku creators that you are operating a Diku mud.
+
+The exact terms of the Merc license are in the file 'license.txt'.  A
+summary of these terms is:
+
+	-- Copyrights must remain in original source.
+	-- 'Help merc' must report the Merc help text, as shipped.
+
+The God Wars Deluxe license terms are:
+        -- Copyrights must remain UNCHANGED in original source.
+        -- The original Merc authors must be displayed in the login sequence.
+        -- The text 'God Wars was created by KaVir' must be displayed in the 
+           login sequence.
+
+The Myth license terms are:
+        -- Copyrights must remain UNCHANGED in original source.
+        -- The original Merc authors must be displayed in the login sequence.
+        -- 'Help themyth' and 'help myth' MUST report The Myths help text, as shipped.
+        -- The text 'The Myth was created by Morglum' MUST be displayed in the
+           login sequence.

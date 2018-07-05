@@ -1,0 +1,967 @@
+#AREADATA
+Name        Hohen~
+Builders    None~
+VNUMs       27700 27747
+Security    1
+End
+
+
+
+#MOBILES
+#27700
+spirit soldier~
+spirit soldier~
+The spirit of a long-dead solier sees you and attacks!
+~
+The spirit seems to have inhabited the body of a tourist visiting the fortress.
+~
+97 128 -1000 S
+84 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#27701
+Liam Mulkurrin~
+Liam Mulkurrin~
+Liam Mulkurrin the damned priest stands here observing his work
+~
+Liam Mulkurrin seems to be concentrating on his spells to control his damned creatures.
+~
+67 8322 -1000 S
+194 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#27702
+Fallen One vampire~
+A Fallen One~
+A Fallen One grins bloody fangs at you.
+~
+The Fallen One stands over 20 feet tall with blood constantly dripping from their claws and fangs. The truly hellish creatures spawned from hell.
+~
+39 40 -1000 S
+149 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#27703
+spirit soldier~
+spirit soldier~
+The spirit of a long-dead solier sees you and attacks!
+~
+The spirit seems to have inhabited the body of a tourist visiting the fortress.
+~
+99 168 -1000 S
+74 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#27704
+Azayoth~
+Azayoth~
+Azayoth is here guarding his earthly treasures
+~
+Azayoth stands 10' with arms, legs and other body parts sprouting from the most odd places. His body is covered in a green pus that oozes onto the floor.
+~
+99 680 -1000 S
+251 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#27700
+bo staff~
+a bo staff~
+A bo staff is here set against the wall~
+~
+5 0 8193
+0 1 6 7
+3 0 0
+#27701
+broad sword~
+a broad sword~
+A broad sword rests here.~
+~
+5 0 8193
+0 1 6 3
+4 0 0
+#27702
+flail~
+a flail~
+A flail is mounted on the wall here~
+~
+5 0 8193
+0 1 6 8
+2 0 0
+#27703
+rapier~
+a silver rapier~
+A silver rapier is here in the corner~
+~
+5 0 8193
+0 1 6 11
+2 0 0
+A
+2 2
+#27704
+book shadows~
+book of shadows~
+The Book of Shadows lies here.~
+~
+2 65 8193
+0 6 27 26
+1 0 0
+#27705
+spear~
+a large jagged spear~
+A large jagged spear lies on the floor discarded.~
+~
+5 0 8193
+0 1 6 2
+5 0 0
+#27706
+bandana~
+a red bandana~
+A red bandana is here crumpled and thrown away.~
+~
+9 4096 17
+0 1 6 11
+1 0 0
+A
+17 6
+#27707
+lance of Lohginous~
+lance of Lohginous~
+The Lance of Lohginous~
+~
+5 2769 8193
+0 1 6 11
+30 0 0
+A
+18 10
+A
+19 10
+A
+13 500
+A
+17 300
+#27708
+axe Rauchleim~
+rauchleim~
+The ancient axe "Rauchleim" lies here.~
+~
+5 2769 8193
+0 1 6 1
+40 0 0
+A
+18 10
+A
+19 10
+A
+17 300
+A
+1 6
+#0
+
+
+
+#ROOMS
+#27700
+Fortress Entrance~
+Before you is one of the largest stone fortresses in the world.  The
+fortress Hohensalzburg has stood here throughout the ages as a landmark of
+strength and fortitude helping the citizens of Salzburg defend themselves
+against all opposition.  However this usually peaceful tourist spot has
+somehow taken a dark shadow over it.  It feels evil and malicious.  Above
+the castle gates you see a large prehistoric bird circling above and the
+sounds of marching and rusty armor from inside.  
+~
+0 0 1
+D0
+~
+~
+0 -1 27701
+S
+#27701
+Entryway~
+Inside this entryway the walls are adorned with ornate tapestries
+depecting the many wars the fortress has helped to win, the various armies
+it has held at bay, and the military leaders that were stationed here.  The
+ceiling arches upward in a semi-pointed dome painted on the inside in early
+16th century-style paintings.  To the north is a massive Audience chamber,
+to the east and west are hallways and south takes you outside.  
+~
+0 8 0
+D0
+~
+~
+0 -1 27702
+D1
+~
+~
+0 -1 27707
+D2
+~
+~
+0 -1 27700
+D3
+~
+~
+0 -1 27713
+D4
+~
+~
+0 -1 27718
+S
+#27702
+Main Audience Chamber~
+~
+0 8 0
+D0
+~
+~
+0 -1 27703
+D2
+~
+~
+0 -1 27701
+S
+#27703
+The Stage~
+~
+0 8 0
+D1
+~
+~
+0 -1 27704
+D2
+~
+~
+0 -1 27702
+S
+#27704
+A Secret Room~
+~
+0 8 0
+D1
+~
+~
+0 -1 27705
+D3
+~
+~
+0 -1 27703
+S
+#27705
+A Long Passageway~
+~
+0 9 1
+D0
+~
+~
+0 -1 27706
+D3
+~
+~
+0 -1 27704
+S
+#27706
+A Long Passageway~
+~
+0 9 1
+D2
+~
+~
+0 -1 27705
+D5
+~
+~
+0 -1 27711
+S
+#27707
+A Hallway~
+~
+0 8 0
+D1
+~
+~
+0 -1 27708
+D3
+~
+~
+0 -1 27701
+S
+#27708
+A Hallway~
+~
+0 8 0
+D0
+~
+~
+0 -1 27710
+D1
+~
+~
+0 -1 27709
+D3
+~
+~
+0 -1 27707
+S
+#27709
+Sparring Room~
+~
+0 8 0
+D3
+~
+~
+0 -1 27708
+S
+#27710
+A Hallway~
+~
+0 8 0
+D0
+~
+~
+0 -1 27712
+D2
+~
+~
+0 -1 27708
+S
+#27711
+Hidden Vault~
+~
+0 8 0
+D4
+~
+~
+0 -1 27706
+S
+#27712
+Weapons Storage~
+~
+0 8 0
+D2
+~
+~
+0 -1 27710
+S
+#27713
+A Hallway~
+~
+0 8 0
+D1
+~
+~
+0 -1 27701
+D3
+~
+~
+0 -1 27714
+S
+#27714
+A Hallway~
+~
+0 8 0
+D0
+~
+~
+0 -1 27716
+D1
+~
+~
+0 -1 27713
+D3
+~
+~
+0 -1 27715
+S
+#27715
+The Infirmary~
+~
+0 8 0
+D1
+~
+~
+0 -1 27714
+S
+#27716
+A Hallway~
+~
+0 8 0
+D0
+~
+~
+0 -1 27717
+D2
+~
+~
+0 -1 27714
+S
+#27717
+Barracks~
+~
+0 8 0
+D2
+~
+~
+0 -1 27716
+S
+#27718
+Upper Entryway~
+~
+0 8 0
+D0
+~
+~
+0 -1 27719
+D5
+~
+~
+0 -1 27701
+S
+#27719
+Main Corridor~
+~
+0 8 0
+D0
+~
+~
+0 -1 27720
+D1
+~
+~
+0 -1 27729
+D2
+~
+~
+0 -1 27718
+D3
+~
+~
+0 -1 27743
+S
+#27720
+Southern Corner of the Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 -1 27725
+D1
+~
+~
+0 -1 27722
+D2
+~
+~
+0 -1 27719
+D3
+~
+~
+0 -1 27721
+S
+#27721
+South-West Corner of the Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 -1 27724
+D1
+~
+~
+0 -1 27720
+S
+#27722
+South-East Corner of the Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 -1 27723
+D3
+~
+~
+0 -1 27720
+S
+#27723
+Eastern Corner of the Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 -1 27727
+D1
+~
+~
+0 -1 27732
+D2
+~
+~
+0 -1 27722
+D3
+~
+~
+0 -1 27725
+S
+#27724
+Western Corner of the Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 -1 27726
+D1
+~
+~
+0 -1 27725
+D2
+~
+~
+0 -1 27721
+D3
+~
+~
+0 -1 27740
+S
+#27725
+Middle of the Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 -1 27728
+D1
+~
+~
+0 -1 27723
+D2
+~
+~
+0 -1 27720
+D3
+~
+~
+0 -1 27724
+S
+#27726
+North-West Corner of the Courtyard~
+~
+0 0 0
+D1
+~
+~
+0 -1 27728
+D2
+~
+~
+0 -1 27724
+S
+#27727
+North-East Corner of the Courtyard~
+~
+0 0 0
+D2
+~
+~
+0 -1 27723
+D3
+~
+~
+0 -1 27728
+S
+#27728
+Northern Corner of the Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 -1 27736
+D1
+~
+~
+0 -1 27727
+D2
+~
+~
+0 -1 27725
+D3
+~
+~
+0 -1 27726
+S
+#27729
+Inside the Fortress Walls~
+You are inside the stone walls protecting the fortress from invaders.
+~
+0 0 1
+D1
+~
+~
+0 -1 27730
+D3
+~
+~
+0 -1 27719
+S
+#27730
+Inside the Fortress Walls~
+You are inside the stone walls protecting the fortress from invaders. There is a ladder here going up into the turret.
+~
+0 0 0
+D0
+~
+~
+0 -1 27731
+D3
+~
+~
+0 -1 27729
+D4
+~
+~
+0 -1 27744
+S
+#27731
+Inside the Fortress Walls~
+You are inside the stone walls protecting the fortress from invaders.
+~
+0 0 1
+D0
+~
+~
+0 -1 27732
+D2
+~
+~
+0 -1 27730
+S
+#27732
+Inside the Fortress Walls~
+You are inside the stone walls protecting the fortress from invaders. To the west is the courtyard.
+~
+0 0 1
+D0
+~
+~
+0 -1 27733
+D2
+~
+~
+0 -1 27731
+D3
+~
+~
+0 -1 27723
+S
+#27733
+Inside the Fortress Walls~
+You are inside the stone walls protecting the fortress from invaders.
+~
+0 0 1
+D0
+~
+~
+0 -1 27734
+D2
+~
+~
+0 -1 27732
+S
+#27734
+Inside the Fortress Walls~
+You are inside the stone walls protecting the fortress from invaders. There is a ladder here going up into the turret.
+~
+0 0 1
+D2
+~
+~
+0 -1 27733
+D3
+~
+~
+0 -1 27735
+D4
+~
+~
+0 -1 27745
+S
+#27735
+Inside the Fortress Walls~
+You are inside the stone walls protecting the fortress from invaders.
+~
+0 0 1
+D1
+~
+~
+0 -1 27734
+D3
+~
+~
+0 -1 27736
+S
+#27736
+Inside the Fortress Walls~
+You are inside the stone walls protecting the fortress from invaders. To the south is the courtyard.
+~
+0 0 1
+D1
+~
+~
+0 -1 27735
+D2
+~
+~
+0 -1 27728
+D3
+~
+~
+0 -1 27737
+S
+#27737
+Inside the Fortress Walls~
+You are inside the stone walls protecting the fortress from invaders.
+~
+0 0 1
+D1
+~
+~
+0 -1 27736
+D3
+~
+~
+0 -1 27738
+S
+#27738
+Inside the Fortress Walls~
+You are inside the stone walls protecting the fortress from invaders. There is a ladder here going up into the turret.
+~
+0 0 1
+D1
+~
+~
+0 -1 27737
+D2
+~
+~
+0 -1 27739
+D4
+~
+~
+0 -1 27746
+S
+#27739
+Inside the Fortress Walls~
+You are inside the stone walls protecting the fortress from invaders.
+~
+0 0 1
+D0
+~
+~
+0 -1 27738
+D2
+~
+~
+0 -1 27740
+S
+#27740
+Inside the Fortress Walls~
+You are inside the stone walls protecting the fortress from invaders. To the east is the courtyard.
+~
+0 0 1
+D0
+~
+~
+0 -1 27739
+D1
+~
+~
+0 -1 27724
+D2
+~
+~
+0 -1 27741
+S
+#27741
+Inside the Fortress Walls~
+You are inside the stone walls protecting the fortress from invaders.
+~
+0 0 1
+D0
+~
+~
+0 -1 27740
+D2
+~
+~
+0 -1 27742
+S
+#27742
+Inside the Fortress Walls~
+You are inside the stone walls protecting the fortress from invaders. There is a ladder here going up into the turret.
+~
+0 0 0
+D0
+~
+~
+0 -1 27741
+D1
+~
+~
+0 -1 27743
+D4
+~
+~
+0 -1 27747
+S
+#27743
+Inside the Fortress Walls~
+You are inside the stone walls protecting the fortress from invaders.
+~
+0 0 1
+D1
+~
+~
+0 -1 27719
+D3
+~
+~
+0 -1 27742
+S
+#27744
+South-Eastern Turret~
+~
+0 0 1
+D5
+~
+~
+0 -1 27730
+S
+#27745
+North-Eastern Turret~
+~
+0 0 1
+D5
+~
+~
+0 -1 27734
+S
+#27746
+North-Western Turret~
+~
+0 0 1
+D5
+~
+~
+0 -1 27738
+S
+#27747
+South-Western Turret~
+~
+0 0 1
+D5
+~
+~
+0 -1 27742
+S
+#0
+
+
+
+#SPECIALS
+M 27701 spec_cast_undead Load to: Liam Mulkurrin
+M 27702 spec_poison Load to: A Fallen One
+M 27704 spec_cast_undead Load to: Azayoth
+S
+
+
+
+#RESETS
+O 0 27700 0 27712
+O 0 27701 0 27712
+O 0 27702 0 27712
+O 0 27703 0 27712
+M 0 27701 1 27725
+E 0 27704 0 16
+M 0 27700 2 27700
+E 0 27705 0 16
+E 0 27706 0 6
+M 0 27700 3 27701
+E 0 27706 0 6
+E 0 27701 0 16
+M 0 27703 1 27702
+E 0 27706 0 6
+E 0 27702 0 16
+M 0 27700 4 27708
+E 0 27706 0 6
+E 0 27700 0 16
+M 0 27703 2 27709
+E 0 27706 0 6
+E 0 27702 0 16
+M 0 27703 2 27709
+E 0 27706 0 6
+E 0 27703 0 16
+M 0 27700 5 27713
+E 0 27706 0 6
+E 0 27705 0 16
+M 0 27703 1 27712
+E 0 27706 0 6
+E 0 27705 0 16
+M 0 27703 7 27717
+E 0 27706 0 6
+M 0 27700 3 27719
+E 0 27706 0 6
+E 0 27700 0 16
+M 0 27703 2 27719
+E 0 27706 0 6
+E 0 27705 0 16
+M 0 27702 1 27721
+M 0 27702 2 27723
+M 0 27702 7 27725
+M 0 27702 1 27727
+M 0 27702 2 27728
+M 0 27700 4 27730
+E 0 27706 0 6
+E 0 27702 0 16
+M 0 27700 3 27732
+E 0 27706 0 6
+E 0 27701 0 16
+M 0 27700 2 27734
+E 0 27706 0 6
+M 0 27700 6 27737
+E 0 27706 0 6
+E 0 27703 0 16
+M 0 27703 1 27746
+E 0 27706 0 6
+E 0 27705 0 16
+M 0 27703 1 27747
+E 0 27706 0 6
+E 0 27705 0 16
+M 0 27703 1 27745
+E 0 27706 0 6
+E 0 27705 0 16
+M 0 27703 1 27744
+E 0 27706 0 6
+E 0 27705 0 16
+M 0 27704 1 27711
+O 0 27707 0 27711
+O 0 27708 0 27711
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

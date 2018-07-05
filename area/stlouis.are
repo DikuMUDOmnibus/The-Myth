@@ -1,0 +1,1092 @@
+#AREADATA
+Name        Saint Louis~
+Builders    None~
+VNUMs       31400 31437
+Security    1
+End
+
+
+
+#MOBILES
+#31400
+citizen~
+A Citizen~
+A citizen of Saint Louis stands here reading a newspaper.
+~
+A citizen of Saint Louis stands here reading a newspaper.
+~
+65 0 0 S
+57 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31401
+Raina waitress~
+Raina the waitress~
+A beautiful young waitress is here serving coffee.
+~
+Raina flashes you a wicked smile
+~
+67 0 -1000 S
+123 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#31402
+Marcus man business~
+Marcus~
+A small man in a business suit stands on the platform.
+~
+Marcus the pack alpha stands here wearing a pale blue linen suit jacket over black pants. A pale blue turtleneck completes the outfit matching nicely with the jacket.
+~
+67 168 -1000 S
+197 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31403
+Alfred bodyguard guard~
+Alfred~
+A large bodyguard stands here protecting his boss.
+~
+Alfred glares at you
+~
+67 0 -1000 S
+95 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31404
+Ronnie jogger woman~
+Ronnie~
+An attractive young woman is jogging down the street
+~
+Ronnie the private eye watches you closely.
+~
+65 0 1000 S
+125 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#31405
+Aubrey stripper~
+Aubrey~
+Aubrey the vampire stripper dances for you
+~
+Aubrey bares his fangs at you in disgust
+~
+67 0 -1000 S
+94 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31406
+vampire~
+A vampire~
+A vampire stands here motionless
+~
+A vampire stands here motionless
+~
+69 0 -1000 S
+66 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31407
+Anita Blake animator executioner~
+Anita Blake~
+Anita Blake stands here covered in chicken blood calling a zombie from the grave.
+~
+Anita Blake is a well fit, tough-as-nails vampire executioner and animator. She walks the walk and talks the talk. She never backs down from a challenge and always prevails when someone or everyone wants to kill her.
+~
+67 8360 1000 S
+248 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#31408
+lawyer~
+a lawyer~
+A lawyer stands her organizing papers for the corpse to sign.
+~
+A lawyer looks away
+~
+67 0 -1000 S
+54 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31409
+widow~
+The widow~
+A poor widow stands here mourning the loss of her husband
+~
+A poor widow stands here mourning the loss of her husband
+~
+67 0 1000 S
+56 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#31410
+Rashda woman~
+Rashda~
+A young woman waves you towards her.
+~
+Rashda smiles
+Rashda says 'Jean Claude's expecting you, go right in'
+Rashda waves you towards the tent.
+~
+67 0 -1000 S
+105 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#31411
+snake charmer~
+snake charmer~
+A snake charmer sits here playing his flute.
+~
+A snake charmer plays a tune for you
+~
+67 0 -1000 S
+66 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31412
+snake~
+The Snake~
+A massive snake sways back and forth for the charmer
+~
+A massive snake sways back and forth for the charmer
+~
+67 0 -1000 S
+202 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31413
+Jean Claude vampire~
+Jean Claude~
+Jean Claude stands here smiling at you.
+~
+Jean Claude is extremely attractive wearing tight black jeans and a lacey poets shirt hung open to expose his chest.
+~
+67 168 -1000 S
+204 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31414
+Yasmeen vampire~
+Yasmeen~
+Yasmeen sits on the couch holding Marguerite close
+~
+Yasmeen cackles at you.
+~
+67 168 -1000 S
+167 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#31415
+Marguerite~
+Marguerite~
+Marguerite glares at you afraid you'll take Yasmeen away from her.
+~
+Marguerite glares at you afraid you'll take Yasmeen away from her.
+~
+67 0 -1000 S
+122 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#31416
+Phillip~
+Phillip~
+Phillip is here chained to the wall and badly beaten
+~
+Phillip looks at you with fear in his eyes
+~
+67 0 1000 S
+102 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31417
+Valentine~
+Valentine~
+Valentine screams at you loudly and attacks!
+~
+Valentine always covers his hideous face with a drama mask never forgiving Anita Blake for scarring his prized smile.
+~
+99 0 -1000 S
+111 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31418
+Peggy~
+Peggy the secritary~
+Peggy the secritary asks if you'd like an appointment
+~
+Peggy blushes
+~
+67 0 1000 S
+61 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#31419
+Bert~
+Bert~
+Bert sits here giving you a salesman smile
+~
+Bert winks at you
+~
+67 0 0 S
+41 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31420
+Richard~
+Richard~
+Richard Zeeman sits here patiently
+~
+Richard shuffles a bit to hide the flowers he got for Anita.
+~
+67 8360 1000 S
+202 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31421
+Pringle Mrs~
+Mrs. Pringle~
+Mts. Pringle is here walking her dog Custard.
+~
+Mrs. Pringle wonders why you havent gotten married yet.
+~
+67 8192 1000 S
+27 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#31422
+Custard dog~
+Custard~
+Custard yaps at you annoyingly.
+~
+BARK!!
+~
+67 8192 -1000 S
+75 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#31400
+Browning 9mm gun~
+a Browning 9mm~
+A large gun with an elongated clip lies here~
+~
+5 0 8193
+0 1 6 6
+2 0 0
+A
+18 2
+A
+5 1
+#31401
+Firestar 9mm gun~
+a Firestar 9mm~
+A medium sized gun lies here on the ground~
+~
+5 0 8193
+0 1 6 6
+5 0 0
+A
+18 1
+#31402
+brief case briefcase~
+a briefcase~
+A briefcase rests here locked tight.~
+~
+15 0 16385
+0 1 6 11
+1 0 0
+#31403
+pants black skin tight~
+skin-tight black pants~
+A pair of skin-tight black pants rest here.~
+~
+9 0 33
+5 1 6 11
+1 0 0
+A
+17 -60
+#31404
+poet shirt lacey~
+a lacey poet's shirt~
+A lacey poets shirt lies ehre discarded~
+~
+9 0 9
+3 1 6 11
+1 0 0
+A
+17 -10
+#31405
+mask~
+the mask of Valentine~
+A small mask lies on the floor forgotten~
+~
+9 512 17
+2 1 6 11
+1 0 0
+A
+17 -15
+#31406
+dozen roses~
+a dozen roses~
+A dozen roses lie here discarded.~
+~
+13 0 16385
+0 1 6 11
+1 0 0
+#31437
+portal~
+a portal engulfed in flames~
+A portal engulfed in flames through which you can barely make out the healer of Midgaard
+~
+~
+27 4096 0
+0 0 0 0
+0 0 0
+#0
+
+
+
+#ROOMS
+#31400
+A Small Pond in the Woods~
+Pushing the branches out of your way you stumble into a small glen hidden
+deep in within the heart of the Miden'nir.  Little batches of flowers trace
+along the edges of a limpid pond with water almost clear enough to see to
+the bottom.  Small woodland creatures sit at the banks drinking the pure,
+clean water untainted by civilization.  Looking further into the pond you
+notice it seems to be glowing a slight blue at the bottom.  
+~
+0 0 3
+D1
+~
+~
+0 0 3515
+D5
+~
+~
+0 -1 31401
+S
+#31401
+On the Side of a Road~
+You seem to be on the side of a road of some sorts.  Cars speed by you
+all heading to or from a large city in the south.  The side of the road is
+littered with garbage and a sign reading 'I 70'.  Above you you see a
+shimmering blue portal which, it seems, noone but you can see.  
+~
+0 0 1
+D2
+~
+~
+0 -1 31402
+D4
+~
+~
+0 -1 31400
+S
+#31402
+Entrance to Saint Louis~
+Walking into town you see a large sign reading 'Welcome to Saint Louis'
+with several of the towns crests and awards posted on it.  It seems you've
+came into town through the back as you approach the redlight district to the
+south.  A billboard catches you eye proclaiming equal rights for
+supernatural creatures sponsered by the Church of Eternal Life.  
+~
+0 0 1
+D0
+~
+~
+0 -1 31401
+D2
+~
+~
+0 -1 31403
+S
+#31403
+The Redlight District~
+Oh my!  This certainly isnt the most tasteful of greetings upon your
+arrival.  Here the streets are littered with prostitutes and neon signs.  No
+matter your tastes or preference, here you can find anything you need.  The
+amount of drugs here is so potent you can smell it wafting from the crowd as
+you walk by brothels and opium bars.  To the south the atmosphere seems to
+get a bit better, and alot more tasteful.  
+~
+0 0 1
+D0
+~
+~
+0 -1 31402
+D2
+~
+~
+0 -1 31404
+S
+#31404
+The Intersection Between Marx and Rudolf~
+Here Rudolf Street and Marx Way connect in a T intersection.  Rudolf runs
+north and south while Marx heads to the east.  Just to the west you see a
+large cafe called 'The Lunatic Cafe' 
+~
+0 0 1
+D0
+~
+~
+0 -1 31403
+D1
+~
+~
+0 -1 31407
+D2
+~
+~
+0 -1 31434
+D3
+~
+~
+0 -1 31405
+S
+#31405
+The Lunatic Cafe~
+Walking into th cafe is like diving into a smoldering fireplace.  A large
+grey cloud of ciggarette smoke lingers in the air hovering over everyones
+heads.  The Cafe itself is packed wall to wall with people all laughing and
+enjoying their respective drinks.  To the north theres a rather large
+curtain covering what appears to be a door.  
+~
+0 8 1
+D0
+~
+door~
+0 -1 31406
+D1
+~
+~
+0 -1 31404
+S
+#31406
+A Banquet Hall~
+Walking in you see a large room with tables lined in a horseshoe with a
+raised platform surrounded by four chairs and a lecturn completing it. 
+Sitting in each chair is a different person each showing distinct signs of
+being somewhat animal-like.  One man has reflective eyes while another has
+feather-like hair.  
+~
+0 8 0
+D2
+~
+door~
+0 -1 31405
+S
+#31407
+Marx Way~
+Walking down the street you see various pale-faced men and woman staring
+at you with hunger in their eyes.  One person does so much as to flash a
+fang at you!  You seem to have stumbled into the vampire district of Saint
+Louis.  Marx Way continues east and west while to the south theres a club
+called 'The Laughing Corpse' and one to the north titled 'Guilty Pleasures' 
+~
+0 0 1
+D0
+~
+~
+0 -1 31409
+D1
+~
+~
+0 -1 31410
+D2
+~
+~
+0 -1 31408
+D3
+~
+~
+0 -1 31404
+S
+#31408
+The Laughing Corpse~
+Inside the club you see at least 50 people all with their attention fixed
+at the stage.  The bar on the far side of the room seems a little odd. 
+Among the various kinds of alcohol are bottles filled with a deep red
+liquid.  Up on stage theres a man doing a comedy bit with a reanimated
+zombie.  
+~
+0 8 0
+D0
+~
+~
+0 -1 31407
+S
+#31409
+Guilty Pleasures~
+You walk into this club expecting to see a bunch of people enjoying live
+music but oh my were you wrong.  Looking up on stage you see a vampire
+stripping for the audience.  Gasping at such a scene you notice the whole
+crowd seems to be a little too transfixed on this vampire in an almost
+brain-washed state.  
+~
+0 8 0
+D2
+~
+~
+0 -1 31407
+S
+#31410
+Intersection of Marx and Halloway~
+Continuing down Marx Way you notice a large circus to the east.  From
+this distance you can't make out what its name is but it does look a bit
+dark.  Marx also heads back west towards the club scene.  Halloway Road
+extends off to the north heading towards the city graveyard.  
+~
+0 0 1
+D0
+~
+~
+0 -1 31411
+D1
+~
+~
+0 -1 31418
+D3
+~
+~
+0 -1 31407
+S
+#31411
+Halloway Road~
+The sky seems to get darker the further north you go as you walk along
+this street.  Lightning strikes somewhere within the graveyard towards the
+north while the busy sounds of Saint Louis can be heard from the south.  
+~
+0 0 1
+D0
+~
+~
+0 -1 31412
+D2
+~
+~
+0 -1 31410
+S
+#31412
+The Graveyard~
+Halloway road turns from pavement to gravel as soon as it runs into the
+graveyard.  Here large trees loam above you creating a natural roof above
+you shedding out all light from the moon.  A pulse of energy flows through
+you as you notice something is going on further into the graveyard to the
+north.  
+~
+0 1 1
+D0
+~
+~
+0 -1 31417
+D1
+~
+~
+0 -1 31414
+D2
+~
+~
+0 -1 31411
+D3
+~
+~
+0 -1 31413
+S
+#31413
+The Graveyard~
+Here large trees loam above you creating a natural roof above you
+shedding out all light from the moon.  
+~
+0 1 1
+D0
+~
+~
+0 -1 31415
+D1
+~
+~
+0 -1 31412
+S
+#31414
+The Graveyard~
+Here large trees loam above you creating a natural roof above you
+shedding out all light from the moon.  
+~
+0 1 1
+D0
+~
+~
+0 -1 31416
+D3
+~
+~
+0 -1 31412
+S
+#31415
+The Graveyard~
+Here large trees loam above you creating a natural roof above you
+shedding out all light from the moon.  
+~
+0 1 1
+D1
+~
+~
+0 -1 31417
+D2
+~
+~
+0 -1 31413
+S
+#31416
+The Graveyard~
+Here large trees loam above you creating a natural roof above you
+shedding out all light from the moon.  
+~
+0 1 1
+D2
+~
+~
+0 -1 31414
+D3
+~
+~
+0 -1 31417
+S
+#31417
+A Grisley Scene~
+You walk upon a most unsettling scene.  A woman is standing over a grave
+within a circle of blood raising a corpse from the earth with the power of
+her voice.  Several men in suits stand around her watching a preparing
+papers for the corpse to sign that he never got to in life.  The family of
+the poor reanimated man watch in terror as their husband, their father
+crawls from the dirt in attempt to live again.  They know that within the
+hour he'll be put back never to rise again.  
+~
+0 1 2
+D1
+~
+~
+0 -1 31416
+D2
+~
+~
+0 -1 31412
+D3
+~
+~
+0 -1 31415
+S
+#31418
+The Circus of the Damned~
+Walking under an archway you find yourself in the middle of a large-scale
+circus.  Everywhere you look theres smiling faces of unsuspecting humans and
+the flash of fangs as the predators approach.  The usual Circus aspects are
+here as well, ferris wheels, clowns, prize games and the such.  One thing
+seems to catch your eye though, a young woman by a large blue tent to the
+north waves you towards her.  
+~
+0 0 1
+D0
+~
+~
+0 -1 31419
+D1
+~
+~
+0 -1 31423
+D2
+~
+~
+0 -1 31422
+D3
+~
+~
+0 -1 31410
+S
+#31419
+A Large Tent~
+Inside the tent you see a large staircase to the north heading to a door.
+The tent itself surrounds a large ring where a man is training a gigantic
+snake.  The benches around the ring are empty as the show hasn't begun yet. 
+~
+0 8 0
+D0
+~
+door~
+0 -1 31420
+D2
+~
+~
+0 -1 31418
+S
+#31420
+The Anti-Chamber~
+You walk into a dark room lit only by candle hung on the wall by ornate
+holder made out of iron.  The walls are covered with drapes hung to the
+ground.  Other than that the room is completely empty.  To the north is what
+looks like the outline of a door.  
+~
+0 9 0
+D0
+~
+door~
+0 -1 31421
+D2
+~
+door~
+0 -1 31419
+S
+#31421
+Jean Claude's Bedroom~
+The walls of this room are covered in off-white wallpaper covered with
+silver, gold copper designs running through it.  The carpeting is black as
+pitch.  A canopy bed takes up most of one side of the room with black gauzy
+curtains covering it.  A black couch is against the far side of the wall
+with blood-red pillows on it.  An exotic looking female vampire sits in the
+far corner of the bed cradling a younger human girl in her arms.  
+~
+0 9 0
+D2
+~
+door~
+0 -1 31420
+S
+#31422
+Circus of the Damned~
+Everywhere you look theres smiling faces of unsuspecting humans and the
+flash of fangs as the predators approach.  The usual Circus aspects are here
+as well, ferris wheels, clowns, prize games and the such.  
+~
+0 0 1
+D0
+~
+~
+0 -1 31418
+D1
+~
+~
+0 -1 31424
+S
+#31423
+Circus of the Damned~
+Everywhere you look theres smiling faces of unsuspecting humans and the
+flash of fangs as the predators approach.  The usual Circus aspects are here
+as well, ferris wheels, clowns, prize games and the such.  
+~
+0 0 1
+D2
+~
+~
+0 -1 31424
+D3
+~
+~
+0 -1 31418
+S
+#31424
+CIrcus of the Damned~
+Everywhere you look theres smiling faces of unsuspecting humans and the
+flash of fangs as the predators approach.  The usual Circus aspects are here
+as well, ferris wheels, clowns, prize games and the such.  To the east is
+the House of Mirrors.  
+~
+0 0 1
+D0
+~
+~
+0 -1 31423
+D1
+~
+~
+0 -1 31425
+D3
+~
+~
+0 -1 31422
+S
+#31425
+House of Mirrors~
+You're in a room full or mirrors!  
+~
+0 8 0
+D2
+~
+~
+0 -1 31426
+D3
+~
+~
+0 -1 31424
+S
+#31426
+House of Mirrors~
+You're in a room full or mirrors!  
+~
+0 8 0
+D0
+~
+~
+0 -1 31425
+D2
+~
+~
+0 -1 31427
+D3
+~
+~
+0 -1 31425
+S
+#31427
+House of Mirrors~
+You're in a room full or mirrors!  
+~
+0 8 0
+D0
+~
+~
+0 -1 31426
+D1
+~
+~
+0 -1 31425
+D3
+~
+~
+0 -1 31428
+S
+#31428
+House of Mirrors~
+You're in a room full or mirrors!  
+~
+0 8 0
+D0
+~
+~
+0 -1 31425
+D1
+~
+~
+0 -1 31427
+D2
+~
+~
+0 -1 31427
+D5
+~
+~
+0 -1 31429
+S
+#31429
+A Dusty Dungeon~
+You've fallen through a trapdoor into what appears to be a dungeon. 
+Stairs lead off to the south heading downwards.  The halls of this dungeon
+are lit by torches throwing grim looking shadows everywhere 
+~
+0 9 0
+D2
+~
+~
+0 -1 31430
+D4
+~
+~
+0 -1 31428
+S
+#31430
+A Dusty Dungeon~
+Here the staircase turns eastward heading further down while to the north
+it heads upwards and out.  
+~
+0 9 0
+D0
+~
+~
+0 -1 31429
+D1
+~
+~
+0 -1 31431
+S
+#31431
+A Dusty Dungeon~
+Here the stairs come to an end and the passageway continues eastward with
+a small door to the south with barred windows.  
+~
+0 9 0
+D1
+~
+~
+0 -1 31433
+D2
+~
+door~
+0 -1 31432
+D3
+~
+~
+0 -1 31430
+S
+#31432
+The Torture Room~
+Walking into this room you see red stains covering the brick walls with
+shackles hanging on chains dangling from the ceiling.  On the far wall a
+handsome young man is chained up and bleeding badly.  
+~
+0 9 0
+D0
+~
+door~
+0 -1 31431
+S
+#31433
+The Hidden Chambers~
+Inside this room far below the ground you find 5 coffins all lined up in
+a row lit only by torchlight.  The walls are covered in ancient crests from
+different countries.  The farthest wall has a throne with a portrait of a
+young girl above it.  
+~
+0 9 0
+D3
+~
+~
+0 -1 31431
+S
+#31434
+Rudolf Street~
+Walking along th sidewalk you notice that the city is starting to look a
+bit more tasteful.  The streets aren't as littered and the clouds aren't
+covering the sky.  To the east is a small business and to the west is an
+apartment complex 
+~
+0 0 1
+D0
+~
+~
+0 -1 31404
+D1
+~
+~
+0 -1 31435
+D3
+~
+~
+0 -1 31437
+S
+#31435
+Animators Inc.~
+Walking through the door you see a large room painted light blue with too
+many plants along the walls.  It looks as if someone was trying too hard to
+make this place feel welcoming and made it feel like a jungle.  In the
+center of the room is a desk with a secritary sitting behind it.  To the
+east theres a door.  
+~
+0 8 0
+D1
+~
+door~
+0 -1 31436
+D3
+~
+~
+0 -1 31434
+S
+#31436
+Bert's Office~
+Inside this room is a large desk with a rather large man behind it.  He's
+Bert Vaughn, businessman extrodinaire.  He'll do anything for anyone.... 
+For a price.  So whatcha need?  Zombie raised?  Vampire killed?  Intreviews
+with lycanthropes?  Well then you've come to the right spot (and if Anita
+doesnt do it he'll get pissed) 
+~
+0 8 0
+D3
+~
+door~
+0 -1 31435
+S
+#31437
+Apartment Complex~
+Walking into the Apartment complex you notice a elderly woman walking her
+dog which looks like a cross between and pom-pom and a feather duster.  And
+just ahead is a handsome man sitting against Anita Blake's door waiting for
+her to come home.  
+~
+0 8 0
+D1
+~
+~
+0 -1 31434
+S
+#0
+
+
+
+#SPECIALS
+M 31404 spec_janitor Load to: Ronnie
+M 31407 spec_cast_undead Load to: Anita Blake
+S
+
+
+
+#RESETS
+M 0 31400 1 31402
+M 0 31400 1 31403
+M 0 31400 1 31404
+M 0 31401 1 31405
+M 0 31400 2 31405
+M 0 31402 1 31406
+M 0 31403 1 31406
+M 0 31404 1 31404
+E 0 31401 0 16
+M 0 31400 1 31408
+M 0 31405 1 31409
+M 0 31400 1 31409
+M 0 31406 1 31409
+M 0 31406 3 31407
+M 0 31406 1 31408
+M 0 31406 1 31410
+M 0 31400 1 31410
+M 0 31406 1 31411
+M 0 31407 1 31417
+E 0 31400 0 16
+G 0 31401 0
+M 0 31408 3 31417
+E 0 31402 0 17
+M 0 31409 1 31417
+M 0 31410 1 31418
+M 0 31400 4 31418
+M 0 31406 2 31418
+M 0 31411 1 31419
+M 0 31412 1 31419
+M 0 31413 1 31421
+E 0 31403 0 7
+E 0 31404 0 5
+M 0 31414 1 31421
+M 0 31415 1 31421
+M 0 31400 4 31424
+M 0 31406 2 31424
+M 0 31406 3 31423
+M 0 31400 6 31422
+M 0 31416 1 31432
+M 0 31417 1 31433
+E 0 31405 0 6
+M 0 31400 1 31434
+M 0 31418 1 31435
+M 0 31420 1 31437
+E 0 31406 0 17
+M 0 31421 1 31437
+M 0 31422 1 31437
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

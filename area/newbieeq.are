@@ -1,0 +1,237 @@
+#AREADATA
+Name        Morglum  Newbieeq~
+Builders    None~
+VNUMs       3 273
+Security    1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#250
+sword long ~
+a shiny longsword~
+A freshly polished longword is resting in its sheath here~
+~
+5 0 8193
+0 10 20 3
+10 0 0
+A
+19 2
+#251
+dagger gleaming~
+a gleaming dagger~
+A gleaming dagger lies here, seemingly forgotten~
+~
+5 0 8193
+0 1 6 11
+5 0 0
+A
+18 2
+#252
+helmet~
+a polished helmet~
+A gleaming helmet has been left in the dust here~
+~
+9 0 17
+0 1 6 0
+7 0 0
+A
+17 -10
+#253
+chain mail coif~
+a chainmail coif~
+A chainmail coif has carelessly been dropped here~
+~
+9 0 9
+0 1 6 0
+15 0 0
+A
+13 10
+#254
+Skirt chain mail~
+a chainmail skirt~
+A skirt of chainmail has been strewn on the ground here~
+~
+9 0 33
+0 20 30 0
+12 0 0
+A
+17 -10
+#255
+sleeves chain mail~
+a pair of chainmail sleeves~
+Some chainmail sleeves has been neatly folded up.~
+~
+9 0 257
+0 1 6 0
+8 0 0
+A
+18 1
+#256
+gauntlets leather black~
+a pair of black leather gloves~
+A couple of black leather gloves lies forgotten in the muck.~
+~
+9 0 129
+0 0 0 0
+5 0 0
+A
+19 1
+#257
+boots leather~
+a pair of comfortable leather walking boots~
+A pair of worn-looking boots have been carelessly left here~
+~
+9 0 65
+0 1 6 0
+5 0 0
+A
+12 15
+#258
+Bracelet gleaming~
+a shining bracelet~
+A shining, newly polished bracelet is lying on display here~
+~
+9 0 4097
+0 1 6 0
+2 0 0
+A
+19 2
+#259
+ring iron plain~
+a plain iron ring~
+A gleaming iron ring ~
+~
+9 0 3
+0 1 6 0
+1 0 0
+A
+1 1
+#260
+lantern iron~
+a plain iron lantern~
+An iron lantern is standing in the shadows~
+~
+1 0 16385
+0 1 6 0
+5 0 0
+#261
+collar link chain~
+a chain-linked collar~
+A shining chain collar is dropped here~
+~
+9 0 5
+0 1 6 0
+5 0 0
+A
+17 -15
+#270
+tome insouciance~
+tome of Insouciance~
+A large, leatherbound tome rests here~
+~
+37 16448 8193
+0 1 0 0
+5 0 0
+A
+18 15
+A
+19 15
+A
+12 250
+#271
+tome tranquility~
+tome of Tranquility~
+A large feathered tome is hovering here~
+~
+37 16450 8193
+0 1 0 0
+5 0 0
+A
+29 1
+A
+27 1
+A
+12 500
+A
+18 25
+A
+19 25
+#272
+quiescence tome~
+tome of Quiescence~
+A tome in tightly bound wyrm hide has been dropped here~
+~
+37 16451 8193
+0 1 0 0
+5 0 0
+A
+18 35
+A
+19 35
+A
+29 2
+A
+27 2
+A
+50 1
+A
+12 1000
+#273
+Hebetude tome~
+tome of Hebetude~
+A sparkling book, bound with baby dragon scales hovers here~
+~
+37 16707 8193
+0 1 0 0
+5 0 0
+A
+18 50
+A
+19 50
+A
+50 2
+A
+29 2
+A
+27 2
+A
+12 1000
+A
+13 1000
+#0
+
+
+
+#ROOMS
+#3
+Prison~
+~
+0 16396 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,856 @@
+#AREADATA
+Name        Wynfair  Semi-Newbie Arena~
+Builders    None~
+VNUMs       19200 19217
+Security    1
+End
+
+
+
+#MOBILES
+#19200
+shopkeeper~
+The Arena Shopkeeper.~
+The shopkeeper is standing here, awaiting your patronage.
+~
+HEHE, HI!
+~
+67 0 1000 S
+997 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#19201
+cat kitten~
+The kitten~
+There is a little kitten here clawing a couch to shreds.
+~
+Its a Kitten.
+~
+67 0 0 S
+18 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#19202
+pup puppy~
+A puppy~
+There is a little puppy here peeing on your foot-wear.
+~
+Its a puppy.
+~
+67 0 0 S
+8 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19203
+dog mutt~
+A dog~
+There is a dog here marking his territory.
+~
+It's a dog.
+~
+67 0 0 S
+17 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19204
+cat~
+A cat~
+There is a cat here purring.
+~
+Its a cat.
+~
+67 0 0 S
+16 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#19205
+doe deer~
+A doe~
+There is a doe here eating some hay.
+~
+Its a Female deer.
+~
+67 0 0 S
+18 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#19206
+buck deer~
+A big buck~
+There is a big buck here wishing he could get in with the doe.
+~
+It's a male deer, AND IT HAS HORNS!
+~
+67 0 0 S
+19 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19207
+lion~
+A lion.~
+A lion is here getting ready to eat you.
+~
+It's a big LION.
+~
+67 0 0 S
+12 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19208
+tiger~
+A tiger~
+There is a big tiger here eating his lunch.
+~
+Its a tiger.
+~
+67 0 0 S
+30 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19209
+ragnorath~
+Ragnorath~
+Ragnorath is here, awaiting your attack.
+~
+Its Ragnorath the warrior!
+~
+67 0 0 S
+31 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19210
+plugmore~
+Plugmore~
+Plugmore is here anticipating your first move.
+~
+It's Plugmore the Mage!
+~
+67 0 0 S
+28 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19211
+thrymore~
+Thrymore~
+Thrymore is here wondering what to do next.
+~
+Its Thrymore the wierd.
+~
+67 0 0 S
+31 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19212
+morkanoth dragon~
+Morkanoth the dragon~
+Morkanoth, the green dragon, is here getting ready to kill you.
+~
+It's Morkanoth the Great Green Dragon!
+~
+67 0 0 S
+42 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19213
+baby implementor~
+Baby KaVir~
+Baby KaVir is here getting ready to ROCK you.
+~
+It's BABY KAVIR
+~
+32835 0 0 S
+47 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#19200
+gold small treasure~
+a small pile of gold~
+A small pile of gold is here.~
+~
+20 0 1
+100 1 6 11
+1 0 0
+E
+gold pile~
+WOW! WHAT A FIND! BETTER TAKE IT BEFORE SOMEONE ELSE DOES!~
+#19201
+pile medium gold~
+a medium pile of gold~
+A medium pile of gold is here.~
+~
+20 0 1
+250 1 6 11
+1 0 0
+#19202
+large pile gold~
+a large pile of gold~
+A large pile of gold is here.~
+~
+20 0 1
+500 1 6 11
+1 0 0
+#19203
+huge pile gold~
+a huge pile of gold~
+A huge pile of gold is here.~
+~
+20 0 1
+750 1 6 11
+5 0 0
+#19204
+treasure hoard gold~
+a treasure hoard~
+There is a hoard of treasure here.~
+~
+20 0 1
+1000 1 6 11
+1 0 0
+#19205
+certificate~
+certificate of Achievement~
+A rolled parchment with a red band is here on the floor.~
+~
+1 67 16385
+0 -1 -1 11
+3 5000 0
+A
+3 5
+A
+4 5
+A
+23 -10
+A
+24 -10
+A
+13 75
+E
+certificate diploma parchment light~
+CONGRATULATIONS!!!
+You are now strong enough to go to the other and more difficult areas in the MUD. Good Luck to you.
+
+THE STAFF~
+#19206
+ring arena fighter~
+an Arena-Fighter's Ring~
+There is a strange, yellow, ring here.~
+~
+9 0 3
+0 1 6 11
+1 5000 0
+A
+18 2
+A
+19 2
+A
+1 1
+#19207
+necklace arena fighter~
+an Arena-Fighter's Necklace~
+There is a strange, yellow, necklace here.~
+~
+9 0 5
+0 1 6 11
+3 9000 0
+A
+18 2
+A
+19 2
+A
+2 2
+#19208
+bracer arena fighter~
+an Arena-Fighter's Bracer~
+A strange, yellow,  bracer is lying here.~
+~
+9 0 4097
+0 1 6 11
+3 12000 0
+A
+18 2
+A
+19 2
+A
+5 2
+#19209
+chestplate arena fighter~
+an Arena-Fighter's Chestplate~
+A strange, yellow, chestplate is lying here.~
+~
+9 0 9
+0 1 6 11
+5 20000 0
+A
+18 2
+A
+19 2
+A
+1 2
+#19210
+helmet arena fighter~
+an Arena-Fighter's Helmet~
+There is a strange, yellow, helmet lying here.~
+~
+9 0 17
+0 1 6 11
+3 20000 0
+A
+18 2
+A
+19 2
+A
+2 2
+#19211
+legplates arena fighter~
+some Arena-Fighter's Legplates~
+There are some strange, yellow, legplates lying here.~
+~
+9 0 33
+0 1 6 11
+3 15000 0
+A
+18 2
+A
+19 2
+A
+5 2
+#19212
+boots arena fighter~
+some Arena-Fighter Boots~
+There are some strange, yellow, boots lying here.~
+~
+9 0 65
+0 1 6 11
+3 15000 0
+A
+1 2
+A
+18 2
+A
+19 2
+#19213
+arena gauntlets fiighter~
+a Pair of Arena-Fighter Gauntlets.~
+There are some strange, yellow, gauntlets.~
+~
+9 0 129
+0 1 6 11
+2 13000 0
+A
+18 2
+A
+19 2
+A
+2 2
+#19214
+armplates arena fighter~
+some Arena-Fighter Armplates~
+Some strange, yellow, armplates are lying here~
+~
+9 0 257
+0 1 6 11
+3 15000 0
+A
+18 2
+A
+19 2
+A
+5 2
+#19215
+cape arena fighting~
+an Arena-Fighter's Cape~
+There is a strange, yellow, cape on the floor here.~
+~
+9 0 1025
+0 1 6 11
+3 25000 0
+A
+18 2
+A
+19 2
+A
+1 2
+#19216
+belt arena fighting~
+an Arena-Fighting Belt~
+There is a strange, yellow, belt lying here.~
+~
+9 0 2049
+0 1 6 11
+5 13000 0
+A
+2 2
+A
+18 2
+A
+19 2
+#0
+
+
+
+#ROOMS
+#19200
+The Shop~
+You are standing in the shop of the great arena.  There are many, many
+wares, lying in various places about the room.  Each one has a price.  Type
+"LIST" to see what you can buy from the Shopkeeper.
+~
+0 0 0
+D2
+~
+~
+0 -1 19202
+S
+#19201
+The Entrance to the Battle Arena~
+The great battle arena is spread out before you.  There are various exits
+up ahead and you think you see a shop far off to the north.  There is also a
+sign here.
+~
+0 0 0
+E
+sign~
+Welcome to the Battle Arena Adventurer.  You should only come here once
+you have completed MUD school.  There are many medium level monsters for you
+to fight here.  Have FUN.  
+
+THE STAFF
+~
+D0
+~
+~
+0 -1 19202
+D1
+~
+~
+0 -1 19217
+S
+#19202
+The Center of the Arena.~
+You stand in the center of the Battle Arena.  There is a man dressed in
+black here, checking all of your gear, and he tells you that glory awaits
+those who conquer the great arena.  There is a sign here too.
+~
+0 0 0
+E
+sign~
+This is The Center of the Arena.
+Directions for the Monsters are as follows:
+ 
+Level 1) East
+Level 2) West
+ 
+Go Down for Levels 3, 4, 5, 6, and 7.
+Go North for the Great Shop.
+Go Up for Levels 8,9,10,11, and 12.
+ 
+It is Recomended that you complete levels 1 and 2, then proceed to
+the shop. Return to the Shop as soon as you have enough money to get
+each piece of Equipment.  The Battle Arena is here to get you ready
+for the Quest into the great big MUD world outside.
+Thank you for the time,
+ 
+THE STAFF
+ 
+~
+D0
+~
+~
+0 -1 19200
+D1
+~
+~
+0 -1 19203
+D2
+~
+~
+0 -1 19201
+D3
+~
+~
+0 -1 19204
+D4
+~
+~
+0 -1 19211
+D5
+~
+~
+0 -1 19205
+S
+#19203
+LV 1: The Puppy Lair~
+There is dog doodoo all over the floor and a LOT of puppies.  At First
+you think they are cute and snuggly, till they all cock their legs and start
+to pee on your boots.
+~
+0 0 0
+D3
+~
+~
+0 -1 19202
+S
+#19204
+LV 2: The Kitten Lair~
+You see alot of kittens here.  Sure, they look cute and fuzzy, but did
+you see what they did to that couch?  Just look at it.  It is torn to
+shreds.  Better teach these little fuzzballs a lesson.
+~
+0 0 0
+E
+couch~
+Bet it costed a fortune.  Little pukes tore the hell out of it.  KILL
+THEM!!!!  AVENGE THE POOR, DEFENSLESS COUCH!!!  
+~
+D1
+~
+~
+0 -1 19202
+S
+#19205
+Another Center room in the Arena~
+You are in yet another Center room for the Battle Arena.  There is
+another Sign here.
+~
+0 0 0
+E
+sign~
+The Levels are as follows:
+
+Level 3) East
+Level 4) North
+Level 5) South
+Level 6) West
+Level 7) Down 
+~
+D0
+~
+~
+0 -1 19206
+D1
+~
+~
+0 -1 19207
+D2
+~
+~
+0 -1 19208
+D3
+~
+~
+0 -1 19209
+D4
+~
+~
+0 -1 19202
+D5
+~
+~
+0 -1 19210
+S
+#19206
+LV 4: The Dog Pen~
+There are dogs everywhere.  Along with piles of you know what.  They all
+must die to proceed.
+~
+0 0 0
+D2
+~
+~
+0 -1 19205
+S
+#19207
+LV 3: The Cat's Lair~
+There are many, many cats. All of them are hissing at YOU!
+~
+0 0 0
+D3
+~
+~
+0 -1 19205
+S
+#19208
+LV 5: A cage full of wildlife~
+You are in a room full of deer. They are everywhere, and they all must DIE!
+~
+0 0 0
+D0
+~
+~
+0 -1 19205
+S
+#19209
+LV 6: The Grove of deer~
+You are in a small grove. There are many deer here. Kill them.
+~
+0 0 0
+D1
+~
+~
+0 -1 19205
+S
+#19210
+LV 7: The Final Lair~
+You are in the final lair of the lower levels. There are many BUG cats all over the place. The Last part of the Arena Awaits above. Make sure you have all the Gear.
+~
+0 0 0
+D4
+~
+~
+0 -1 19205
+S
+#19211
+The Final Arena Center~
+This is it.  The Last stop before you fight the REAL challangers.  You
+are faced with newbies like yourself and have to dfefeat them all to get
+your prize.  There is a sign here telling the tales of the rooms to come. 
+Good Luck!  , THE STAFF
+~
+0 0 0
+E
+sign~
+---===<THE EVENTS ARE AS FOLLOWS>===---
+
+North: Challange 1
+
+East:  Challange 2
+
+West:  Challange 3
+
+South: Challange 4
+
+Up:    Sudden Death!
+
+THE STAFF~
+D0
+~
+~
+0 -1 19212
+D1
+~
+~
+0 -1 19213
+D2
+~
+~
+0 -1 19215
+D3
+~
+~
+0 -1 19214
+D4
+~
+~
+0 -1 19216
+D5
+~
+~
+0 -1 19202
+S
+#19212
+The First Real Battle Arena~
+You enter the arena and are faced with the challanger named, "Ragnorath"
+Good luck.
+~
+0 0 0
+D2
+~
+~
+0 -1 19211
+S
+#19213
+The Second Real Challange~
+Now you must face the ugly Plugmore.
+~
+0 0 0
+D3
+~
+~
+0 -1 19211
+S
+#19214
+The Third Real  Challange~
+Here, in the darkness stands Thrymore, awaiting your attack.
+~
+0 0 0
+D1
+~
+~
+0 -1 19211
+S
+#19215
+The Semi-Final~
+The winner of this match goes on to face the Final Challanger!  Who will
+win?  You or your opponent, Morkonath!
+~
+0 0 0
+D0
+~
+~
+0 -1 19211
+S
+#19216
+The Ultimate Challange~
+You enter the small arena of the finalist that you must face.
+~
+0 0 0
+D5
+~
+~
+0 -1 19211
+S
+#19217
+The Begining~
+This hall marks the begining of the greatest challange of your MUD life. 
+There is a GREAT BIG SIGN HERE!!!!  Good Luck
+~
+0 0 1
+E
+sign~
+=======================================
+=                                     =
+=          Newbie Arena               =
+=                                     =
+=  This is a wonderous place to go    =
+= After you explore Midgaard a little =
+=                                     =
+=             HAVE FUN                =
+=                                     =
+=                        THE STAFF    =
+=======================================
+~
+D1
+~
+~
+0 0 3047
+D3
+~
+~
+0 -1 19201
+S
+#0
+
+
+
+#SPECIALS
+M 19209 spec_cast_judge Load to: Ragnorath
+M 19210 spec_cast_mage Load to: Plugmore
+M 19211 spec_fido Load to: Thrymore
+M 19212 spec_breath_acid Load to: Morkanoth the dragon
+M 19213 spec_breath_any Load to: Baby KaVir
+S
+
+
+
+#RESETS
+M 0 19203 5 19206
+G 0 19201 0
+M 0 19203 5 19206
+G 0 19201 0
+M 0 19204 5 19207
+G 0 19201 0
+M 0 19204 5 19207
+G 0 19201 0
+M 0 19202 10 19203
+G 0 19200 0
+M 0 19202 10 19203
+G 0 19200 0
+M 0 19202 10 19203
+G 0 19200 0
+M 0 19202 10 19203
+G 0 19200 0
+M 0 19202 10 19203
+G 0 19200 0
+M 0 19201 10 19204
+G 0 19200 0
+M 0 19201 10 19204
+G 0 19200 0
+M 0 19201 10 19204
+G 0 19200 0
+M 0 19201 10 19204
+G 0 19200 0
+M 0 19201 10 19204
+G 0 19200 0
+M 0 19204 5 19207
+G 0 19201 0
+M 0 19204 5 19207
+G 0 19201 0
+M 0 19204 5 19207
+G 0 19201 0
+M 0 19203 5 19206
+G 0 19201 0
+M 0 19203 5 19206
+G 0 19201 0
+M 0 19203 5 19206
+G 0 19201 0
+M 0 19205 5 19208
+G 0 19202 0
+M 0 19205 5 19208
+G 0 19202 0
+M 0 19205 5 19208
+G 0 19202 0
+M 0 19205 5 19208
+G 0 19202 0
+M 0 19205 5 19208
+G 0 19202 0
+M 0 19206 5 19209
+M 0 19206 5 19209
+G 0 19202 0
+M 0 19206 5 19209
+G 0 19202 0
+M 0 19206 5 19209
+G 0 19202 0
+M 0 19206 5 19209
+G 0 19202 0
+M 0 19206 5 19209
+G 0 19202 0
+M 0 19207 5 19210
+G 0 19202 0
+M 0 19207 5 19210
+G 0 19202 0
+M 0 19207 5 19210
+G 0 19202 0
+M 0 19208 5 19210
+G 0 19202 0
+M 0 19208 5 19210
+G 0 19202 0
+M 0 19208 5 19210
+G 0 19202 0
+M 0 19209 1 19212
+G 0 19203 0
+M 0 19210 1 19213
+G 0 19203 0
+M 0 19211 1 19214
+G 0 19203 0
+M 0 19212 1 19215
+G 0 19203 0
+M 0 19213 1 19216
+G 0 19204 0
+G 0 19205 0
+M 0 19200 1 19200
+G 0 19206 0
+G 0 19207 0
+G 0 19208 0
+G 0 19209 0
+G 0 19210 0
+G 0 19211 0
+G 0 19212 0
+G 0 19213 0
+G 0 19214 0
+G 0 19215 0
+G 0 19216 0
+S
+
+
+
+#SHOPS
+19200 0 0 0 0 0 100 1000 6 20
+0
+
+
+
+#$

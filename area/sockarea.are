@@ -1,0 +1,1314 @@
+#AREADATA
+Name        Rox   Boogapoos SockLand~
+Builders    None~
+VNUMs       21600 21664
+Security    1
+End
+
+
+
+#MOBILES
+#21600
+gym sock sweaty~
+The gym sock~
+A sweaty gym sock cautiously keeps his distance from you
+~
+A sweaty gym sock sits here dreaming of being on the foot of a famous athelete.
+~
+69 33280 0 S
+47 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21601
+sweat sock~
+A sweat sock~
+A sweat sock looks at you and cowers in fear.
+~
+A sweat is sock here emitting a horrible odor.
+It is slowly backing away from you.
+~
+69 33280 0 S
+49 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21602
+boogapoo warden~
+The boogapoo warden~
+The boogapoo warden stands here grunting at you.
+~
+A Boogaboo warden has a hideous smirk on his face. He is a middle age boogapoo
+with matted black fur. His has a large pot belly, and he is balding on the top
+of his head.
+~
+99 1049088 -1000 S
+54 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#21603
+cook boogapoo~
+The boogapoo cook~
+The boogapoo cook runs around preparing boogapoo cuisine.
+~
+A boogaboo cook stands here wearing a white chef’s hat.
+He has grease stains on his shirt and appears very unsanitary. You’re
+glad he is not making your food, but then again cooked socks aren’t very
+sanitary in the first place.
+~
+99 1049088 -1000 S
+47 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#21604
+boogapoo musician~
+a boogapo musician~
+A boogapoo musician is here trying to make some noise with his instrument.
+~
+A boogaboo musician is here attempting to play the mangled mass of
+metal she calls in instrument. She is fairly attractive, as far as boogaboos
+go, which isn’t very.
+~
+99 512 -1000 S
+46 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#21605
+boogapoo~
+A boogapoo~
+A boogapoo looks at you and smirks in superiority.
+~
+A boogapoo strolls around, looks at you, and snarls. He has matted black
+fur, crooked horns, and ticks and fleas hiding in his fur.
+~
+101 1049088 -1000 S
+47 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#21606
+boogapoo queen~
+The boogapoo queen~
+The boogapoo queen is here, preparing for the day.
+~
+The boogaboo queen is a very heavy boogaboo. Her black coat is rolled
+in curlers. She glares at you and shrieks as you see her.
+~
+67 640 -1000 S
+56 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#21607
+boogapoo king's royal advisor~
+The boogapoo royal advisor~
+The boogapoo royal advisor stands here intently reading a scroll.
+~
+The boogaboo advisor sits here reading a large scroll and  mumbling to
+himself. He bumps into you and gets a superior look on his face.
+~
+67 512 -1000 S
+54 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#21608
+boogapoo king royal~
+The boogapoo king~
+The boogapoo king sits upon his throne.
+~
+The boogaboo king is here, his fur is thoroughly brushed and his hair is parted.
+He is far larger than the average boogapoo.
+~
+67 640 -1000 S
+256 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#21609
+boogapoo waiter~
+A boogapoo waiter~
+A boogapoo waiter looks up at you and drops several plates.
+~
+The boogaboo waiter hurries around to and fro dropping dishes and eating
+bits of food off the plates.
+~
+101 512 -1000 S
+49 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#21610
+boogapoo guard royal guardian~
+A boogapoo royal guard~
+The boogapoo royal guard stands here protecting the boogapoo king.
+~
+The boogaboo royal guard is a scrawny little boogaboo, with a dirty
+fur coat. He stares at you and smiles.
+~
+67 640 -1000 S
+48 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#21600
+Out of the dryer~
+You step out of the dryer and you look around. THIS is where the socks missing from
+the dryer go. You are standing in a large building. The only exit lies north through
+a large metal doorway.
+~
+0 16393 0
+D0
+You stand in a dark, damp hallway with 
+cold, metal walls and a dirty floor. You 
+see a roach crawl into a hole in the wall.
+~
+~
+0 -1 21601
+S
+#21601
+Down the hallway~
+You stand in a dark, damp hallway with cold, metal walls and a dirty floor.
+You see a roach crawl into a hole in the wall.
+~
+0 16393 0
+D0
+You stand in a dark, damp hallway with 
+cold, metal walls and a dirty floor. You 
+see a roach crawl into a hole in the wall.
+~
+~
+0 -1 21602
+D2
+You step out of the dryer and you look 
+around. THIS is where the socks missing 
+from the dryer go. You are standing in a 
+large building. The only exit lies north 
+through a large metal doorway.~
+~
+0 -1 21600
+S
+#21602
+Down the hallway~
+You stand in a dark, damp hallway with cold, metal walls and a dirty floor.
+You see a roach crawl into a hole in the wall.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21603
+D2
+~
+~
+0 -1 21601
+S
+#21603
+A large room~
+Before you is a large room with various cutting tools scattered about the
+floor. You see shreds of socks hung on walls as trophies. You hear a strange
+growling noise, and something rustles in the darkness of a corner.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21610
+D1
+~
+~
+0 -1 21604
+D2
+~
+~
+0 -1 21602
+D3
+~
+~
+0 -1 21607
+S
+#21604
+Path to the kitchen~
+You  follow the corridor east and the pungent scent of burnt fabric and
+gym socks fill your nostrils from the east. A high pitched cackle makes
+your skin crawl.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21605
+D3
+~
+~
+0 -1 21603
+S
+#21605
+Path to the kitchen~
+You follow the corridor east and the pungent scent of burnt fabric and gym
+socks fill your nostrils from the east. A high pitched cackle makes your
+skin crawl.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21606
+D3
+~
+~
+0 -1 21604
+S
+#21606
+Intersection of paths~
+To the east lies the kitchen, the smell so strong you grow faint by
+the minute. To the north is a trail of blood.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21625
+D1
+~
+~
+0 -1 21661
+D3
+~
+~
+0 -1 21605
+S
+#21607
+Path to the banquet hall~
+As you walk down this corridor, you hear the loud bustle of fun and
+enjoyment, but with the scent of death in the air, you’re not sure you
+want to join the party.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21603
+D3
+~
+~
+0 -1 21608
+S
+#21608
+Path to the banquet hall~
+As you walk down this corridor, you hear the loud bustle of fun and enjoyment, but
+with the scent of death in the air, you’re not sure you want to join the party.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21607
+D3
+~
+~
+0 -1 21609
+S
+#21609
+Intersection of paths~
+You can now hear the loud shouting and laughing in the room east of here.
+You hear music coming from room that makes your head hurt.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21619
+D1
+~
+~
+0 -1 21608
+D3
+~
+~
+0 -1 21662
+S
+#21610
+Hallway to the sock holding pen~
+You walk up this path and you hear the howls of lonely socks. A loud roar
+pierces the air, and the howling ceases.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21611
+D2
+~
+~
+0 -1 21603
+S
+#21611
+Hallway to the sock holding pen~
+You walk up this path and you hear the howls of lonely socks. A loud roar
+pierces the air, and the howling ceases.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21612
+D2
+~
+~
+0 -1 21610
+S
+#21612
+Hallway to the sock holding pen~
+You walk up this path and you hear the howls of lonely socks. A loud roar pierces
+the air, and the howling ceases.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21613
+D2
+~
+~
+0 -1 21611
+S
+#21613
+Crossways before the holding pen~
+You stand before a crossways before the holding pen. You can go back south, east to
+the kitchen, west to the banquet hall, or north to the holding pen.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21626
+D1
+~
+~
+0 -1 21620
+D2
+~
+~
+0 -1 21612
+D3
+~
+~
+0 -1 21614
+S
+#21614
+Path back to the banquet hall~
+You follow the hall back to the banquet hall. You’re not sure if you are more
+wary of the horrible music or the pungent smell.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21613
+D3
+~
+~
+0 -1 21615
+S
+#21615
+Path back to the banquet hall~
+You follow the hall back to the banquet hall. You’re not sure if you are more wary
+of the horrible music or the pungent smell.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21614
+D3
+~
+~
+0 -1 21616
+S
+#21616
+Path back to the banquet hall~
+You follow the hall back to the banquet hall. You’re not sure if you are more wary
+of the horrible music or the pungent smell.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21615
+D2
+~
+~
+0 -1 21617
+S
+#21617
+Path back to the banquet hall~
+You follow the hall back to the banquet hall. You’re not sure if you are more
+wary of the horrible music or the pungent smell.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21616
+D2
+~
+~
+0 -1 21618
+S
+#21618
+Path back to the banquet hall~
+You follow the hall back to the banquet hall. You’re not sure if you are more
+wary of the horrible music or the pungent smell.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21617
+D2
+~
+~
+0 -1 21619
+S
+#21619
+Path back to the banquet hall~
+You follow the hall back to the banquet hall. You’re not sure if you are more
+wary of the horrible music or the pungent smell.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21618
+D2
+~
+~
+0 -1 21609
+S
+#21620
+Path back to the kitchen~
+You head on the path towards the kitchen. The smell of burnt socks and the
+sound of dishes breaking greet you.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21621
+D3
+~
+~
+0 -1 21613
+S
+#21621
+Path back to the kitchen~
+You head on the path towards the kitchen. The smell of burnt socks and the
+sound of dishes breaking greet you.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21622
+D3
+~
+~
+0 -1 21620
+S
+#21622
+Path back to the kitchen~
+You head on the path towards the kitchen. The smell of burnt socks and the
+sound of dishes breaking greet you.
+~
+0 16393 0
+D2
+~
+~
+0 -1 21623
+D3
+~
+~
+0 -1 21621
+S
+#21623
+Path back to the kitchen~
+You head on the path towards the kitchen. The smell of burnt socks and the
+sound of dishes breaking greet you.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21622
+D2
+~
+~
+0 -1 21624
+S
+#21624
+Path back to the kitchen~
+You head on the path towards the kitchen. The smell of burnt socks and the
+sound of dishes breaking greet you.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21623
+D2
+~
+~
+0 -1 21625
+S
+#21625
+Path back to the kitchen~
+You head on the path towards the kitchen. The smell of burnt socks and the
+sound of dishes breaking greet you.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21624
+D2
+~
+~
+0 -1 21606
+S
+#21626
+Entrance to the holding pen~
+You stand at the entrance to the holding pen. The barbed metal fence prevents
+the socks from escaping. The socks peer at you intently behind the safety of
+the fence.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21627
+D2
+~
+~
+0 -1 21613
+S
+#21627
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing and
+staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21636
+D1
+~
+~
+0 -1 21628
+D2
+~
+~
+0 -1 21626
+D3
+~
+~
+0 -1 21631
+S
+#21628
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing and
+staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21637
+D1
+~
+~
+0 -1 21629
+D3
+~
+~
+0 -1 21627
+S
+#21629
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing
+and staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21638
+D1
+~
+~
+0 -1 21630
+D3
+~
+~
+0 -1 21628
+S
+#21630
+The secret hiding place~
+You stand in a secret hiding place. The sock resistance group sit here plotting
+to overthrow the Boogaboo empire.
+~
+0 16393 0
+D3
+~
+~
+0 -1 21629
+S
+#21631
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing
+and staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21635
+D1
+~
+~
+0 -1 21627
+D3
+~
+~
+0 -1 21632
+S
+#21632
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing and
+staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21634
+D1
+~
+~
+0 -1 21631
+D3
+~
+~
+0 -1 21633
+S
+#21633
+The boogaboo warden’s room~
+Here lies the boogaboo warden’s room. A black stone desk is here against the
+wall. There is a bookshelf with many books on ways to prepare cooked socks.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21632
+S
+#21634
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing and
+staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21643
+D1
+~
+~
+0 -1 21635
+D2
+~
+~
+0 -1 21632
+S
+#21635
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing and
+staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21642
+D1
+~
+~
+0 -1 21636
+D2
+~
+~
+0 -1 21631
+D3
+~
+~
+0 -1 21634
+S
+#21636
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing and
+staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21641
+D1
+~
+~
+0 -1 21637
+D2
+~
+~
+0 -1 21627
+D3
+~
+~
+0 -1 21635
+S
+#21637
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing and
+staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21640
+D1
+~
+~
+0 -1 21638
+D2
+~
+~
+0 -1 21628
+D3
+~
+~
+0 -1 21636
+S
+#21638
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing
+and staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21639
+D2
+~
+~
+0 -1 21629
+D3
+~
+~
+0 -1 21637
+S
+#21639
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you
+grazing and staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21648
+D2
+~
+~
+0 -1 21638
+D3
+~
+~
+0 -1 21640
+S
+#21640
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing
+and staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21647
+D1
+~
+~
+0 -1 21639
+D2
+~
+~
+0 -1 21637
+D3
+~
+~
+0 -1 21641
+S
+#21641
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing
+and staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21646
+D1
+~
+~
+0 -1 21640
+D2
+~
+~
+0 -1 21637
+D3
+~
+~
+0 -1 21642
+S
+#21642
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing and
+staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21645
+D1
+~
+~
+0 -1 21641
+D2
+~
+~
+0 -1 21635
+D3
+~
+~
+0 -1 21643
+S
+#21643
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing
+and staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21644
+D1
+~
+~
+0 -1 21642
+D2
+~
+~
+0 -1 21634
+S
+#21644
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing and
+staring at you at a safe distance.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21645
+D2
+~
+~
+0 -1 21643
+S
+#21645
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing and
+staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21650
+D1
+~
+~
+0 -1 21646
+D2
+~
+~
+0 -1 21642
+D3
+~
+~
+0 -1 21644
+S
+#21646
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing and
+staring at you at a safe distance.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21647
+D2
+~
+~
+0 -1 21641
+D3
+~
+~
+0 -1 21645
+S
+#21647
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing and
+staring at you at a safe distance.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21649
+D1
+~
+~
+0 -1 21648
+D2
+~
+~
+0 -1 21640
+D3
+~
+~
+0 -1 21646
+S
+#21648
+In the sock holding pen~
+You are standing in the sock holding pen. Socks stand around you grazing and
+staring at you at a safe distance.
+~
+0 16393 0
+D2
+~
+~
+0 -1 21639
+D3
+~
+~
+0 -1 21647
+S
+#21649
+Entrance to royal hallway~
+You approach the royal hallway. There is a beautiful red carpet
+with gold trim on the floor.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21652
+D2
+~
+~
+0 -1 21647
+S
+#21650
+Entrance to royal hallway~
+You approach the royal hallway. There is a beautiful red carpet
+with gold trim on the floor.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21651
+D2
+~
+~
+0 -1 21645
+S
+#21651
+Royal hallway~
+You stand in the royal hallway. There is a beautiful red carpet
+with gold trim the follows the length of the hallway. There are
+beautiful green plants lining the hallway.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21653
+D2
+~
+~
+0 -1 21650
+D3
+~
+~
+0 -1 21654
+S
+#21652
+Royal hallway~
+You stand in the royal hallway. There is a beautiful red carpet with
+gold trim the follows the length of the hallway. There are beautiful
+green plants lining the hallway.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21655
+D2
+~
+~
+0 -1 21649
+D3
+~
+~
+0 -1 21653
+S
+#21653
+Royal hallway~
+You stand in the royal hallway. There is a beautiful red carpet with
+gold trim the follows the length of the hallway. There are beautiful
+green plants lining the hallway.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21660
+D1
+~
+~
+0 -1 21652
+D3
+~
+~
+0 -1 21651
+S
+#21654
+Royal hallway~
+You stand in the royal hallway. There is a beautiful red carpet with
+gold trim the follows the length of the hallway. There are beautiful
+green plants lining the hallway.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21664
+D1
+~
+~
+0 -1 21651
+D3
+~
+~
+0 -1 21656
+S
+#21655
+Royal hallway~
+You stand in the royal hallway. There is a beautiful red carpet with
+gold trim the follows the length of the hallway. There are beautiful
+green plants lining the hallway.
+~
+0 16393 0
+D0
+~
+~
+0 -1 21663
+D1
+~
+~
+0 -1 21658
+D3
+~
+~
+0 -1 21652
+S
+#21656
+Royal hallway~
+You stand in the royal hallway. There is a beautiful red carpet with
+gold trim the follows the length of the hallway. There are beautiful
+green plants lining the hallway.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21654
+D3
+~
+~
+0 -1 21657
+S
+#21657
+Royal hallway~
+You stand in the royal hallway. There is a beautiful red carpet with
+gold trim the follows the length of the hallway. There are beautiful
+green plants lining the hallway.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21656
+S
+#21658
+Royal hallway~
+You stand in the royal hallway. There is a beautiful red carpet with
+gold trim the follows the length of the hallway. There are beautiful
+green plants lining the hallway.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21659
+D3
+~
+~
+0 -1 21655
+S
+#21659
+Royal hallway~
+You stand in the royal hallway. There is a beautiful red carpet with
+gold trim the follows the length of the hallway. There are beautiful
+green plants lining the hallway.
+~
+0 16393 0
+D3
+~
+~
+0 -1 21658
+S
+#21660
+The king’s throne room~
+Here in the kings throne room is are many beautiful decorations.
+There is a large golden throne with a red velvet seat. A stained
+glass window lines the back wall.
+~
+0 16393 0
+D2
+~
+~
+0 -1 21653
+S
+#21661
+The kitchen~
+Here in the kitchen the cook is frantically trying to cook several
+different kinds of socks, but badly burning them all. Broken dishes
+cover the floor. The horrible smell of burnt socks overwhelms you.
+~
+0 16393 0
+D3
+~
+~
+0 -1 21606
+S
+#21662
+The banquet hall~
+You stand in the banquet hall large wooden tables are lined from wall
+to wall. These boogaboos’ lack of manners repulse you. There is food
+all over the floor and even the walls. There is a band up on stage
+attempting to make a noise out of their instruments.
+~
+0 16393 0
+D1
+~
+~
+0 -1 21609
+S
+#21663
+The advisor of the king’s room~
+Here is the advisor of the king’s room. There are shelves and shelves
+of books here. There is a simple bed in the corner and a long desk
+next to it.
+~
+0 16393 0
+D2
+~
+~
+0 -1 21655
+S
+#21664
+The royal bedroom~
+You stand in the royal bedroom of the king and queen of the boogaboos.
+There is a large Victorian bed with navy blue silk sheets. There is a
+large window on the side wall.
+~
+0 16393 0
+D2
+~
+~
+0 -1 21654
+S
+#0
+
+
+
+#SPECIALS
+M 21600 spec_thief Load to: The gym sock
+M 21601 spec_thief Load to: A sweat sock
+M 21602 spec_guard Load to: The boogapoo warden
+M 21603 spec_poison Load to: The boogapoo cook
+M 21610 spec_guard Load to: A boogapoo royal guard
+S
+
+
+
+#RESETS
+M 0 21605 10 21600
+M 0 21600 20 21643
+M 0 21600 10 21644
+M 0 21601 10 21631
+M 0 21601 10 21646
+M 0 21602 1 21633
+M 0 21603 1 21661
+M 0 21604 4 21662
+M 0 21605 10 21603
+M 0 21606 1 21664
+M 0 21607 2 21663
+M 0 21608 1 21660
+M 0 21609 10 21661
+M 0 21609 5 21617
+M 0 21609 5 21623
+M 0 21610 5 21660
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

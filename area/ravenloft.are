@@ -1,0 +1,2081 @@
+#AREADATA
+Name        Raven Loft~
+Builders    None~
+VNUMs       31551 31650
+Security    1
+End
+
+
+
+#MOBILES
+#31552
+dryad kartakan ravenloft~
+A Kartakan Dryad~
+A magical tree, presumably a dryad, protects the Kartakan forest with it's presence.
+~
+~
+67 524416 0 S
+301 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31553
+forest parrot~
+a forest parrot~
+The colourful splendour of a forest parrot catches your eye.
+~
+~
+65 524416 0 S
+254 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31563
+undead serpent ravenloft~
+an undead serpent~
+A grotesquely deformed serpent swims lazily in the waters here
+~
+~
+67 128 0 S
+299 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31579
+Grand Master of Monks~
+The Grand Master of Monks~
+A well-built, serene looking human is here, chopping up bricks with.. his bare hands?
+~
+~
+67 128 0 S
+102 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31580
+mountain titan~
+The Mountain Titan~
+A giant of a man bellows a deafening warcry and swings a large club in your direction.
+~
+~
+99 4194472 0 S
+298 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31589
+raven black bird ravenloft~
+A Raven~
+A large black bird caws something from Edgar Allan Poe here, how strange.
+~
+~
+67 524416 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31597
+imp creature ravenloft~
+An Imp~
+A diminutive creature sneaks around, attempting to cause mischief.
+~
+~
+65 557184 0 S
+153 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31598
+raven black bird ravenloft~
+A Raven~
+A large black bird caws something from Edgar Allan Poe here, how strange.
+~
+~
+67 524416 0 S
+92 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31601
+living rock ravenloft~
+The Living Rock~
+An immense mound of earth rises from it's long slumber and slowly shuffles towards you.
+~
+~
+97 4227240 0 S
+126 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31602
+imprisoned mage~
+An Imprisoned Mage~
+A spindly, cloaked mage wanders about his cell, raving madly about the defeat of Strahd
+~
+~
+67 128 0 S
+201 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31611
+lesser vampire ravenloft~
+The Lesser Vampire~
+A malevolent, ethereal creature wanders throughout the mists, its red eyes glowing hungrily.
+~
+~
+99 4194472 0 S
+99 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31612
+master vampire ravenloft~
+The Master Vampire~
+The shadows seem to shift slowly towards you here, enveloping you in his chilling embrace.
+~
+~
+99 128 0 S
+148 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31614
+death knight ravenloft~
+The Death Knight~
+The death knight of ravenloft is here, praying at it's unholy altar.
+~
+~
+67 4194472 0 S
+195 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31616
+grim reaper~
+The Grim Reaper~
+Death is observing you silently from empty eye sockets.
+~
+~
+67 524288 0 S
+399 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31619
+mists ravenloft~
+The Mists of Ravenloft~
+Suddenly,the mists coalesce and engulfs you in their suffocating embrace!
+~
+~
+65 557184 0 S
+202 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31623
+battle mage ravenloft~
+A Battle Mage~
+A scruffy looking wizard sits in a lotus position here, pondering your presence.
+~
+~
+99 128 0 S
+140 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31628
+shadow dragon ravenloft~
+The Shadow Dragon~
+A faint hint of movement catches the corner of your eye, as the shadows impatiently shift towards you.
+~
+~
+67 128 0 S
+191 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31631
+harkon lucas~
+Harkon Lucas~
+The proprietor of the Inn of Karatan sits behind the bar, serving his many customers.
+~
+~
+67 128 0 S
+297 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31634
+cosmic horror~
+The Cosmic Horror~
+A creature from your most terrifying nightmares lurks in the shadows, poised to strike
+~
+~
+99 4718760 0 S
+191 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31646
+wraith spectral ravenloft~
+A Wraith~
+A spectral being hovers over a decaying body here, devouring it's life-force.
+~
+~
+97 4227240 0 S
+153 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31650
+strahd~
+Strahd Von Zarovich~
+Strahd Von Zarovich sits on his throne, staring blankly into the void before him
+~
+~
+67 524288 0 S
+795 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#31579
+monk gloves~
+monk Gloves ~
+Some hard leather gloves lie here
+~
+~
+9 0 129
+0 0 0 0
+5 10 0
+A
+12 12
+A
+2 2
+#31580
+bone club~
+a Huge Bone Club~
+A club far too heavy for mortals lies here.
+~
+~
+5 2049 8193
+0 50 80 7
+15 10 0
+A
+1 2
+A
+13 20
+#31598
+Fountain Blood~
+the Fountain of Blood~
+An ornate marble fountain pours an unending stream of hot, sticky blood into a large basin.
+~
+~
+17 0 0
+90 100 13 0
+50 10 0
+#31616
+head severing scythe~
+a head severing scythe~
+DÅ~
+~
+5 0 8193
+0 20 30 1
+5 10 0
+A
+18 15
+A
+19 10
+#31628
+band ring shadow~
+ring of Shadows~
+A circular band of Shadows lies here, veiled in unusual dimness
+~
+~
+9 32 3
+0 0 0 0
+2 10 0
+A
+12 10
+A
+13 15
+#31640
+portal bubble~
+a bubble of air~
+A bubble of air is trapped here
+~
+~
+27 0 0
+0 0 0 0
+30 0 0
+#31649
+bone~
+ilhundyl's Bone~
+A bone taken from Tori's body lies here
+~
+~
+8 0 1
+0 0 0 0
+1 100 0
+#31650
+xarxerax sword blade~
+the xarxerax blade~
+The hilt of Xarxerax is inscribed with the insignia of the Eternal Struggle.
+~
+~
+5 0 8193
+0 15 20 3
+5 20 0
+A
+13 100
+A
+18 15
+A
+19 15
+#0
+
+
+
+#ROOMS
+#31551
+The Land of Barovia~
+Ravenloft is a world of startlingly beautiful, seductive settings that
+have at once an allure and a cold, lonely edge.  By day, the wilderness is
+breathtaking - the windswept heath with brambles aflame in autumn color,
+soaring peaks with icy summits piercing the sky, mountain streams tumbling
+thousands of feet into an explosion of glittering spray.  The woods are
+wild,rambling, and dense, with velvet evergreens and gleaming silver aspen,
+or armies of ancient timber, towering and black.  Mountain lakes, too deep
+to secure anchor, mirror clouds racing across the sky.  But as the sun
+drifts west, and the granite cliffs circling the lakes reflect from the
+lakes in shades of gold, then red, this is no place for travelers to tarry. 
+Yet tarry they will...  
+ 
+When night falls, she cloaks the world in impenetrable darkness. 
+A chill rises from the soil and contaminates the air. 
+Suddenly, "breathtaking" beauty takes on a new meaning.
+ 
+                            A sign is here 
+~
+0 0 3
+E
+sign~
+This are was provided by Ilhundyl (Original Master Writer)
+Modified and add to by Tori
+ 
+We both hope you will take the time to read the room descriptions
+as well as enjoy the adventure we have both created for you.
+ 
+Happy Hunting!!
+ 
+Tori and Ilhundyl
+ 
+~
+D0
+~
+~
+0 0 31552
+D2
+~
+~
+0 0 6109
+S
+#31552
+Spirit of the Tree~
+You have discovered the source of life in this tree, as the shade of
+Isilgur looks down upon you benevolently.  The limbs here are covered in
+lush, green leaves, much more flourishing than the rest of it, and an aura
+of magic almost tangible permeates the area.  You truly feel that this is a
+place of goodness.  
+~
+0 4 3
+D2
+~
+~
+0 0 31551
+D3
+~
+~
+0 0 31553
+S
+#31553
+The Hanging Gardens~
+The gardens cascade down a terraced slope.  Flowers provide contrast, but
+most of the grounds are planted with trees, sculpted shrubs, and tangled
+greenery.  Twisting paths meander through the garden, with many stone
+benches placed strategically for a wanderer's respite.  
+~
+0 4 3
+D0
+~
+~
+0 0 31554
+D1
+~
+~
+0 0 31555
+D2
+~
+~
+0 0 31556
+S
+#31554
+Karatan Forest~
+The woods are wild, rambling and dense, with armies of ancient
+timber,towering and black.  The air is heavy with the scent of wet earth,
+yet alive with expectation.  If there was ever a path running through here,
+not a trace of it is left to guide you.  
+~
+0 0 0
+D2
+~
+~
+0 0 31553
+D3
+~
+~
+0 0 31638
+S
+#31555
+Woops!~
+You have fallen into an abandoned pit.  Probaly used for a trap to catch
+a wild boar or even you.  
+~
+0 5 0
+S
+#31556
+Amongst the Brambles~
+Whoops!!  Too many trees and brambles here, all of s sudden you feel
+incredibly lost in the majestic place.  Night will be bestowed upon you
+soon, best to get out of here before then.  
+~
+0 4 0
+S
+#31557
+Karatan Forest~
+The woods are wild, rambling and dense, with armies of ancient
+timber,towering and black.  The air is heavy with the scent of wet earth,
+yet alive with expectation.  If there was ever a path running through here,
+not a trace of it is left to guide you.  
+~
+0 0 0
+D1
+~
+~
+0 0 31558
+D3
+~
+~
+0 0 31636
+S
+#31558
+Karatan Forest~
+The woods are wild, rambling and dense, with armies of ancient
+timber,towering and black.  The air is heavy with the scent of wet earth,
+yet alive with expectation.  If there was ever a path running through here,
+not a trace of it is left to guide you.  
+~
+0 0 0
+D1
+~
+~
+0 0 31559
+D3
+~
+~
+0 0 31557
+S
+#31559
+Karatan Forest~
+The woods are wild, rambling and dense, with armies of ancient
+timber,towering and black.  The air is heavy with the scent of wet earth,
+yet alive with expectation.  If there was ever a path running through here,
+not a trace of it is left to guide you.  
+~
+0 0 0
+D1
+~
+~
+0 0 31560
+D3
+~
+~
+0 0 31558
+S
+#31560
+Karatan Forest~
+The woods are wild, rambling and dense, with armies of ancient
+timber,towering and black.  The air is heavy with the scent of wet earth,
+yet alive with expectation.  If there was ever a path running through here,
+not a trace of it is left to guide you.  
+~
+0 4 0
+D1
+~
+~
+0 0 31561
+D3
+~
+~
+0 0 31559
+S
+#31561
+High above the Tser Stream~
+Looking down, you spy a meandering river.  Its blue waters, so vibrant
+with glow as a ripple spreads out across its icy surface.  
+~
+0 0 0
+D2
+~
+~
+0 0 31562
+D3
+~
+~
+0 0 31560
+S
+#31562
+Tser Stream~
+This major river drains the lands west of the village, meandering
+throughthe Kartakan Forest, and disappearing as an underground river once it
+reaches Barovia.  The river's sources lie beyond the mists, while spidery
+streams descend from the Balinoks to nourish its unceasing hunger.  
+~
+0 0 0
+D0
+~
+~
+0 0 31561
+D1
+~
+~
+0 0 31563
+S
+#31563
+Under a Wide Bridge~
+The water moving under the bridge is grey and looks cold.  Here and
+there, dark shadows seem to flicker just beneath it's surface, moving too
+quickly for you to be able to tell exactly what caused them.  Something
+brushes past your leg, scratching you as it passes.  A numbing pain seeps
+into your body, wracking it with agony.  
+~
+0 0 0
+D2
+~
+~
+0 0 31564
+D3
+~
+~
+0 0 31562
+S
+#31564
+Strong Currents in the River~
+The river thrashes and crashes amid rocks and sparse brush here, spraying
+your face with the murky liquid.  You begin to wonder whether you are
+swimming in water, or is it something else?  You have a feeling you don't
+want to find out.  
+~
+0 0 0
+D0
+~
+~
+0 0 31563
+D3
+~
+~
+0 0 31565
+S
+#31565
+Strong Currents in the River~
+The river thrashes and crashes amid rocks and sparse brush here, spraying
+your face with the murky liquid.  You begin to wonder whether you are
+swimming in water, or is it something else?  You have a feeling you don't
+want to find out.  
+~
+0 0 0
+D1
+~
+~
+0 0 31564
+D3
+~
+~
+0 0 31566
+S
+#31566
+Strong Currents in the River~
+The river thrashes and crashes amid rocks and sparse brush here, spraying
+your face with the murky liquid.  You begin to wonder whether you are
+swimming in water, or is it something else?  You have a feeling you don't
+want to find out.  
+~
+0 0 0
+D1
+~
+~
+0 0 31565
+D3
+~
+~
+0 0 31567
+S
+#31567
+Strong Currents in the River~
+The river thrashes and crashes amid rocks and sparse brush here, spraying
+your face with the murky liquid.  You begin to wonder whether you are
+swimming in water, or is it something else?  You have a feeling you don't
+want to find out.  
+~
+0 0 0
+D1
+~
+~
+0 0 31566
+D5
+~
+~
+0 0 31568
+S
+#31568
+Tser Rapids~
+As the downward slope of the land increases, so does the power of the
+water.  The stream's gentle current that used to tug playfully at you, is
+now dragging you with the strength and determination of a deadly river.  
+~
+0 0 0
+D2
+~
+~
+0 0 31569
+D4
+~
+~
+0 0 31567
+S
+#31569
+Tser Falls~
+The all too familiar sensation of gravity has suddenly abandoned your
+body, leaving it to the mercy of the downward flow of the stream as you free
+fall to what most people would consider certain death.  
+~
+0 0 0
+D0
+~
+~
+0 0 31568
+D5
+~
+~
+0 0 31570
+S
+#31570
+Tumbling Down the Tser Falls~
+The mountain stream tumbles thousands of feet into an explosion of
+glittering spray.  Falling down along with it can't be good for your body,
+but it seems you have no choice..  Or do you?  
+~
+0 0 0
+D4
+~
+~
+0 0 31569
+D5
+~
+~
+0 0 31571
+S
+#31571
+Hanging on a Limb~
+As you tumble head over heels in the falls, you somehow manage to grab a
+tree limb, extending from the tree which has grown on the ledge just west of
+here.  This fragile tree branch can't support your weight for very long, as
+the waters drag you, trying to rip your arms from your body so that you may
+continue your fall.  
+~
+0 0 0
+D3
+~
+~
+0 0 31572
+D4
+~
+~
+0 0 31570
+S
+#31572
+Behind the Falls~
+This ledge, hiding skillfully behind the falls, provides you with the
+chance to rest and recuperate from your struggle with the stream.  The tree
+who's limb brought you here seems be leaning your way, perhaps bowing under
+your not insignificant weight.  
+~
+0 0 0
+D1
+~
+~
+0 0 31571
+D2
+~
+~
+0 0 31573
+S
+#31573
+Underneath the Falls~
+The falling didn't hurt at all no pain, no damage, and quite a rush.  But
+that landing was a killer.  Still disoriented from the long drop, you can't
+seem to find the surface, and the falling water crashing down from above
+sends you tumbling head over heels.  
+~
+0 0 0
+D0
+~
+~
+0 0 31572
+D2
+~
+~
+0 0 31574
+S
+#31574
+Tser Pool~
+This peaceful pool of water, replenished by some underground source, is
+where the river begins its journey from.  Surrounded by rock face walls, you
+get the impression you are in the bottom of an open well.  The mountain lake
+mirrors clouds racing across the sky, trying to escape some unknown horror. 
+~
+0 0 0
+D0
+~
+~
+0 0 31573
+D5
+~
+~
+0 0 31640
+S
+#31575
+Faint Forest Path~
+The woods are wild, rambling and dense, with armies of ancient timber,
+towering and black.  The air is heavy with the scent of wet earth, yet alive
+with expectation.  A faint path runs through the thick forest, overgrown
+with vegetation, but enough traces of it remain to guide you.  You feel
+yourself nearing the end of the long path.  
+~
+0 0 0
+D1
+~
+~
+0 0 31577
+D3
+~
+~
+0 0 31576
+S
+#31576
+Faint Forest Path~
+The woods are wild, rambling and dense, with armies of ancient timber,
+towering and black.  The air is heavy with the scent of wet earth, yet alive
+with expectation.  A faint path runs through the thick forest, overgrown
+with vegetation, but enough traces of it remain to guide you.  You feel
+yourself nearing the end of the long path.  
+~
+0 4 3
+D1
+~
+~
+0 0 31575
+D3
+~
+~
+0 0 31620
+S
+#31577
+Faint Forest Path~
+The woods are wild, rambling and dense, with armies of ancient timber,
+towering and black.  The air is heavy with the scent of wet earth, yet alive
+with expectation.  A faint path runs through the thick forest, overgrown
+with vegetation, but enough traces of it remain to guide you.  You feel
+yourself nearing the end of the long path.  
+~
+0 0 0
+D1
+~
+~
+0 0 31578
+D3
+~
+~
+0 0 31575
+S
+#31578
+Narrowing Path~
+The path seems to become narrower here, and the trees sparser.  The faint
+buzzing of insect activity reaches your ears from the distance, is the first
+sign of anything approaching normal that you've encountered as of yet. 
+Something tells you, however, that you are in Barovia, and should therefore
+proceed with extreme caution, especially when all seems to be quiet.  
+~
+0 0 0
+D1
+~
+~
+0 0 31579
+D3
+~
+~
+0 0 31577
+S
+#31579
+Old Svalich Road~
+Only two major roads cross the Balinoks.  This old one which travels
+through Barovia, and another one through Tepest.  Other crossings are
+possible, but treacherous to those still worrying about their mortality.  
+~
+0 0 3
+D0
+~
+~
+0 0 31580
+D3
+~
+~
+0 0 31578
+S
+#31580
+Balinok Mountains~
+The mountains cut through the centre of the Core from west to east.  Like
+Death's scythe, the range curves southward just after Barovia, sandwiching
+the Kartakan Forest between the mountains and the misty borders surrounding
+the Central Core.  
+~
+0 0 3
+D1
+~
+~
+0 0 31581
+D2
+~
+~
+0 0 31579
+S
+#31581
+Devil's Pass~
+The steady rhythm of the Balinoks comes to an end here, where it looks as
+if the fist of some mighty god has smashed open a part of the land.  Debris
+is strewn about, and sharp, craggy shards of rock are adorned with tattered
+rags and blood, parting gifts of the last party of adventurers who attempted
+this treacherous crossing.  An unsettling cloud of dust lingers in the air
+here, smelling faintly of ash and cinders.  
+~
+0 0 0
+D3
+~
+~
+0 0 31580
+D5
+~
+~
+0 0 31582
+S
+#31582
+Devil's Descent~
+Devil's Pass comes to an abrupt end here, a sheer rock face plummeting
+hundreds of meters downwards.  A few ledges lie strewn about the descent,
+some strewn with the bones of unlucky wanderers who seem to have made their
+last stand here.  You can barely make out scrawling on the rock face near
+one of the ledges, but you are much too far to make anything of it.  
+~
+0 0 0
+D4
+~
+~
+0 0 31581
+D5
+~
+~
+0 0 31583
+S
+#31583
+Devil's Descent~
+The descent is steep, and your bones ache with weariness as you rather
+unsuccessfully attempt to scum your way down the rock face.  Foot and hand
+holds are few and far between, and often come in the form of small crystals
+jutting a mere quarter inch from the sheer rock face.  
+~
+0 0 0
+D4
+~
+~
+0 0 31582
+D5
+~
+~
+0 0 31584
+S
+#31584
+Devil's Descent~
+The descent is steep, and your bones ache with weariness as you rather
+unsuccessfully attempt to scum your way down the rock face.  Foot and hand
+holds are few and far between, and often come in the form of small crystals
+jutting a mere quarter inch from the sheer rock face.  
+~
+0 0 0
+D3
+~
+~
+0 0 31585
+D4
+~
+~
+0 0 31583
+D5
+~
+~
+0 0 31586
+S
+#31585
+Overlook~
+A small overlook juts out 20 feet from the cliff face.  Peering over the
+balcony you can see a pair of dirt-caked windows in the cliff face below,
+roughly 100 feet under the platform.  
+~
+0 0 0
+D1
+~
+~
+0 0 31584
+S
+#31586
+Bone Heap~
+Executed prisoners hang from the edge of the overlook for all to see. 
+After several days, the rope is cut.  The body plummets to the rocks at the
+base of the castle, where it's skeleton is picked clean by scavengers. 
+Welcome to bone heap, glad you could drop by.  
+~
+0 0 0
+D2
+~
+~
+0 0 31587
+D4
+~
+~
+0 0 31584
+S
+#31587
+Approach~
+Towering before you stands Castle Ravenloft, crouched upon a precipice. 
+You are balancing on a decaying drawbridge, connecting the castle to the
+nearby cliffs.  A sudden creak escapes from the drawbridge, discouraging any
+dallying on the approach.  
+~
+0 0 0
+D0
+~
+~
+0 0 31586
+D2
+~
+~
+0 0 31588
+S
+#31588
+Collapsed Aproach~
+The ropes that hold the bridge in place struggle under your weight,then
+break under the load.  Tangled in the broken bridge, you fall a couple of
+hundred feet.  The falling was rather exhilirating, but that landing really
+did hurt!  
+~
+0 0 0
+D0
+~
+~
+0 0 31587
+D1
+~
+~
+0 0 31589
+S
+#31589
+The Maw~
+A short tunnel with a rotting wooden portcullis creates a gaping maw
+through which visitors (or fools) enter the castle.  The hinges have begun
+to rust, and the gate shrieks and groans as it swings reluctantly open upon
+them.  
+~
+0 0 3
+D1
+~
+~
+0 0 31590
+D3
+~
+~
+0 0 31588
+S
+#31590
+Main Entrance~
+A feeling of age and ruin permeates the setting, even if the servants
+make efforts to the contrary.  Dust cloaks the floors, the stone walls
+crumble in decay, and even the iron gates are paralyzed by rust.  
+ 
+Welcome to Castle Ravenloft, ancestral home of the Lord of Barovia.
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 31591
+D3
+~
+~
+0 0 31589
+S
+#31591
+Great Entry~
+The castle keep's structure is massive and gloomy, with high vaulted
+ceilings, sweeping staircases, and dark, endless hallways.  The whole place
+suggests a sinister animation.  The frowning walls are staring down at you,
+wondering what you could possibly want in their castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 31594
+D1
+~
+~
+0 0 31593
+D2
+~
+~
+0 0 31590
+D3
+~
+~
+0 0 31592
+S
+#31592
+Guest Hall~
+A sudden sharp screeching sound pierces the silence of the hall,
+eventually giving way to cries that are almost human.  A red carpet, like a
+flaming tongue, runs down the hallway into the great entry.  
+~
+0 0 0
+D1
+~
+~
+0 0 31591
+S
+#31593
+Dining Hall~
+In livelier times, meals, meetings, and court trials would have been held
+here.  Now all that's left is the mortar crumbling between the weathered
+stones.  It's obvious that either there is no inhabitant to this castle, or
+the castle's inhabitant has no desire for an attractive abode.  The latter
+makes you pause for thought.  
+~
+0 0 0
+D3
+~
+~
+0 0 31591
+S
+#31594
+Audience Hall~
+While awaiting audience with the master vampire, the guests had the
+opportunity of examining this hall which displays trophies and other
+gruesome portrayals of the lords accomplishments.  
+~
+0 4 0
+D0
+~
+~
+0 0 31595
+D2
+~
+~
+0 0 31591
+S
+#31595
+Rooms of  Weeping~
+These rooms were once the grand living quarters of the Von Zarovich
+family.  Like most of the castle, these rooms are now cloaked in dust and
+decay.  Small crystal-shaped teardrops are strewn about the floor, and you
+feel, in this room, the embodiment of true sorrow.  
+~
+0 0 0
+D0
+~
+~
+0 0 31598
+D1
+~
+~
+0 0 31597
+D2
+~
+~
+0 0 31594
+D3
+~
+~
+0 0 31596
+S
+#31596
+Rooms of  Weeping~
+These rooms were once the grand living quarters of the Von Zarovich
+family.  Like most of the castle, these rooms are now cloaked in dust and
+decay.  Small crystal-shaped teardrops are strewn about the floor, and you
+feel, in this room, the embodiment of true sorrow.  
+~
+0 0 0
+D1
+~
+~
+0 0 31595
+S
+#31597
+Rooms of  Weeping~
+These rooms were once the grand living quarters of the Von Zarovich
+family.  Like most of the castle, these rooms are now cloaked in dust and
+decay.  Small crystal-shaped teardrops are strewn about the floor, and you
+feel, in this room, the embodiment of true sorrow.  
+~
+0 0 0
+D3
+~
+~
+0 0 31595
+S
+#31598
+Courtyard~
+A small fountain lies in the center of the courtyard.  The base of the
+fountain is filled with brackish water and decaying leaves, and the
+apertures are clogged with moss and mildew.  It has obviously been abandoned
+for quite some time.  
+~
+0 0 0
+D0
+~
+~
+0 0 31599
+D2
+~
+~
+0 0 31595
+S
+#31599
+North Tower~
+This squat tower houses witches and other evil spellcasters whom Strahd
+has enslaved.  Silent pleas for freedom, travelling on snakes tongues
+slither your way, only to be cut short by another.  Moss-covered stones have
+been dug out of the mortar, and lie strewn about aimlessly, surrounded by
+pools of some unknown black substance that seems to be slowly digesting the
+minerals.  
+~
+0 4 0
+D1
+~
+~
+0 0 31621
+D2
+~
+~
+0 0 31598
+D5
+~
+~
+0 0 31600
+S
+#31600
+A Stone Dungeon Cell~
+There is little beauty in this cold stone dungeon cell, but you do notice
+some scratchings on the walls.  Taking a closer look you realize that it's
+writing, in the arcane language of magic.  
+~
+0 0 0
+D1
+~
+~
+0 0 31603
+D3
+~
+~
+0 0 31601
+D4
+~
+~
+0 0 31599
+S
+#31601
+A Stone Slab Lowers from the Ceiling~
+A huge block of solid rock is slowly being lowered from the ceiling, just
+a few feet ahead, effectively blocking any further exploration along this
+rather plain and boring cobblestone passage.  
+~
+0 0 0
+D1
+~
+~
+0 0 31600
+D2
+~
+~
+0 0 31602
+S
+#31602
+Another Stone Slab drops behind you~
+Suddenly, the sound of rock grinding and scraping against itself comes
+from behind as a second stone slab, just as huge as massive as the first
+one,slowly lowers and closes off the only existing exit from this part of
+this seemingly cursed passage.  
+~
+0 5 0
+S
+#31603
+Knee Deep In Blood~
+Well hidden vents open up on each side of the now closed off
+passageway,allowing a sticky dark red liquid to gush into the pseudo room,
+quickly filling it with fresh hot blood, while emptying it of what little
+breathing air is left.  
+~
+0 0 0
+D1
+~
+~
+0 0 31604
+D3
+~
+~
+0 0 31600
+S
+#31604
+Blood Slowly Fills Your Lungs~
+The blood slowly creeps into your system, through the same openings where
+the last breath of air escaped your lungs, coating your insides with it's
+sticky slime-like substance.  Through blurred-red vision, you can barely
+discern something incredibly huge, swimming along in this blood bath.  
+~
+0 4 0
+D1
+~
+~
+0 0 31605
+D3
+~
+~
+0 0 31603
+S
+#31605
+River of Blood~
+The tunnel becomes much larger above and below.  A wind, cold compared to
+the bloodwater, sounds a deep bass note as it rushes down the tunnel.  Steam
+rises in clouds from the crimson fluid.  Through the steam, you see bones
+lining the tunnel.  
+~
+0 4 0
+D1
+~
+~
+0 0 31606
+D3
+~
+~
+0 0 31604
+S
+#31606
+Skeletal Tunnel~
+The framework of the bone tunnel continues along here.  Animated
+skeletons crawl over the filament ends, suspending themselves in contorted
+positions.  Wraiths, insubstantial spirits now barely recognizable as human,
+wrap their ectoplasm around the skeletons.  
+~
+0 0 0
+D0
+~
+~
+0 0 31607
+D3
+~
+~
+0 0 31605
+S
+#31607
+Skeletal Tunnel~
+The framework of the bone tunnel continues along here.  Animated
+skeletons crawl over the filament ends, suspending themselves in contorted
+positions.  Wraiths, insubstantial spirits now barely recognizable as human,
+wrap their ectoplasm around the skeletons.  
+~
+0 0 0
+D0
+~
+~
+0 0 31646
+D2
+~
+~
+0 0 31606
+S
+#31608
+Vampire Coffins~
+This coffin area is formed completely out of human remains, mostly
+skeletal by now.  The whole setting of death is very disturbing, as a river
+of blood moves sluggishly along the floor of the tunnel, trying to pull you
+back the;way you came from.  
+~
+0 0 0
+D3
+~
+~
+0 0 31610
+D4
+~
+~
+0 0 31635
+S
+#31610
+The Coffin Room~
+A massive sarcophagus, made out of pure onyx, dominates the centre of the
+Tomb.  Intricate runes of masterful Elven, Dwarven and Human design decorate
+the coffin, and the fact that you can interpret some of them as meaning
+Death, Destruction and Chaos Unending does nothing to appease the growing
+horror that slowly infects you.  Two massive, adamantite locks seal the
+burial chamber, but as you pass your gaze over them, you hear a distinctive
+clicking sound, as both suddenly unlock.  A sudden urge to turn tail and run
+overwhelms you.  
+~
+0 0 0
+D1
+~
+~
+0 0 31608
+D5
+~
+~
+0 0 31611
+S
+#31611
+Secret Coffin Chamber~
+You have entered a hidden room underneath the crypt of the vampires. 
+This is where the accumulated wealth and treasures that the great vampire. 
+Collected in it's mortal life are stored.  Large golden urns containing vast
+amounts of coins line the walls, as well as jewelled swords, suits of
+polished armor and other valuable trinkets.  Quick, you'd better grab some
+before they get taken by your fellow groupies.  
+~
+0 0 0
+D3
+~
+~
+0 0 31612
+D4
+~
+~
+0 0 31610
+S
+#31612
+Inside a Tomb~
+You have just entered the tomb of the all powerful master vampire.  A
+cold feeling of death intrudes upon your being as you notice the bones of
+some daring adventurers, less fortunate than you hope to be.  
+~
+0 0 0
+D1
+~
+~
+0 0 31611
+S
+#31613
+Graveyard~
+About the whole place there hangs an atmosphere peculiar to itself and
+it's immediate vicinity, an atmosphere which has no affinity with the air of
+heaven..  A pestilant and mystic vapour, dull, sluggish, faintly discernible
+and leaden-hued.  
+~
+0 0 0
+D2
+~
+~
+0 0 31635
+D3
+~
+~
+0 0 31615
+D5
+~
+~
+0 0 31614
+S
+#31614
+Death Knights Tomb~
+A faint whiff of sulphur reaches your nostrils as you set foot in the
+ancient tomb of a fallen knight.  Mystic runes, indescribably complex, line
+the musty walls, floor, and ceiling, covering every inch.  A large, ornate
+altar rests in the center of the mausoleum, the tragic story of the knight's
+mortal life having been inscribed upon its surface long ago.  The wailing of
+many a banshee can be heard in the background, piercing your eardrums and
+making your head throb, yet the inhabitant of this dismal abode does not
+seem to notice either way.  
+~
+0 1 0
+D4
+~
+~
+0 0 31613
+S
+#31615
+Graveyard~
+About the whole place there hangs an atmosphere peculiar to itself and
+it's immediate vicinity, an atmosphere which has no affinity with the air of
+heaven..  A pestilant and mystic vapour, dull, sluggish, faintly discernible
+and leaden-hued.  
+~
+0 0 0
+D1
+~
+~
+0 0 31613
+D5
+~
+~
+0 0 31616
+S
+#31616
+Grim Reaper's Den~
+An immortal, unending chill surrounds this shadowed alcove, which serves
+as a home for the legendary deathbringer.  The complete lack of furnishing,
+as well as the fact that the niche is utterly devoid of life - not one trace
+of lichen, moss or mold adorns the stones - indicates the taste of the
+inhabitant.  Death, the Grim Reaper, sits on a stone pedestal, staring at
+you quizzically, as if he expected you to drop by any moment, either way.  
+ 
+~
+0 0 0
+D4
+~
+~
+0 0 31615
+S
+#31617
+Master Vampires Tomb~
+This is the tomb of the all powerful master vampire.  A cold feeling of
+death intrudes upon your being as you notice the bones of some daring
+adventurers, less fortunate than you hope to be.  Although, judging by the
+dirt and grime under their nails, it looks more like they were trying to
+claw their way out of this abysmal prison to the undead, rather than explore
+further.  
+~
+0 4 0
+S
+#31618
+Mists of Ravenloft~
+The mists surround the entire Core, forming an embrace from which
+nothing,and no one, readily can escape.  The vapor seems to rise directly
+from the land and its seas, though ordinary water vapor it is not.  
+~
+0 0 0
+D0
+~
+~
+0 0 31619
+D3
+~
+~
+0 0 31640
+S
+#31619
+Mist of Ravenloft~
+The mists surround the entire Core, forming an embrace from which
+nothing, and no one, readily can escape.  The vapor seems to rise directly
+from the land and its seas, though ordinary water vapor it is not.  You
+begin to feel lost in the neverending mists, and despair permeates your soul
+for a second, after which you realize that it is simply the effect that
+Barovia has on the unprepared of spirit.  
+~
+0 0 3
+D1
+~
+~
+0 0 31620
+D2
+~
+~
+0 0 31618
+S
+#31620
+Mists Of Ravenloft~
+You stand in a thicker section of mist, where breathing is becoming more
+and more difficult.  Air comes to your lungs in short breaths, causing you
+to wheeze and gag.  The vapors emanating from the ground are joined by a
+musty fog that seems to fall from directly overhead, furthering your
+discomfort.  
+~
+0 0 0
+D1
+~
+~
+0 0 31576
+D3
+~
+~
+0 0 31619
+S
+#31621
+Twisted Staircase~
+This winding staircase spirals along the walls of the cylindrical central
+portion of this living prison, reflecting the desires of the creatures
+trapped within it through it's distorted twisting pattern.  
+~
+0 0 0
+D1
+~
+~
+0 0 31622
+D3
+~
+~
+0 0 31599
+S
+#31622
+Circular Stairs~
+The stairs continue winding through the narrow tower, passing by a window
+or even a door once in a while, climbing higher and higher up the tower. 
+The view of Barovia must be incredible from the top.  
+~
+0 0 0
+D3
+~
+~
+0 0 31621
+D5
+~
+~
+0 0 31624
+S
+#31623
+Collapsed Debris~
+It seems that part of this tower has collapsed, probably due to decay. 
+Unfortunately, the collapsed debris completely covers the stairs here,
+blocking your ascent.  
+~
+0 0 0
+D3
+~
+~
+0 0 31624
+S
+#31624
+Circular Stairs~
+The stairs continue winding through the narrow tower, passing by a window
+or even a door once in a while, climbing higher and higher up the tower. 
+The view of Barovia must be incredible from the top.  
+~
+0 0 0
+D1
+~
+~
+0 0 31623
+D4
+~
+~
+0 0 31622
+D5
+~
+~
+0 0 31625
+S
+#31625
+The High Tower~
+This tower soars higher than any other in Barovia, it's turret nearly
+piercing the clouds.  Locals believe that Strahd sometimes can be found at
+the top, gazing over his lands.  A circular stair winds through this narrow
+tower from top to bottom, creaking and moaning under your footsteps.  
+~
+0 0 0
+D1
+~
+~
+0 0 31626
+D4
+~
+~
+0 0 31624
+S
+#31626
+Further Down the Staircase~
+This narrow staircase climbs the tower from top to bottom, spiraling
+along the wall.  The staircase seems to shake and pitch once in a while, as
+if the whole tower were alive.  
+~
+0 0 0
+D3
+~
+~
+0 0 31625
+D4
+~
+~
+0 0 31627
+D5
+~
+~
+0 0 31627
+S
+#31627
+Creaking Narrow Staircase~
+The staircase seems unsturdy here, as if it could give way any second. 
+The pitchings and shakings seem to get worse here, throwing you off balance
+and threatening to send you flying down into the dark void below.  You
+should probably get out of here as fast as you can.  
+~
+0 0 0
+D1
+~
+~
+0 0 31629
+D5
+~
+~
+0 0 31626
+S
+#31628
+Shadow Dragons Lair~
+Although the bottom of the well seems to be hundreds of feet into the
+depths of the mountain, there is variegated lighting with patches of diffuse
+light and deep, inky shadows.  The masses of shadow seem to shift and throb
+from time to time, perhaps changing into more comfortable positions.  
+~
+0 1 0
+D4
+~
+~
+0 0 31629
+S
+#31629
+Open Well~
+The dark, open well at the centre of the tower hungrily awaits those
+lucky intruders who have been knocked off the narrow staircase by it's
+shaking and pitching.  The well seems to descend far beyond where the stairs
+began.  
+~
+0 4 0
+D3
+~
+~
+0 0 31627
+D4
+~
+~
+0 0 31630
+D5
+~
+~
+0 0 31628
+S
+#31630
+The Tower of Sorrow~
+This hollow tower seems to be alive.  Along the centre of the tower,
+there is a dark, open well descending into darkness.  Spiraling along the
+wall, a narrow staircase climbs the tower from top to bottom.  
+~
+0 0 0
+D5
+~
+~
+0 0 31629
+S
+#31631
+Drinking Hall~
+The east wing is reserved for the drinking crowd.  Villagers know it's a
+rough place at night, and avoid it.  As the shadows lengthen, the customers
+become more brutish, and few who stay here after dark are heard from again. 
+~
+0 4 0
+D1
+~
+~
+0 0 31632
+D2
+~
+~
+0 0 31636
+D3
+~
+~
+0 0 31633
+S
+#31632
+The Kitchen~
+The aroma of baked beets drifts from this room, which was added to the
+original inn many years after it was constructed.  A large root cellar lies
+below the kitchen, stocked with an ample supply of meekulbrau.  
+~
+0 4 0
+D3
+~
+~
+0 0 31631
+S
+#31633
+Dining Hall~
+The west wing of the inn houses the dining hall.  Through the glass
+windows, guests can watch the sunset caress the treetops of the forest, as
+they finish off what most probably will be their last meal.  
+~
+0 0 0
+D1
+~
+~
+0 0 31631
+S
+#31634
+Oval Chamber~
+The skeletal tunnel opens up in this area to an incredibly large
+diameter, giving this part of the tunnel a very oval shape.  There is a huge
+stone slab in the center of the cavern, with a symbol sketched on it.  The
+rune of death.  On the walls, written in fresh blood are messages of
+impending doom.  
+~
+0 0 0
+D0
+~
+~
+0 0 31650
+D5
+~
+~
+0 0 31647
+S
+#31635
+Outside the Tomb~
+As you approach the arched entrance to the tomb of the master vampire, a
+disembodied scream pierces the air.  Phantasms materialize in front of you,
+warning of imminent death, and encourage you to turn back, then dissipate
+into the walls, vanishing without a trace.  A long trail of old, dried blood
+leads up to the arch, but ends there, without any sign of a struggle or a
+body to indicate that there might have been one.  Your gut feeling is to
+turn tail and run from this house of horrors.  
+~
+0 4 0
+D0
+~
+~
+0 0 31613
+D2
+~
+~
+0 0 31648
+D5
+~
+~
+0 0 31608
+S
+#31636
+The Inn of Karatan~
+The Inn of Karatan is probably the only safe respite for adventurers in
+their travels through Ravenloft, where they can enjoy one last meal, and bed
+one last woman, before the Lords of the Night claim their souls as their
+own.  Those who have even a meager inkling of intelligence understand that
+as the sun drifts west, and the granite cliffs circling the lakes reflect
+from the water in shades of gold, and then red, the forest is no place for
+travelers to tarry.  Yet tarry some will..  
+~
+0 0 0
+D0
+~
+~
+0 0 31631
+D1
+~
+~
+0 0 31557
+D2
+~
+~
+0 0 31637
+S
+#31637
+Karatan Forest~
+The woods are wild, rambling and dense, with armies of ancient
+timber,towering and black.  The air is heavy with the scent of wet earth,
+yet alive with expectation.  If there was ever a path running through here,
+not a trace of it is left to guide you.  
+~
+0 0 0
+D0
+~
+~
+0 0 31636
+D1
+~
+~
+0 0 31638
+S
+#31638
+Karatan Forest~
+The woods are wild, rambling and dense, with armies of ancient
+timber,towering and black.  The air is heavy with the scent of wet earth,
+yet alive with expectation.  If there was ever a path running through here,
+not a trace of it is left to guide you.  
+~
+0 0 0
+D1
+~
+~
+0 0 31554
+D3
+~
+~
+0 0 31637
+S
+#31639
+~
+~
+0 4 0
+S
+#31640
+Pocket of Air~
+Submerging yourself beneath the thrashing spray of the waterfall, you
+swim into an unusual, stationary bubble of clean air.  From your viewpoint,
+you gaze with admiration on the plethora of exotic fish, and deadly
+predators that inhabit these waters.  It seems that this bubble is fed by a
+tunnel of source unknown to you, from which you can hear sounds of hissing
+and the grating of claws on stone.  
+~
+0 4 8
+D1
+~
+~
+0 0 31618
+D4
+~
+~
+0 0 31574
+S
+#31641
+In the Mists of Ravenloft~
+You are within the mists that surround the entire Core, forming an
+embrace which nothing, and noone, can readily escape.  The vapor seems to
+rise from the land and the seas, swirling tumultuously about you with a life
+of its own, though ordinary water vapor it most certainly is not.  
+~
+0 0 0
+D0
+~
+~
+0 0 31642
+S
+#31642
+In the Mists of Ravenloft~
+You are within the mists that surround the entire Core, forming an
+embrace which nothing, and noone, can readily escape.  The vapor seems to
+rise from the land and the seas, swirling tumultuously about you with a life
+of its own, though ordinary water vapor it most certainly is not.  
+~
+0 0 0
+D0
+~
+~
+0 0 31643
+D2
+~
+~
+0 0 31641
+S
+#31643
+In the Mists of Ravenloft~
+You are within the mists that surround the entire Core, forming an
+embrace which nothing, and noone, can readily escape.  The vapor seems to
+rise from the land and the seas, swirling tumultuously about you with a life
+of its own, though ordinary water vapor it most certainly is not.  
+~
+0 0 0
+D0
+~
+~
+0 0 31646
+D2
+~
+~
+0 0 31642
+S
+#31644
+Skeletal Tunnel~
+The framework of the bone tunnel continues along here.  Animated
+skeletons crawl over the filament ends, suspending themselves in contorted
+positions.  Wraiths, insubstantial spirits now barely recognizable as human,
+wrap their ectoplasm around the skeletons.  
+~
+0 1 0
+D0
+~
+~
+0 0 31648
+D3
+~
+~
+0 0 31646
+S
+#31645
+Skeletal Tunnel~
+The framework of the bone tunnel continues along here.  Animated
+skeletons crawl over the filament ends, suspending themselves in contorted
+positions.  Wraiths, insubstantial spirits now barely recognizable as human,
+wrap their ectoplasm around the skeletons.  
+~
+0 0 0
+D0
+~
+~
+0 0 31647
+D1
+~
+~
+0 0 31646
+S
+#31646
+Skeletal Tunnel~
+The framework of the bone tunnel continues along here.  Animated
+skeletons crawl over the filament ends, suspending themselves in contorted
+positions.  Wraiths, insubstantial spirits now barely recognizable as human,
+wrap their ectoplasm around the skeletons.  
+~
+0 0 0
+D0
+~
+~
+0 0 31649
+D1
+~
+~
+0 0 31644
+D2
+~
+~
+0 0 31607
+D3
+~
+~
+0 0 31645
+S
+#31647
+Skeletal Tunnel~
+The framework of the bone tunnel continues along here.  Animated
+skeletons crawl over the filament ends, suspending themselves in contorted
+positions.  Wraiths, insubstantial spirits now barely recognizable as human,
+wrap their ectoplasm around the skeletons.  
+~
+0 4 0
+D1
+~
+~
+0 0 31649
+D2
+~
+~
+0 0 31645
+D4
+~
+~
+0 0 31634
+S
+#31648
+Skeletal Tunnel~
+The framework of the bone tunnel continues along here.  Animated
+skeletons crawl over the filament ends, suspending themselves in contorted
+positions.  Wraiths, insubstantial spirits now barely recognizable as human,
+wrap their ectoplasm around the skeletons.  
+~
+0 4 0
+D0
+~
+~
+0 0 31635
+D2
+~
+~
+0 0 31644
+D3
+~
+~
+0 0 31649
+S
+#31649
+Skeletal Tunnel~
+The framework of the bone tunnel continues along here.  Animated
+skeletons crawl over the filament ends, suspending themselves in contorted
+positions.  Wraiths, insubstantial spirits now barely recognizable as human,
+wrap their ectoplasm around the skeletons.  
+~
+0 0 0
+D1
+~
+~
+0 0 31648
+D2
+~
+~
+0 0 31646
+D3
+~
+~
+0 0 31647
+S
+#31650
+The Grand Audience Room~
+Large, flowing tapestries depicting long-forgotten wars adorn the wall of
+this lavishly decorated room.  The scent of lavender, mixed with a tinge of
+sulphur, reaches your nose, creating quite a pleasant combination.  A
+skillfully crafted, towering marble throne dominates the center of the room
+covered in runes and depictions of ancient lords who once commandeered the
+House of Zarovich.  Sitting in quiet dominion over these lush surroundings
+is the Lord himself, waited upon by countless undead servants, bound to his
+will for eternity by arcane magicks beyond reckoning.  You barely resist the
+urge to bow low to the floor faced with such an awe-inspiring presence.  
+ 
+~
+0 16389 0
+D2
+~
+~
+0 0 31634
+S
+#0
+
+
+
+#SPECIALS
+M 31612 spec_breath_gas Load to: The Master Vampire
+M 31650 spec_cast_undead Load to: Strahd Von Zarovich
+S
+
+
+
+#RESETS
+M 0 31650 1 31650
+E 0 31650 0 0
+M 0 31616 1 31616
+E 0 31616 0 0
+M 0 31552 1 31552
+M 0 31631 1 31631
+M 0 31553 6 31554
+M 0 31563 2 31563
+M 0 31619 6 31619
+M 0 31597 2 31597
+M 0 31601 2 31601
+M 0 31646 5 31646
+M 0 31614 1 31614
+M 0 31612 1 31612
+M 0 31611 4 31611
+M 0 31623 1 31623
+M 0 31628 1 31628
+G 0 31628 0
+O 0 31598 0 31598
+M 0 31580 1 31580
+E 0 31580 0 0
+M 0 31579 1 31579
+E 0 31579 0 0
+M 0 31598 1 31598
+M 0 31589 1 31589
+M 0 31602 1 31602
+M 0 31634 1 31634
+O 0 31649 0 31650
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

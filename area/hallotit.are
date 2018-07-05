@@ -1,0 +1,920 @@
+#AREADATA
+Name        Wynfair The Hall of the Titans~
+Builders    None~
+VNUMs       19250 19280
+Security    1
+End
+
+
+
+#MOBILES
+#19250
+cronos titan~
+Cronos The Titan~
+Cronos, The Lord of Time is standing here.
+~
+The Master of all time. The Great Cronos is here watching over all. Even his sone Zeus, whom Kicked his ass.
+~
+268435523 1172158 0 S
+142 0 0 1d1+99 1d1+9
+0 0
+0 0 1
+#19251
+skeleton~
+A skeleton~
+An ugly ass skeleton is here, putting himself back together.
+~
+Its a bony Skeleton, what did you expect.
+~
+99 552 0 S
+51 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19252
+ghoul~
+A Ghoul~
+There is a gross ghoul floating here.
+~
+Yup, its what it looks like.
+
+A GHOUL!
+~
+67 524840 -1000 S
+38 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19253
+hades underworld ruler~
+Hades~
+Hades the Ruler of the Underworld is here
+~
+Its the Master of the Undead Realm.
+~
+67 1155754 -1000 S
+76 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19254
+bobcat~
+A Bobcat~
+A bobcat is here, eating a corpse.
+~
+It has fur, claws, A body and a head, don't forget the tail. Hmm..Maybe its a Bobcat.
+~
+67 0 0 S
+51 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19255
+bear~
+A bear~
+A brown bear is here looking for a tree to rub his back on.
+~
+Its A bigass brown bear.
+~
+67 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19256
+titan Gaea mother~
+Gaea~
+Gaea, the mother of the Earth is here
+~
+She is covered in leaves from head to toe.
+~
+67 1680042 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#19257
+treasure dragon~
+The Treasure Dragon~
+A dragon of unbelievable size is here guarding the treasure.
+~
+ITS A HUGE DRAGON
+~
+103 1680042 0 S
+993 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19258
+guard giant~
+A Giant Guard~
+A giant guard is here.
+~
+~
+67 0 0 S
+59 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19259
+massive guard dog~
+A massive guard dog~
+There is a massive dog here guarding the hall.
+~
+~
+65 552 0 S
+46 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19260
+titan Rhea mother~
+The Titan Rhea~
+The Mother of Zeus, Rhea is here.
+~
+~
+65 0 1000 S
+138 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#19261
+atlas titan~
+Atlas~
+Atlas is here holding up the world 
+~
+~
+67 128 0 S
+109 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19262
+charon ferryman~
+Charon the Ferryman~
+Charon, The Ferryman of the River Styx is here
+~
+~
+67 0 0 S
+88 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19263
+persephone titan undead~
+Persephone~
+Persephone, Hades Wife, is here standing with her lover.
+~
+~
+67 256 0 S
+70 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#19264
+spirit lost~
+A lost spirit~
+A lost spirit is trying to find its way.
+~
+~
+65 0 0 S
+78 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#19265
+lost soul~
+A lost soul~
+A lost soul is wandering around and looking for redemption.
+~
+~
+65 0 0 S
+73 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#19266
+redeemer spirit~
+The Redeemer~
+The Reedeemer of souls is here to test you.
+~
+~
+99 533160 -1000 S
+446 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#19250
+Golden Key~
+a Huge Golden Key~
+A huge golden key is lying here.~
+~
+18 1 1
+0 0 0 0
+200 10000 0
+#19251
+dark black key huge~
+a Huge Dark Black Key~
+A dark key is lying here.~
+~
+18 4 1
+0 0 0 0
+200 0 0
+#19252
+glowing silver huge key~
+a Huge Glowing Silver Key~
+A silver key is lying on the floor here.~
+~
+18 1 1
+0 0 0 0
+200 0 0
+#19253
+staff power mages~
+mages' Staff of Balance~
+An awesome staff lies here radiating power.~
+~
+5 -31135 8193
+0 5 10 8
+150 0 0
+A
+18 14
+A
+19 14
+A
+17 300
+A
+12 1000
+#19254
+claw divinity~
+the Claw of Divinity~
+An awesome claw of a great gold dragon is lying here.~
+~
+5 -29599 8193
+0 10 10 5
+200 0 0
+A
+13 1000
+A
+17 300
+A
+19 10
+A
+18 10
+#19255
+demonic lance evil~
+the Demonic Lance of Evil~
+A dark black lance is here radiating darkness against the light.~
+~
+5 -30190 8193
+0 10 20 11
+44 0 0
+A
+13 1000
+A
+17 300
+A
+18 10
+A
+19 10
+#19256
+sword dark undead power~
+the Dark Sword of Undead Power~
+A dark, evil sword is lying here.~
+~
+5 -30156 8193
+0 10 20 3
+200 0 0
+A
+9 25
+A
+17 300
+A
+18 10
+A
+19 10
+#19257
+orb sphere~
+the Orb of Time~
+The spherical shaped Orb of time is here on a pedestal.~
+~
+8 65 24577
+0 1 6 11
+5 2147483647 0
+A
+17 500
+A
+18 50
+A
+19 50
+#19258
+pile gold~
+a pile of gold~
+A huge pile of gold.~
+~
+20 0 1
+50000 1 6 11
+5 0 0
+#19259
+helm~
+the Treasure Dragon's Helm~
+The Huge Helm of the Treasure Dragon.~
+~
+9 0 17
+0 1 6 11
+5 0 0
+#19260
+axe redeemer~
+the Redeemer's Axe~
+A holy axe is lying here.~
+~
+5 2608 8193
+0 10 20 3
+5 0 0
+A
+2 -20
+A
+1 -20
+A
+19 20
+A
+18 20
+E
+axe~
+An extraordinary axe with an extremely fine blade. Although you sense something more hideous about the axe than meets the eye.~
+#0
+
+
+
+#ROOMS
+#19250
+The Hall of The Titans~
+The large hall continues down a massive tunnel.  There are giant suits of
+full plate armor stranding motionless along the walls.  You see several
+doors branching off of the large hall and small pieces of the red carpet
+leading you into each one.
+~
+0 8192 0
+D0
+~
+~
+0 -1 19251
+D2
+~
+~
+0 0 951
+S
+#19251
+The seemingly endless hall~
+The overall size of this place is breathtaking.  You now know what an ant
+feels like.  The tapestries seem to go on forever.  You have just now passed
+the end of the second one.  Off in the distance you can make out what
+appears to be a set of stairs.
+~
+0 8192 0
+D0
+~
+~
+0 -1 19252
+D1
+~
+~
+0 0 19269
+D2
+~
+~
+0 -1 19250
+S
+#19252
+The Great Hall~
+No matter what angle you look at the approaching stairs, they just keep
+getting bigger.  You just might have to get a rope, or learn to fly, to
+climb those stairs.
+~
+0 8192 0
+D0
+~
+~
+0 -1 19253
+D2
+~
+~
+0 -1 19251
+D3
+~
+~
+0 -1 19260
+S
+#19253
+The bottom of the Stairs.~
+You are now at the bottom of the this massive set of stairs.  Each step
+is an easy human story, about 20 feet.  What a climb this is goin to be.
+~
+0 8192 0
+D2
+~
+~
+0 -1 19252
+D4
+~
+~
+0 -1 19254
+S
+#19254
+On the massive staircase~
+So far it has been quite exhausting climbing this massive set of stairs. 
+You can only imagine what huge things must lie ahead.
+~
+0 8192 9
+D4
+~
+~
+0 -1 19255
+D5
+~
+~
+0 -1 19253
+S
+#19255
+The top of the massive staircase~
+You are very exhausted by the long climb to the top of the massive
+staircase.  Many doors are along the walls, you also notice that there are
+some tapestries that line the walls.
+~
+0 8192 9
+D0
+~
+~
+0 -1 19256
+D5
+~
+~
+0 -1 19254
+S
+#19256
+Entrance to the warm hallway~
+You see elaborate tapestries along the walls.  Further north you can
+barely see what appears to be a glint of light reflecting off some armor.
+~
+0 8192 0
+D0
+~
+~
+0 -1 19257
+D2
+~
+~
+0 -1 19255
+S
+#19257
+In the warm hallway~
+When you walk into this section of the hallway you take notice of the
+large pedestals that have busts of great leaders placed on them.  The are
+situated along the hallway with polished suits of armor.  Up ahead you can
+see two giant-sized guards vigilantly guarding a huge set of oaken, double
+doors.
+~
+0 8192 0
+D0
+~
+~
+0 -1 19258
+D1
+~
+~
+0 19252 19264
+D2
+~
+~
+0 -1 19256
+S
+#19258
+End of the warm hallway~
+Standing in front of you is a huge set of oaken, double doors.  A great
+dragon has been intricately carved into them.
+~
+0 8192 0
+D0
+A huge set of oaken, double doors.
+~
+door~
+0 19251 19259
+D2
+~
+~
+0 -1 19257
+S
+#19259
+The chamber of the Titans~
+There is a giant sphere in the center of the room.  Mystical markings are
+etched all over the walls, their meaning is beyond comprehension.  This
+Appears to be the meeting place of the Titans.
+~
+0 8192 0
+D2
+~
+~
+0 -1 19258
+D5
+~
+~
+0 19250 19268
+S
+#19260
+A darkened room~
+You stand in a room which is lit only by the eerie glow of a silver door.
+There is a sense of nothingness to the air, and a faint smell of the
+wilderness tickles your nose.
+~
+0 0 0
+D3
+~
+~
+0 -1 19261
+S
+#19261
+Deep in the wilderness~
+You find yourself surrounded by trees and the like as you realize that
+your no longer in the great hall of the Titans.  There is a srange noise
+looming in the air, it sends chills down your spine and you just now notice
+that the silvery door of your entrance is gone.
+~
+0 0 0
+D3
+~
+~
+0 -1 19262
+S
+#19262
+The grove of Damnation~
+After hours of wandering in the woods you spot a small grove and dart
+toward it, asuming it would be a better place to camp for the night rather
+than sleep on the thorny bushes.  Upon entering you see a glowing portal,
+cascading the west side of the grove, in just a few seconds, it envelopes
+the area, and you with it.  Your only viable option is to go west.
+~
+0 0 0
+D3
+~
+~
+0 -1 19263
+S
+#19263
+In the Portal~
+You are standing in a blinding portal of light.  The light starts to dim
+and a being appears to defend her domain.
+~
+0 -32768 0
+D3
+~
+~
+0 -1 19252
+S
+#19264
+The Chamber of Death~
+There are bones and corpses scattered everywhere.  The smell of death
+looms over everything.  Your stomach churnes and your eyes bulge as you see
+the horror that is spewed out before you.
+~
+0 0 0
+D1
+~
+~
+0 -1 19265
+S
+#19265
+The walk of Death~
+More bodies come flying at you in a rushing effort to defend the secrets
+of the temple.
+~
+0 0 0
+D1
+~
+~
+0 -1 19266
+D3
+~
+~
+0 -1 19264
+S
+#19266
+The Dark River~
+A huge river spans before you, and you can hear the screams of the dead. 
+The darkness seems to engulf your very soul as a robed man shimmers into
+existance.  You needn't ask his name, as all know who he is and his purpose.
+~
+0 0 0
+D1
+~
+~
+0 -1 19267
+D3
+~
+~
+0 -1 19265
+S
+#19267
+Death~
+There, in front, stand the echoing halls of the god of the
+lower-world, strong Hades,
+and of awful Persephone. A fearful hound guards the house in
+front, pitiless,
+and he has a cruel trick. On those who go in he fawns with his
+tail and both his ears,
+but suffers them not to go out back again, but keeps watch and
+devours whomever 
+he catches going out of the gates of strong Hades and awful
+Persephone.
+ 
+ 
+                                      Hesiod
+~
+0 0 0
+D1
+~
+~
+0 -1 19257
+D3
+~
+~
+0 -1 19266
+S
+#19268
+The Great Treasure Chamber of the Titans~
+There are massive piles of gold and miscellaneous other things lying
+about everywhere, along with the caretaker.
+~
+0 26624 0
+D4
+~
+~
+0 -1 19259
+S
+#19269
+The East Corridor~
+You are standing in a cold hallway.  There are pillars all around the
+hall decorating it along with the statues and tapestries.
+~
+0 0 0
+D1
+~
+~
+0 0 19270
+S
+#19270
+Before the Shimmering Portal~
+At the End of the corridor you see a shimmering portal in the gateway to
+the east.
+~
+0 0 0
+D1
+~
+~
+0 0 19271
+S
+#19271
+In the Portal~
+You are surrounded by a soft light.  It embraces you, and yet, squeezes
+the breath from your lungs.  Everything seems to puch you onward, into the
+light, and yet darkness.
+~
+0 0 0
+D1
+~
+~
+0 0 19272
+S
+#19272
+The Spirit World~
+~
+0 1 0
+D0
+~
+~
+0 0 19273
+D1
+~
+~
+0 0 19275
+D2
+~
+~
+0 0 19274
+D3
+~
+~
+0 0 19276
+S
+#19273
+The Spirit World~
+~
+0 1 0
+D2
+~
+~
+0 0 19272
+S
+#19274
+The Spirit World~
+~
+0 1 0
+D0
+~
+~
+0 0 19272
+D3
+~
+~
+0 0 19277
+S
+#19275
+The Spirit World~
+~
+0 1 0
+D1
+~
+~
+0 0 19278
+D3
+~
+~
+0 0 19272
+S
+#19276
+The Spirit World~
+~
+0 1 0
+D1
+~
+~
+0 0 19272
+D2
+~
+~
+0 0 19277
+S
+#19277
+The Spirit World~
+~
+0 1 0
+D0
+~
+~
+0 0 19276
+D1
+~
+~
+0 0 19274
+S
+#19278
+The Dark Portal~
+Darkness is all around. Only a faint light to the north give you hope. Does the darkness ever end?
+~
+0 5 0
+D0
+~
+~
+0 0 19279
+S
+#19279
+The Darkness~
+More Darkness, You feel lost, hopeless. There is nothing you can do, only wander aimlessly in this world of nothingness.
+~
+0 1 0
+D1
+~
+~
+0 0 19280
+S
+#19280
+Total Redemption~
+Your redsemption is at hand. Your redeemer is here, holding his axe, he will save your soul....
+~
+0 0 0
+D4
+~
+~
+0 0 19251
+S
+#0
+
+
+
+#SPECIALS
+M 19253 spec_cast_undead Load to: Hades
+M 19256 spec_cast_cleric Load to: Gaea
+M 19257 spec_breath_any Load to: The Treasure Dragon
+M 19258 spec_guard Load to: A Giant Guard
+M 19259 spec_fido Load to: A massive guard dog
+M 19263 spec_cast_undead Load to: Persephone
+M 19266 spec_cast_mage Load to: The Redeemer
+S
+
+
+
+#RESETS
+O 0 19256 0 19268
+O 0 19255 0 19268
+O 0 19254 0 19268
+O 0 19253 0 19268
+M 0 19250 1 19259
+G 0 19250 0
+M 0 19254 10 19261
+M 0 19254 10 19261
+M 0 19254 10 19261
+M 0 19254 10 19261
+M 0 19254 10 19261
+M 0 19254 10 19261
+M 0 19254 10 19261
+M 0 19254 10 19261
+M 0 19254 10 19261
+M 0 19254 10 19261
+M 0 19254 10 19261
+M 0 19255 10 19262
+M 0 19255 10 19262
+M 0 19255 10 19262
+M 0 19255 10 19262
+M 0 19255 10 19262
+M 0 19255 10 19262
+M 0 19255 10 19262
+M 0 19255 10 19262
+M 0 19255 10 19262
+M 0 19255 10 19262
+M 0 19256 1 19263
+G 0 19252 0
+M 0 19251 10 19264
+M 0 19251 10 19264
+M 0 19251 10 19264
+M 0 19251 10 19264
+M 0 19251 10 19264
+M 0 19251 10 19264
+M 0 19251 10 19264
+M 0 19251 10 19264
+M 0 19251 10 19264
+M 0 19251 10 19264
+M 0 19252 10 19265
+M 0 19252 10 19265
+M 0 19252 10 19265
+M 0 19252 10 19265
+M 0 19252 10 19265
+M 0 19252 10 19265
+M 0 19252 10 19265
+M 0 19252 10 19265
+M 0 19252 10 19265
+M 0 19252 10 19265
+M 0 19251 10 19266
+M 0 19251 10 19266
+M 0 19251 10 19266
+M 0 19251 10 19266
+M 0 19251 10 19266
+M 0 19251 10 19266
+M 0 19251 10 19266
+M 0 19251 10 19266
+M 0 19251 10 19266
+M 0 19251 10 19266
+M 0 19252 5 19266
+M 0 19252 5 19266
+M 0 19252 5 19266
+M 0 19252 5 19266
+M 0 19252 5 19266
+M 0 19253 1 19267
+G 0 19251 0
+O 0 19257 0 19259
+M 0 19257 1 19268
+E 0 19259 0 6
+M 0 19258 2 19257
+M 0 19258 2 19257
+M 0 19258 2 19250
+M 0 19258 2 19250
+M 0 19258 5 19253
+M 0 19258 5 19253
+M 0 19258 5 19253
+M 0 19258 5 19253
+M 0 19258 5 19253
+M 0 19259 10 19251
+M 0 19259 10 19251
+M 0 19259 10 19251
+M 0 19259 10 19251
+M 0 19259 10 19251
+M 0 19259 10 19251
+M 0 19259 10 19251
+M 0 19259 10 19251
+M 0 19259 10 19251
+M 0 19259 10 19251
+M 0 19259 10 19251
+M 0 19260 1 19259
+M 0 19261 1 19250
+M 0 19262 1 19266
+M 0 19263 1 19267
+M 0 19264 5 19272
+M 0 19264 5 19273
+M 0 19264 5 19274
+M 0 19264 5 19275
+M 0 19264 5 19276
+M 0 19264 5 19277
+M 0 19265 5 19272
+M 0 19265 5 19273
+M 0 19265 5 19274
+M 0 19264 5 19275
+M 0 19265 5 19276
+M 0 19265 5 19277
+M 0 19266 1 19280
+E 0 19260 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

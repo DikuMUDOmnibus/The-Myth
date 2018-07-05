@@ -1,0 +1,1014 @@
+#AREADATA
+Name        Jade    Dragonfire~
+Builders    None~
+VNUMs       9500 9538
+Security    1
+End
+
+
+
+#MOBILES
+#9500
+guardian~
+a forest guardian~
+A forest guardian stands here
+~
+It looks decidedly pissed off that you have entered its forest
+without permission.
+~
+1 0 0 S
+127 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#9501
+storm giant~
+a storm giant~
+A Storm Giant stands here surrounded by a swirling tempest
+~
+~
+1 0 0 S
+152 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#9502
+night golem~
+A Night Golem~
+A Night Golem stands here.
+~
+D
+d
+~
+1 0 0 S
+203 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#9503
+Nillo drunk~
+Nillo the drunk~
+Nillo the drunk staggers towards you, a glass of Black Demon Rum in his hand.
+~
+The oaf king staggers about, almost paraletic and drooling everywhere
+~
+1 0 0 S
+499 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#9504
+spider~
+a small spider~
+A small spider scurries around.
+~
+~
+35 0 0 S
+102 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#9505
+spider~
+a large spider~
+A large spider scurries around.
+~
+~
+35 0 0 S
+127 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#9506
+spider~
+a giant spider~
+A giant spider scurries around.
+~
+~
+35 0 0 S
+160 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#9507
+spider~
+a gigantic spider~
+A gigantic spider approaches you and bares its fangs.
+~
+~
+35 0 0 S
+254 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#9508
+Zemnh~
+Zemnh~
+Zemnh stands here watching over the town.
+~
+~
+1 0 0 S
+506 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#9509
+stallion horse~
+a white stallion~
+A white stallion flares its nostrils at you.
+~
+~
+3 0 1000 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#9510
+Spectral Fisherman~
+a spectral fisherman~
+A Spectral Fisherman sits here trying to catch his lunch.
+~
+~
+35 0 0 S
+196 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#9500
+sword~
+an oafish sword~
+An oafish sword lies here~
+~
+5 0 16385
+0 5 15 1
+3 500 0
+A
+18 5
+A
+19 5
+#9501
+falchion~
+a wickedly sharp falchion~
+A wickedly sharp falchion lies here~
+~
+5 0 16385
+30 15 25 1
+9 40000 0
+#9502
+night golem~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#9503
+signpost~
+a signpost~
+A weathered sign hangs on the gate.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+This town was built in the memory of the treasured friends I left
+behind in the distant lands of Elanthia - Jade
+~
+#9504
+demon rum~
+a glass of Black Demon Rum~
+A glass of Black Demon Rum lies here~
+~
+17 0 1
+0 0 5 0
+5 20 0
+#9505
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#9506
+vultite wall shield~
+a vultite wall shield~
+A vultite wall shield lies here.~
+~
+9 0 513
+0 0 0 0
+3 50000 0
+A
+13 1000
+A
+18 10
+A
+19 10
+#9507
+horseshoe~
+a horsehoe~
+A horseshoe lies here.~
+~
+5 0 24577
+0 0 0 8
+3 3000 0
+A
+18 10
+A
+19 10
+#9508
+fishing rod~
+a fishing rod~
+A fishing rod lies here~
+~
+5 0 24577
+0 0 0 4
+0 0 0
+#9509
+twisted wand~
+a twisted wand~
+A twisted wand lies here.~
+~
+5 0 24577
+0 0 0 3
+1 2000 0
+A
+12 1000
+A
+19 10
+A
+18 10
+#9510
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#0
+
+
+
+#ROOMS
+#9500
+Crystal Mountain, Valley~
+You find yourself in a rich and healthy valley.  You hear birds perched
+in the towering pines that loom ominously over the path on both sides, they
+pipe their questioning songs at you as you wander down a smooth pathway
+through the emerald green grass and lush forest.  The path continues to the
+north where the forest is much denser, while to your west lies a smaller
+trail.
+~
+0 0 0
+D0
+~
+~
+0 0 9501
+D3
+~
+~
+0 0 9517
+S
+#9501
+Crystal Mountain, Valley~
+The path winds in and out the forest that surround you.  Although denser
+than before, the trees are still spaced widely enough to allow easy travel. 
+You can barely disern a smaller track leading to the east, while this path
+continues to the north.
+~
+0 0 3
+D0
+~
+~
+0 0 9502
+D2
+~
+~
+0 0 9500
+S
+#9502
+Crystal Mountain, Forest~
+Dense undergrowth somewhat blocks the trail here, the light grows dim as
+the sun tries in vain to get its light through the mass of branches and tree
+limbs that creak and sway in the breeze over your head.  The once comforting
+bird song is quieter here and you find yourself wanting to turn back to the
+valley to your south.  The path continues northwards into darkness.
+~
+0 0 3
+D0
+~
+~
+0 0 9503
+D2
+~
+~
+0 0 9501
+S
+#9503
+Crystal Mountain, Dense Forest~
+The trail here is very dim, but is wide enough for two people to stand
+abreast between the tightly packed oaks and pines that make up most of this
+woodland.  Thorny undergrowth tears at your clothes and exposed skin.  You
+hear the sound of running water to your east, its sound cutting through the
+silence of this uninhabitable place.  A wider but rougher path leads
+eastwards and a smaller trail is to your south.
+~
+0 0 3
+D1
+~
+~
+0 0 9504
+D2
+~
+~
+0 0 9502
+S
+#9504
+Crystal Mountain, Forest~
+A small stream cuts across the pathway here, its crystal clear water
+swiftly moving over the rocks that litter this trail.  You pause to listen
+to the natural babbling of the brook that travels northwards on its journey.
+A few larger rocks act as stepping stones over the stream towards the east
+although they seem unessary as water is shallow enough for you to cross
+without any effort.
+~
+0 0 3
+D1
+~
+~
+0 0 9505
+D3
+~
+~
+0 0 9503
+S
+#9505
+Crystal Mountain, Forest~
+Numerous boulders and smaller rocks make your journey harder here.  Your
+footsteps are heard by all as twigs crackle beneath each step you take. 
+This path, threading in and out of the trees and boulders, winds uphill to
+the north, while to the east a wider trail stretches out into the distance. 
+To the west you glimpse water, the sunlight glinting off the small ripples
+producing dancing patterns of light on the otherwise featureless trees.
+~
+0 0 3
+D0
+~
+~
+0 0 9506
+D1
+~
+~
+0 0 9518
+D3
+~
+~
+0 0 9504
+S
+#9506
+Crystal Mountain, Forest~
+The shadows formed by the thick tree trunks play with your imagination. 
+A shiver runs down your spine as you think you make out strange beasts
+glaring at you from within the forest.  The pathway continues steeply
+upwards to the north, you also see a trail leading south.
+~
+0 0 3
+D0
+~
+~
+0 0 9507
+D2
+~
+~
+0 0 9505
+S
+#9507
+Crystal Mountain, Hilltop~
+You find yourself in a small clearing ontop of a hill.  The view here is
+breath taking and well worth the hard climb through the forest below you. 
+To the north you can see an enormous mountain, dominating the sky line.  You
+can see a river snaking its way across the valley far below you.  A gully
+cuts sharply down to the valley floor, It's sides look steep and dangerous.
+~
+0 0 3
+D2
+~
+~
+0 0 9506
+D5
+~
+~
+0 0 9508
+S
+#9508
+Crystal Mountain, Gully~
+A tall pine has fallen across the trail here, forming a natural arch. 
+You try hard not to lose your footing as loose rocks under your feet become
+unlodged and tumble down to the valley below you.
+~
+0 4 3
+D4
+~
+~
+0 0 9507
+D5
+~
+~
+0 0 9509
+S
+#9509
+Crystal Mountain, Gully~
+The gully slopes more gently here as you approach the lake.  It's water
+is clear and blue, a sharp contrast to the dense green forest that grows to
+within a few feet of its sandy shore.
+~
+0 0 3
+D2
+~
+~
+0 0 9510
+D4
+~
+~
+0 0 9508
+S
+#9510
+Crystal Mountain, Lake~
+You are on the shore of a small lake, as you gaze into it you can see
+small fish and other creatures playing in the calm, pure water.  Tall
+grasses and reeds growing at its edge provide a safe haven for small
+wildlife and anphibians.  A low rumbling sound of a waterfall can be heard
+in the distance, your view blocked by a small island populated by tall pines
+in the center of the lake.  You can either make your way around the sandy
+shoreline to the west, or up a naturally formed gully.
+~
+0 0 3
+D0
+~
+~
+0 0 9509
+D3
+~
+~
+0 0 9511
+S
+#9511
+Crystal Mountain, Lake~
+The lake that spreads out before you looks peaceful and pleasant, the
+only disturbance being a tall waterfall that cascades down high cliffs at
+the southern end of the lake.  The shoreline continues to the south and
+east.
+~
+0 0 3
+D1
+~
+~
+0 0 9510
+D2
+~
+~
+0 0 9512
+S
+#9512
+Crystal Mountain, Lake~
+You find yourself standing near a great waterfall to the south.  The roar
+of water crashing down the cliff face, its path disrupted by outcroppings of
+rock, causing it to fall in several tiers before finally pounding at the
+rocks at its base.
+~
+0 0 3
+D0
+~
+~
+0 0 9511
+D2
+~
+~
+0 0 9513
+S
+#9513
+Crystal Mountain, Waterfall~
+The deafening roar of the waterfall drowns out any other sound.  It's
+spray forms a low lying mist that soaks your clothes and sends an ice cold
+chill to the bone.  The shoreline continues south underneath the base of the
+waterfall which spreads out to form a wide curtain of water, and over a
+large natural jetty of rocks.
+~
+0 0 3
+D0
+~
+~
+0 0 9512
+D2
+~
+~
+0 0 9514
+S
+#9514
+Crystal Mountain, Lake~
+To your north a rockslide has created a natural jetty, stretching quite
+far into the lake.  It partially hides a great waterfall that feeds the
+lake, making the water churn and bubble.  The forest grows very close to the
+shore here.  Two large willow trees bend gracefully in the slight breeze,
+their long boughs dipping down to trace delicate patterns on the surface of
+the shimmering water, blocking the way to the east along the shoreline.  You
+also see a small trail leading into the dense forest to your west.
+~
+0 0 3
+D0
+~
+~
+0 0 9513
+D3
+~
+~
+0 0 9515
+S
+#9515
+Crystal Mountain, Forest~
+The path is not well defined as you move along the forested trail.  Large
+boulders have fallen from the cliff face to your north making travelling
+along this route difficult and tedious.  You cannot see far to the south
+through the dense trees of the forest but you can make out a trail to your
+east and west.
+~
+0 4 3
+D1
+~
+~
+0 0 9514
+D3
+~
+~
+0 0 9516
+S
+#9516
+Crystal Mountain, Mine Entrance~
+Passing through the dense trees and undergrowth, you find yourself in a
+clearing.  The ground is devoid of nearly any vegetation, what grass there
+is grows around the crushed rocks that litter the area and rusted mining
+tools.  You see a large man-made hole in the rock face, supported by ancient
+rotting timbers.  You realise that this must be a mine long ago deserted by
+the men that worked here.  Your curiousity wants you to explore further into
+the darkness, although you know it would be much safer to take the trails
+south and east of here back into the forest.
+~
+0 0 3
+D1
+~
+~
+0 0 9515
+D2
+~
+~
+0 0 9517
+S
+#9517
+Crystal Mountain, Forest~
+This wide natural path runs in a straight east-west line but
+unfortunately the western route is blocked by a large fallen oak.  Its
+shattered frame ravaged my lightning and fire.  To the north you see a
+narrow path leading up to a massive cliff face.
+~
+0 0 3
+D0
+~
+~
+0 0 9516
+D1
+~
+~
+0 0 9500
+S
+#9518
+Dragonsmere, Town Gate~
+A large black iron gate marks the western entrance to Dragonsmere.  Its
+ornate framework gives you the impression of how successful and proud this
+town once was.  A wide road leading to the marketplace stretches out to your
+west, while to your south and a narrow track runs along the western boundary
+wall interior.  A small weathered sign hangs on the gate.
+~
+0 4 0
+E
+sign~
+The village was built in the memory of the treasured friends I
+left behind in the distant lands of Elanthia - Jade
+~
+D1
+~
+~
+0 0 9536
+D2
+~
+~
+0 0 9519
+D3
+~
+~
+0 0 9505
+S
+#9519
+Jadiana Road~
+Alysumm and Daisies grow through the cracks in the cold stone slabs that
+form this road which runs in a north-south direction.  A large
+wooden-constructed house stands to your east.  Its window shutters flapping
+about in the wind revealing smashed panes of glass, leaving the building
+defenceless from the elements.
+~
+0 4 0
+D0
+~
+~
+0 0 9518
+D1
+~
+~
+0 0 9520
+D2
+~
+~
+0 0 9526
+S
+#9520
+Atropia House, Hallway~
+You are standing in a roomy hallway of the house of Atropia.  Long ago
+abandoned by its occupants, dusty notice boards and plaques are the only
+reminder of the important business negotiations that once took place here. 
+Giant cobwebs loom over your head, threatening to fall from the weight of
+dust lies entrapped on them.  A grand staircase leads to the first floor,
+its once highly polished floorboads now worn and cracked.  Doors lead north
+and south of here, while the main door lies to your west.
+~
+0 0 0
+D0
+~
+~
+0 0 9525
+D2
+~
+~
+0 0 9521
+D3
+~
+~
+0 0 9519
+S
+#9521
+Atropia House~
+Giant, sticky cobwebs connect the ceiling of this room to the floor.  The
+webs thin to the north, but to your west they grow thick and hardly
+distinguishable from the dusty glass cabinets on which they are firmly
+attached.
+~
+0 0 0
+D0
+~
+~
+0 0 9520
+D1
+~
+~
+0 0 9522
+S
+#9522
+Atropia House~
+The webs although easily broken, impair your sight.  But you can still
+make out a dark object floating in the white cloud-like webs above, looking
+closer you see it is infact a rotting carcass of a human.  His heavily
+armoured corpse makes you very wary of what might lie ahead in this old
+house.
+~
+0 0 0
+D0
+~
+~
+0 0 9523
+D3
+~
+~
+0 0 9521
+S
+#9523
+Atropia House~
+The webs grow thick, and you must struggle to break them as they are more
+firmly attached in this place to the floor and rough, uneven walls of the
+room in which you stand.
+~
+0 0 0
+D0
+~
+~
+0 0 9524
+D2
+~
+~
+0 0 9522
+S
+#9524
+Atropia House~
+An elaborate chandelier hangs from the center of the ceiling, covered
+with veils of what looks like a cotton-like substance.  The fine strands of
+web interlace to form cobwebs two or three times the size of a large man. 
+Half rotted corpses of creatures that unkowingly wandered into these rooms
+litter the floor, the stench of rotting flesh filling the air.
+~
+0 0 0
+D2
+~
+~
+0 0 9523
+D3
+~
+~
+0 0 9525
+S
+#9525
+Atropia House~
+The webs thin to the southern end of this delapidated room, where you can
+see daylight streaming through the fine lattice work of the sticky strands. 
+Hanging from the ceiling are various sized cocoons made from the same sticky
+webs that you see covering the ceiling above you.
+~
+0 0 0
+D1
+~
+~
+0 0 9524
+D2
+~
+~
+0 0 9520
+S
+#9526
+Jadiana Road~
+A few shops and warehouse line one side of this this narrow street that
+runs along the southern boundary wall of Dragonsmere.  Along the top of the
+crumbling brickwork crude iron spikes run tightly packed, stopping any
+intruders from entering this once heavily fortified town.
+~
+0 4 0
+D0
+~
+~
+0 0 9519
+D1
+~
+~
+0 0 9527
+S
+#9527
+Dyanah Street~
+A the lonely calls of a bird flying high up in the air on the other side
+of the wall attracts your attention as you walk along the southern edge of
+this town.  Through a crack in the wall to your south you can make out the
+green trees of the crystal forest, a stark contrast to the grey stones that
+make up the delapidated street on which you walk.
+~
+0 0 0
+D1
+~
+~
+0 0 9528
+D3
+~
+~
+0 0 9526
+S
+#9528
+Dyanah Street~
+A sturdy wooden bridge crosses the river that cuts into the town from a
+arch in the boundary wall.  The river which, according to the erosion of the
+banks that keep it at bay, must have once been a great expanse of water. 
+But it has long since become just a small stream which is easily passable by
+any method
+~
+0 0 0
+D1
+~
+~
+0 0 9529
+D3
+~
+~
+0 0 9527
+S
+#9529
+Dyanah Street~
+The high walls that guard the town from the outside wilderness tower
+above your head as you travel along the small road winding alongside the
+southern boundary wall.  A huge building stands a few meters away, half
+derelict, most of its windows boarded up to keep the outside from coming in,
+or perhaps whatever lies inside from coming out.  A path from this once
+grand architecture stretches to the roadside just north of you where a
+massive iron gate stands alone, swinging in the breeze.
+~
+0 0 0
+D0
+~
+~
+0 0 9531
+D3
+~
+~
+0 0 9528
+S
+#9530
+The Phoenix Inn, Entrance~
+Massive marble pillars line the entranceway.  The rather grand entrance
+still doesn't quite manage to hife the seedy atmosphere of this inn.  A long
+desk, also made of solid mable, runs most of the length of one of the walls.
+A rack of keys hangs on the wall behind the desk, each key coloured
+differenly.  A spiral staircase winds its way upstairs, while a marble
+archway leading into a dark room is to your north.
+~
+0 0 0
+D2
+~
+~
+0 0 9531
+D4
+~
+~
+0 0 9532
+S
+#9531
+Winding Pathway~
+The granite tiles that make up this pathway lie in patches, the rest
+replaced by puddles of mud and rubble, where thieves have ripped them up and
+sold them for however little they can reach in the market.  Two broad marble
+pillars support the crumbling doorway to the building just north of you,
+giving a hint of how grand this place actually was before it fell into
+disrepair.  A massive black iron gate creaks noisly to your south.
+~
+0 0 0
+D0
+~
+~
+0 0 9530
+D2
+~
+~
+0 0 9529
+S
+#9532
+The Phoenix Inn, Hallway~
+A long hallway stretches out before you.  Deep pile carpet covers the
+floor, its once deep red colour long ago turned dirty grey from the lack of
+cleaning.  To your west lies a heavy red door, and to your east is a silver
+door.
+~
+0 4 0
+D0
+~
+~
+0 0 9534
+D1
+~
+~
+0 0 9533
+D5
+~
+~
+0 0 9530
+S
+#9533
+The Silver Room~
+The ceiling and four walls of this room are covered in giant mirrors. 
+The only furnishing consists of a very gothic style double bed, its posts
+made of solid silver, twisted and shaped into flowing spirals before forming
+into the shape of an angel, one on top of eah post.  Their tiny silver hands
+raised up to the mirrored ceiling as if calling for mercy.  Soft silver
+satin sheets cover the ;of the mirrored walls.  Although they block out most
+of the light, the few stray beams that do stream through seem to dazzle you
+as they bounce off each one of the mirrored walls in turn.
+~
+0 512 0
+D3
+~
+~
+0 0 9532
+S
+#9534
+The Phoenix Inn, Hallway~
+The hallway reaches an abrubt end as the northern section has long ago
+been boarded up with massive planks, preventing any access to whatever lies
+ahead.  To your west is a green door, and you your east lies a blue door. 
+Both having heavy iron padlocks to stop any unauthorised people intruding.
+~
+0 0 0
+D1
+~
+~
+0 0 9535
+D2
+~
+~
+0 0 9532
+S
+#9535
+The Blue Room~
+Crisp midnight blue satin sheets adorm the four poster bed that lies in
+the center of this room, Its large expanse takes up most of the wpace, but
+the soft beams of light streaming from a rather dusty round window set in
+the western wall, shines on the deep blue drapes and wall colourings, thus
+giving the illusion that the room is much bigger than it actually is.  A
+mahogany dressing table sits underneath the window, standing out because of
+its dark wooden finish.  Ontop of the table are two candles, their flames
+gently flickering a draft coming from an unknown source.
+~
+0 512 0
+D3
+~
+~
+0 0 9534
+S
+#9536
+Dragonsmere Market Place~
+The once cobbled floor has been worn smooth by the many crowds that have
+come and gone from this once busy market square over the centuries past. 
+Now, long deserted by the buyers and sellers, this place stands vacant and
+forgotten.  A huge bronze statue of a female warrior stands predominantly in
+the center of this large square.  Her eyes gazing solemnly over the town and
+her sword raised up to the heavens.  A small brass plaque lies at its base.
+~
+0 0 0
+E
+plaque~
+This statue was erected in the memory of Kilyst, a fine warrior and mother.
+May her life continue after Elanthia through the memories of all the people
+she blessed with her presence in those ancient lands.
+~
+D1
+~
+~
+0 0 9537
+D3
+~
+~
+0 0 9518
+S
+#9537
+Dragonsmere, Main Street~
+What was probably once the main street, cutting between the old crumbling
+buildings of this abandoned town, is now a carpet of thick grass.  Most of
+the buildings have collapsed, leaving little more than a few rocky
+foundations.  One small cottage nearby, however, seems to be mostly intact,
+and there is also a wooden shack standing to the north of the grassy street.
+~
+0 4 0
+D0
+~
+~
+0 0 9538
+D3
+~
+~
+0 0 9536
+S
+#9538
+The Blacksmiths~
+A large log building sprawls out in front of you, with a sign still
+mounted over the doorway.  Rusted horse shoes and scraps of iron litter the
+ground, giving you the impression that this was once the town blacksmith. 
+You can almost hear the sounds of a horse carried on the wind which whips
+round the shack and outbuilding ruins.
+~
+0 4 0
+D2
+~
+~
+0 0 9537
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 9504 8 9521
+M 0 9510 9 9514
+E 0 9508 0 0
+M 0 9510 7 9513
+M 0 9510 2 9511
+E 0 9508 0 0
+M 0 9510 5 9510
+E 0 9508 0 0
+M 0 9510 5 9509
+E 0 9508 0 0
+M 0 9500 5 9507
+M 0 9502 10 9505
+E 0 9501 0 0
+M 0 9501 10 9503
+G 0 9501 0
+M 0 9500 10 9500
+E 0 9500 0 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

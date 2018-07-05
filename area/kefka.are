@@ -1,0 +1,1617 @@
+#AREADATA
+Name        Alucard   Kefka's Tower~
+Builders    None~
+VNUMs       400 490
+Security    1
+End
+
+
+
+#MOBILES
+#400
+Guardian, Guard~
+The Guardian~
+The Guardian spots you and ATTACKS!
+~
+The Guardian sneers at you.
+~
+101 74376 -1000 S
+227 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#401
+Lesser Fanatic~
+The Lesser Fanatic~
+A Lesser Fanatic stands here, worshipping Kefka.
+~
+The Lesser Fanatic ignores you.
+~
+69 8744 -1000 S
+233 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#402
+Greater Fanatic~
+The Greater Fanatic~
+A Greater Fanatic stands here, worshipping Kefka.
+~
+The Greater Fanatic laughs at you!
+~
+69 8744 -1000 S
+240 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#403
+Kefka's Body Guard~
+Kefka's Body Guard ~
+Kefka's Body Guard sees you, and attacks!
+~
+Kefka's Body Guard examines you closely.
+~
+97 8744 -1000 S
+242 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#404
+Kefka~
+Kefka~
+Kefka torches a small village with the Light of Judgement
+~
+Kefka cackles at you!
+~
+99 533160 -1000 S
+243 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#400
+Light of Judgment~
+the Light of Judgement~
+The Light of Judgement glows brightly.~
+~
+5 579 8193
+0 10 20 6
+5 0 0
+#0
+
+
+
+#ROOMS
+#400
+The Entrance to Kefka's Tower~
+This place was never meant to be seen by the likes of you. Nothing seems
+to make any sense. The west doorway was jagged and sharp when you came
+in, but now that you look again, it is round. To the east and south, there
+are more of these shifting doorways. Only God knows where they lead
+~
+0 16393 0
+D1
+~
+~
+0 -1 411
+D2
+~
+~
+0 -1 401
+D3
+~
+~
+0 -1 490
+S
+#401
+A Room in Kefka's Tower~
+This room is almost exactly like the all the others. All of the walls shift
+and move every time you turn your back. You are getting an incredible urge
+to turn and run.
+~
+0 16393 0
+D0
+~
+~
+0 -1 400
+D2
+~
+~
+0 -1 402
+S
+#402
+A Room in Kefka's Tower~
+This room is almost exactly like the all the others. All of the walls shift
+and move every time you turn your back. You are getting an incredible urge
+to turn and run.
+~
+0 16393 0
+D0
+~
+~
+0 -1 401
+D2
+~
+~
+0 -1 403
+S
+#403
+A Room in Kefka's Tower~
+This room is almost exactly like the all the others. All of the walls shift
+and move every time you turn your back. You are getting an incredible urge
+to turn and run.
+~
+0 16393 0
+D0
+~
+~
+0 -1 402
+D2
+~
+~
+0 -1 404
+S
+#404
+A Room In Kefka's Tower~
+This room is almost exactly like the all the others. All of the walls shift
+and move every time you turn your back. You are getting an incredible urge
+to turn and run.
+~
+0 16393 0
+D0
+~
+~
+0 -1 403
+D1
+~
+~
+0 -1 405
+S
+#405
+A Room In Kefka's Tower~
+This room is almost exactly like the all the others. All of the walls shift
+and move every time you turn your back. You are getting an incredible urge
+to turn and run.
+~
+0 16393 0
+D1
+~
+~
+0 -1 406
+D3
+~
+~
+0 -1 404
+S
+#406
+A Room in Kefka's Tower~
+This room is almost exactly like the all the others. All of the walls shift
+and move every time you turn your back. You are getting an incredible urge
+to turn and run.
+~
+0 16393 0
+D0
+~
+~
+0 -1 407
+D3
+~
+~
+0 -1 405
+S
+#407
+A Room in Kefka's Tower~
+This room is almost exactly like the all the others. All of the walls shift
+and move every time you turn your back. You are getting an incredible urge
+to turn and run.
+~
+0 16393 0
+D0
+~
+~
+0 -1 408
+D2
+~
+~
+0 -1 406
+S
+#408
+A Room in Kefka's Tower~
+This room is almost exactly like the all the others. All of the walls shift
+and move every time you turn your back. You are getting an incredible urge
+to turn and run.
+~
+0 16393 0
+D0
+~
+~
+0 -1 409
+D2
+~
+~
+0 -1 407
+S
+#409
+A Room in Kefka's Tower~
+This room is almost exactly like the all the others. All of the walls shift
+and move every time you turn your back. You are getting an incredible urge
+to turn and run.
+~
+0 16393 0
+D0
+~
+~
+0 -1 410
+D2
+~
+~
+0 -1 408
+S
+#410
+A Room in Kefka's Tower~
+This room is almost exactly like the all the others. All of the walls shift
+and move every time you turn your back. You are getting an incredible urge
+to turn and run.
+~
+0 16393 0
+D2
+~
+~
+0 -1 409
+D3
+~
+~
+0 -1 411
+S
+#411
+A Room in Kefka's Tower~
+This room is almost exactly like the all the others. All of the walls shift
+and move every time you turn your back. You are getting an incredible urge
+to turn and run.
+~
+0 16393 0
+D1
+~
+~
+0 -1 410
+D2
+~
+~
+0 -1 412
+D3
+~
+~
+0 -1 400
+S
+#412
+A Room in Kefka's Tower~
+This room is almost exactly like the all the others. All of the walls shift
+and move every time you turn your back. You are getting an incredible urge
+to turn and run.
+~
+0 16393 0
+D0
+~
+~
+0 -1 411
+D2
+~
+~
+0 -1 413
+S
+#413
+A Room In Kefka's Tower~
+This room is almost exactly like the all the others. All of the walls shift
+and move every time you turn your back. You are getting an incredible urge
+to turn and run.
+~
+0 16393 0
+D0
+~
+~
+0 -1 412
+D2
+~
+~
+0 -1 414
+S
+#414
+A Stairway~
+This room seems almost normal. The walls don't seem to be
+moving, A large stairway leads up.
+~
+0 16393 0
+D0
+~
+~
+0 -1 413
+D4
+~
+~
+0 -1 415
+S
+#415
+A Room in Kefka's Tower~
+This room seems to quiver and shake every time you take a step. 
+You fight to keep your balance as the entire tower seems to
+quake violently.
+~
+0 16393 0
+D1
+~
+~
+0 -1 426
+D2
+~
+~
+0 -1 416
+D5
+~
+~
+0 -1 414
+S
+#416
+A Room in Kefka's Tower~
+This room seems to quiver and shake every time you take a step. 
+You fight to keep your balance as the entire tower seems to
+quake violently.
+~
+0 16393 0
+D0
+~
+~
+0 -1 415
+D2
+~
+~
+0 -1 417
+S
+#417
+A Room in Kefka's Tower~
+This room seems to quiver and shake every time you take a step. 
+You fight to keep your balance as the entire tower seems to
+quake violently.
+~
+0 16393 0
+D0
+~
+~
+0 -1 416
+D2
+~
+~
+0 -1 418
+S
+#418
+A Room in Kefka's Tower~
+This room seems to quiver and shake every time you take a step. 
+You fight to keep your balance as the entire tower seems to
+quake violently.
+~
+0 16393 0
+D0
+~
+~
+0 -1 417
+D2
+~
+~
+0 -1 419
+S
+#419
+A Room in Kefka's Tower~
+This room seems to quiver and shake every time you take a step. 
+You fight to keep your balance as the entire tower seems to
+quake violently.
+~
+0 16393 0
+D0
+~
+~
+0 -1 418
+D1
+~
+~
+0 -1 420
+S
+#420
+A Room in Kefka's Tower~
+This room seems to quiver and shake every time you take a step. 
+You fight to keep your balance as the entire tower seems to
+quake violently.
+~
+0 16393 0
+D1
+~
+~
+0 -1 421
+D3
+~
+~
+0 -1 419
+S
+#421
+A Room in Kefka's Tower~
+This room seems to quiver and shake every time you take a step. 
+You fight to keep your balance as the entire tower seems to
+quake violently.
+~
+0 16393 0
+D0
+~
+~
+0 -1 422
+D3
+~
+~
+0 -1 420
+S
+#422
+A Room in Kefka's Tower~
+This room seems to quiver and shake every time you take a step. 
+You fight to keep your balance as the entire tower seems to
+quake violently.
+~
+0 16393 0
+D0
+~
+~
+0 -1 423
+D2
+~
+~
+0 -1 421
+S
+#423
+A Room in Kefka's Tower~
+This room seems to quiver and shake every time you take a step. 
+You fight to keep your balance as the entire tower seems to
+quake violently.
+~
+0 16393 0
+D0
+~
+~
+0 -1 424
+D2
+~
+~
+0 -1 422
+S
+#424
+A Room in Kefka's Tower~
+This room seems to quiver and shake every time you take a step. 
+You fight to keep your balance as the entire tower seems to
+quake violently.
+~
+0 16393 0
+D0
+~
+~
+0 -1 425
+D2
+~
+~
+0 -1 423
+S
+#425
+A Room in Kefka's Tower~
+This room seems to quiver and shake every time you take a step. 
+You fight to keep your balance as the entire tower seems to
+quake violently.
+~
+0 16393 0
+D2
+~
+~
+0 -1 424
+D3
+~
+~
+0 -1 426
+S
+#426
+A Room In Kefka's Tower~
+This room seems to quiver and shake every time you take a step. 
+You fight to keep your balance as the entire tower seems to
+quake violently.
+~
+0 16393 0
+D1
+~
+~
+0 -1 425
+D2
+~
+~
+0 -1 427
+D3
+~
+~
+0 -1 415
+S
+#427
+A Room in Kefka's Tower~
+This room seems to quiver and shake every time you take a step. 
+You fight to keep your balance as the entire tower seems to
+quake violently.
+~
+0 16393 0
+D0
+~
+~
+0 -1 426
+D2
+~
+~
+0 -1 428
+S
+#428
+A Stairway~
+This room seems almost normal. The walls don't seem to be
+moving, A large stairway is here.
+~
+0 16393 0
+D0
+~
+~
+0 -1 427
+D4
+~
+~
+0 -1 429
+D5
+~
+~
+0 -1 414
+S
+#429
+A Room in Kefka's Tower~
+There is no floor here! There is no form. You are standing in the 
+middle of a dark void. You cannot even see your own hand as you
+prepare for a fight. You move very carefully across the floorless room.
+~
+0 16393 0
+D2
+~
+~
+0 -1 430
+D5
+~
+~
+0 -1 428
+S
+#430
+A Room in Kefka's Tower~
+There is no floor here! There is no form. You are standing in the 
+middle of a dark void. You cannot even see your own hand as you
+prepare for a fight. You move very carefully across the floorless room.
+~
+0 16393 0
+D0
+~
+~
+0 -1 429
+D1
+~
+~
+0 -1 441
+D2
+~
+~
+0 -1 431
+S
+#431
+A Room in Kefka's Tower~
+There is no floor here! There is no form. You are standing in the 
+middle of a dark void. You cannot even see your own hand as you
+prepare for a fight. You move very carefully across the floorless room.
+~
+0 16393 0
+D0
+~
+~
+0 -1 430
+D2
+~
+~
+0 -1 432
+S
+#432
+A Room in Kefka's Tower~
+There is no floor here! There is no form. You are standing in the 
+middle of a dark void. You cannot even see your own hand as you
+prepare for a fight. You move very carefully across the floorless room.
+~
+0 16393 0
+D0
+~
+~
+0 -1 431
+D2
+~
+~
+0 -1 433
+S
+#433
+A Room in Kefka's Tower~
+There is no floor here! There is no form. You are standing in the 
+middle of a dark void. You cannot even see your own hand as you
+prepare for a fight. You move very carefully across the floorless room.
+~
+0 16393 0
+D0
+~
+~
+0 -1 432
+D2
+~
+~
+0 -1 434
+S
+#434
+A Room in Kefka's Tower~
+There is no floor here! There is no form. You are standing in the 
+middle of a dark void. You cannot even see your own hand as you
+prepare for a fight. You move very carefully across the floorless room.
+~
+0 16393 0
+D0
+~
+~
+0 -1 433
+D1
+~
+~
+0 -1 435
+S
+#435
+A Room in Kefka's Tower~
+There is no floor here! There is no form. You are standing in the 
+middle of a dark void. You cannot even see your own hand as you
+prepare for a fight. You move very carefully across the floorless room.
+~
+0 16393 0
+D1
+~
+~
+0 -1 436
+D3
+~
+~
+0 -1 434
+S
+#436
+A Room in Kefka's Tower~
+There is no floor here! There is no form. You are standing in the 
+middle of a dark void. You cannot even see your own hand as you
+prepare for a fight. You move very carefully across the floorless room.
+~
+0 16393 0
+D0
+~
+~
+0 -1 437
+D3
+~
+~
+0 -1 435
+S
+#437
+A Room in Kefka's Tower~
+There is no floor here! There is no form. You are standing in the 
+middle of a dark void. You cannot even see your own hand as you
+prepare for a fight. You move very carefully across the floorless room.
+~
+0 16393 0
+D0
+~
+~
+0 -1 438
+D2
+~
+~
+0 -1 436
+S
+#438
+A Room in Kefka's Tower~
+There is no floor here! There is no form. You are standing in the 
+middle of a dark void. You cannot even see your own hand as you
+prepare for a fight. You move very carefully across the floorless room.
+~
+0 16393 0
+D0
+~
+~
+0 -1 439
+D2
+~
+~
+0 -1 437
+S
+#439
+A Room in Kefka's Tower~
+There is no floor here! There is no form. You are standing in the 
+middle of a dark void. You cannot even see your own hand as you
+prepare for a fight. You move very carefully across the floorless room.
+~
+0 16393 0
+D0
+~
+~
+0 -1 440
+D2
+~
+~
+0 -1 438
+S
+#440
+A Room in Kefka's Tower~
+There is no floor here! There is no form. You are standing in the 
+middle of a dark void. You cannot even see your own hand as you
+prepare for a fight. You move very carefully across the floorless room.
+~
+0 16393 0
+D2
+~
+~
+0 -1 439
+D3
+~
+~
+0 -1 441
+S
+#441
+A Room in Kefka's Tower~
+There is no floor here! There is no form. You are standing in the 
+middle of a dark void. You cannot even see your own hand as you
+prepare for a fight. You move very carefully across the floorless room.
+~
+0 9 0
+D1
+~
+~
+0 -1 440
+D2
+~
+~
+0 -1 443
+D3
+~
+~
+0 -1 430
+S
+#443
+A Room in Kefka's Tower~
+There is no floor here! There is no form. You are standing in the 
+middle of a dark void. You cannot even see your own hand as you
+prepare for a fight. You move very carefully across the floorless room.
+~
+0 16393 0
+D0
+~
+~
+0 -1 441
+D2
+~
+~
+0 -1 444
+S
+#444
+A Stairway~
+This room seems almost normal. The walls don't seem to be
+moving, A large stairway is here.
+~
+0 16393 0
+D0
+~
+~
+0 -1 443
+D4
+~
+~
+0 -1 445
+D5
+~
+~
+0 -1 428
+S
+#445
+A Room in Kefka's Tower~
+These rooms seem to be made of some sort of jell. When you strike a
+wall, it seems hard as rock, but if you let your hand rest on it, you
+sink in. You think it wise to keep walking, so you don't fall through
+the floor.
+~
+0 16393 0
+D1
+~
+~
+0 -1 456
+D2
+~
+~
+0 -1 446
+D5
+~
+~
+0 -1 444
+S
+#446
+A Room in Kefka's Tower~
+These rooms seem to be made of some sort of jell. When you strike a
+wall, it seems hard as rock, but if you let your hand rest on it, you
+sink in. You think it wise to keep walking, so you don't fall through
+the floor.
+~
+0 16393 0
+D0
+~
+~
+0 -1 445
+D2
+~
+~
+0 -1 447
+S
+#447
+A Room In Kefka's Tower~
+These rooms seem to be made of some sort of jell. When you strike a
+wall, it seems hard as rock, but if you let your hand rest on it, you
+sink in. You think it wise to keep walking, so you don't fall through
+the floor.
+~
+0 16393 0
+D0
+~
+~
+0 -1 446
+D2
+~
+~
+0 -1 448
+S
+#448
+A Room In Kefka's Tower~
+These rooms seem to be made of some sort of jell. When you strike a
+wall, it seems hard as rock, but if you let your hand rest on it, you
+sink in. You think it wise to keep walking, so you don't fall through
+the floor.
+~
+0 16393 0
+D0
+~
+~
+0 -1 447
+D2
+~
+~
+0 -1 449
+S
+#449
+A Room In Kefa's Tower~
+These rooms seem to be made of some sort of jell. When you strike a
+wall, it seems hard as rock, but if you let your hand rest on it, you
+sink in. You think it wise to keep walking, so you don't fall through
+the floor.
+~
+0 16393 0
+D0
+~
+~
+0 -1 448
+D1
+~
+~
+0 -1 450
+S
+#450
+A Room in Kefka's Tower~
+These rooms seem to be made of some sort of jell. When you strike a
+wall, it seems hard as rock, but if you let your hand rest on it, you
+sink in. You think it wise to keep walking, so you don't fall through
+the floor.
+~
+0 16393 0
+D1
+~
+~
+0 -1 451
+D3
+~
+~
+0 -1 449
+S
+#451
+A Room In Kefka's Tower~
+These rooms seem to be made of some sort of jell. When you strike a
+wall, it seems hard as rock, but if you let your hand rest on it, you
+sink in. You think it wise to keep walking, so you don't fall through
+the floor.
+~
+0 16393 0
+D0
+~
+~
+0 -1 452
+D3
+~
+~
+0 -1 450
+S
+#452
+A Room in Kefka's Tower~
+These rooms seem to be made of some sort of jell. When you strike a
+wall, it seems hard as rock, but if you let your hand rest on it, you
+sink in. You think it wise to keep walking, so you don't fall through
+the floor.
+~
+0 16393 0
+D0
+~
+~
+0 -1 453
+D2
+~
+~
+0 -1 451
+S
+#453
+A Room In Kefka's Tower~
+These rooms seem to be made of some sort of jell. When you strike a
+wall, it seems hard as rock, but if you let your hand rest on it, you
+sink in. You think it wise to keep walking, so you don't fall through
+the floor.
+~
+0 16393 0
+D0
+~
+~
+0 -1 454
+D2
+~
+~
+0 -1 452
+S
+#454
+A Room in Kefka's Tower~
+These rooms seem to be made of some sort of jell. When you strike a
+wall, it seems hard as rock, but if you let your hand rest on it, you
+sink in. You think it wise to keep walking, so you don't fall through
+the floor.
+~
+0 16393 0
+D0
+~
+~
+0 -1 455
+D2
+~
+~
+0 -1 453
+S
+#455
+A Room in Kefka's Tower~
+These rooms seem to be made of some sort of jell. When you strike a
+wall, it seems hard as rock, but if you let your hand rest on it, you
+sink in. You think it wise to keep walking, so you don't fall through
+the floor.
+~
+0 16393 0
+D2
+~
+~
+0 -1 454
+D3
+~
+~
+0 -1 456
+S
+#456
+A Room in Kefka's Tower~
+These rooms seem to be made of some sort of jell. When you strike a
+wall, it seems hard as rock, but if you let your hand rest on it, you
+sink in. You think it wise to keep walking, so you don't fall through
+the floor.
+~
+0 16393 0
+D1
+~
+~
+0 -1 455
+D2
+~
+~
+0 -1 457
+D3
+~
+~
+0 -1 445
+S
+#457
+A Room in Kefka's Tower~
+These rooms seem to be made of some sort of jell. When you strike a
+wall, it seems hard as rock, but if you let your hand rest on it, you
+sink in. You think it wise to keep walking, so you don't fall through
+the floor.
+~
+0 16393 0
+D0
+~
+~
+0 -1 456
+D2
+~
+~
+0 -1 458
+S
+#458
+A Room in Kefka's Tower~
+These rooms seem to be made of some sort of jell. When you strike a
+wall, it seems hard as rock, but if you let your hand rest on it, you
+sink in. You think it wise to keep walking, so you don't fall through
+the floor.
+~
+0 16393 0
+D0
+~
+~
+0 -1 457
+D2
+~
+~
+0 -1 459
+S
+#459
+A Stairway~
+This room seems almost normal. The walls don't seem to be
+moving, A large stairway is here.
+~
+0 16393 0
+D0
+~
+~
+0 -1 458
+D4
+~
+~
+0 -1 460
+D5
+~
+~
+0 -1 444
+S
+#460
+A Room in Kefka's Tower~
+This room is spinning at break-neck speeds! It is almost impossible
+to get to the exit you want, because by the time you get there, the
+exits on the other side of the room!
+~
+0 16393 0
+D1
+~
+~
+0 -1 471
+D2
+~
+~
+0 -1 461
+D5
+~
+~
+0 -1 459
+S
+#461
+A Room in Kefka's Tower~
+This room is spinning at break-neck speeds! It is almost impossible
+to get to the exit you want, because by the time you get there, the
+exits on the other side of the room!
+~
+0 16393 0
+D0
+~
+~
+0 -1 460
+D2
+~
+~
+0 -1 462
+S
+#462
+A Room in Kefka's Tower~
+This room is spinning at break-neck speeds! It is almost impossible
+to get to the exit you want, because by the time you get there, the
+exits on the other side of the room!
+~
+0 16393 0
+D0
+~
+~
+0 -1 461
+D2
+~
+~
+0 -1 463
+S
+#463
+A Room in Kefka's Tower~
+This room is spinning at break-neck speeds! It is almost impossible
+to get to the exit you want, because by the time you get there, the
+exits on the other side of the room!
+~
+0 16393 0
+D0
+~
+~
+0 -1 462
+D2
+~
+~
+0 -1 464
+S
+#464
+A Room in Kefka's Tower~
+This room is spinning at break-neck speeds! It is almost impossible
+to get to the exit you want, because by the time you get there, the
+exits on the other side of the room!
+~
+0 16393 0
+D0
+~
+~
+0 -1 463
+D1
+~
+~
+0 -1 465
+S
+#465
+A Room in Kefka's Tower~
+This room is spinning at break-neck speeds! It is almost impossible
+to get to the exit you want, because by the time you get there, the
+exits on the other side of the room!
+~
+0 16393 0
+D1
+~
+~
+0 -1 466
+D3
+~
+~
+0 -1 464
+S
+#466
+A Room in Kefka's Tower~
+This room is spinning at break-neck speeds! It is almost impossible
+to get to the exit you want, because by the time you get there, the
+exits on the other side of the room!
+~
+0 16393 0
+D0
+~
+~
+0 -1 467
+D3
+~
+~
+0 -1 465
+S
+#467
+A Room in Kefka's Tower~
+This room is spinning at break-neck speeds! It is almost impossible
+to get to the exit you want, because by the time you get there, the
+exits on the other side of the room!
+~
+0 16393 0
+D0
+~
+~
+0 -1 468
+D2
+~
+~
+0 -1 466
+S
+#468
+A Room in Kefka's Tower~
+This room is spinning at break-neck speeds! It is almost impossible
+to get to the exit you want, because by the time you get there, the
+exits on the other side of the room!
+~
+0 16393 0
+D0
+~
+~
+0 -1 469
+D2
+~
+~
+0 -1 467
+S
+#469
+A Room in Kefka's Tower~
+This room is spinning at break-neck speeds! It is almost impossible
+to get to the exit you want, because by the time you get there, the
+exits on the other side of the room!
+~
+0 16393 0
+D0
+~
+~
+0 -1 470
+D2
+~
+~
+0 -1 468
+S
+#470
+A Room in Kefka's Tower~
+This room is spinning at break-neck speeds! It is almost impossible
+to get to the exit you want, because by the time you get there, the
+exits on the other side of the room!
+~
+0 16393 0
+D2
+~
+~
+0 -1 469
+D3
+~
+~
+0 -1 471
+S
+#471
+A Room In Kefka's Tower~
+This room is spinning at break-neck speeds! It is almost impossible
+to get to the exit you want, because by the time you get there, the
+exits on the other side of the room!
+~
+0 16393 0
+D1
+~
+~
+0 -1 470
+D2
+~
+~
+0 -1 472
+D3
+~
+~
+0 -1 460
+S
+#472
+A Room In Kefka's Tower~
+This room is spinning at break-neck speeds! It is almost impossible
+to get to the exit you want, because by the time you get there, the
+exits on the other side of the room!
+~
+0 16393 0
+D0
+~
+~
+0 -1 471
+D2
+~
+~
+0 -1 473
+S
+#473
+A Room in Kefka's Tower~
+This room is spinning at break-neck speeds! It is almost impossible
+to get to the exit you want, because by the time you get there, the
+exits on the other side of the room!
+~
+0 16393 0
+D0
+~
+~
+0 -1 472
+D2
+~
+~
+0 -1 474
+S
+#474
+A Stairway~
+This room seems almost normal. The walls don't seem to be
+moving, A large stairway is here.
+~
+0 16393 0
+D0
+~
+~
+0 -1 473
+D4
+~
+~
+0 -1 475
+D5
+~
+~
+0 -1 459
+S
+#475
+Kefka's Grand Hall~
+Finally, a room that doesn't move in any way. As soon as you regain your
+bearings, you notice something remarkable. Everything is made of pure gold.
+The torchlight reflects off of the golden walls, casting weird shadows on
+the floor. You think that you are nearing your destination.
+~
+0 16393 0
+D1
+~
+~
+0 -1 486
+D2
+~
+~
+0 -1 476
+D5
+~
+~
+0 -1 474
+S
+#476
+Kefka's Grand Hall~
+Finally, a room that doesn't move in any way. As soon as you regain your
+bearings, you notice something remarkable. Everything is made of pure gold.
+The torchlight reflects off of the golden walls, casting weird shadows on
+the floor. You think that you are nearing your destination.
+~
+0 16393 0
+D0
+~
+~
+0 -1 475
+D2
+~
+~
+0 -1 477
+S
+#477
+Kefka's Grand Hall~
+Finally, a room that doesn't move in any way. As soon as you regain your
+bearings, you notice something remarkable. Everything is made of pure gold.
+The torchlight reflects off of the golden walls, casting weird shadows on
+the floor. You think that you are nearing your destination.
+~
+0 16393 0
+D0
+~
+~
+0 -1 476
+D2
+~
+~
+0 -1 478
+S
+#478
+Kefka's Grand Hall~
+Finally, a room that doesn't move in any way. As soon as you regain your
+bearings, you notice something remarkable. Everything is made of pure gold.
+The torchlight reflects off of the golden walls, casting weird shadows on
+the floor. You think that you are nearing your destination.
+~
+0 16393 0
+D0
+~
+~
+0 -1 477
+D2
+~
+~
+0 -1 479
+S
+#479
+Kefka's Grand Hall~
+Finally, a room that doesn't move in any way. As soon as you regain your
+bearings, you notice something remarkable. Everything is made of pure gold.
+The torchlight reflects off of the golden walls, casting weird shadows on
+the floor. You think that you are nearing your destination.
+~
+0 16393 0
+D0
+~
+~
+0 -1 478
+D1
+~
+~
+0 -1 480
+S
+#480
+Kefka's Grand Hall~
+Finally, a room that doesn't move in any way. As soon as you regain your
+bearings, you notice something remarkable. Everything is made of pure gold.
+The torchlight reflects off of the golden walls, casting weird shadows on
+the floor. You think that you are nearing your destination.
+~
+0 16393 0
+D1
+~
+~
+0 -1 481
+D3
+~
+~
+0 -1 479
+S
+#481
+Kefka's Grand Hall~
+Finally, a room that doesn't move in any way. As soon as you regain your
+bearings, you notice something remarkable. Everything is made of pure gold.
+The torchlight reflects off of the golden walls, casting weird shadows on
+the floor. You think that you are nearing your destination.
+~
+0 16393 0
+D0
+~
+~
+0 -1 482
+D3
+~
+~
+0 -1 480
+S
+#482
+Kefka's Grand Hall~
+Finally, a room that doesn't move in any way. As soon as you regain your
+bearings, you notice something remarkable. Everything is made of pure gold.
+The torchlight reflects off of the golden walls, casting weird shadows on
+the floor. You think that you are nearing your destination.
+~
+0 16393 0
+D0
+~
+~
+0 -1 483
+D2
+~
+~
+0 -1 481
+S
+#483
+Kefka's Grand Hall~
+Finally, a room that doesn't move in any way. As soon as you regain your
+bearings, you notice something remarkable. Everything is made of pure gold.
+The torchlight reflects off of the golden walls, casting weird shadows on
+the floor. You think that you are nearing your destination.
+~
+0 16393 0
+D0
+~
+~
+0 -1 484
+D2
+~
+~
+0 -1 482
+S
+#484
+Kefka's Grand Hall~
+Finally, a room that doesn't move in any way. As soon as you regain your
+bearings, you notice something remarkable. Everything is made of pure gold.
+The torchlight reflects off of the golden walls, casting weird shadows on
+the floor. You think that you are nearing your destination.
+~
+0 16393 0
+D0
+~
+~
+0 -1 485
+D2
+~
+~
+0 -1 483
+S
+#485
+Kefka's Grand Hall~
+Finally, a room that doesn't move in any way. As soon as you regain your
+bearings, you notice something remarkable. Everything is made of pure gold.
+The torchlight reflects off of the golden walls, casting weird shadows on
+the floor. You think that you are nearing your destination.
+~
+0 16393 0
+D2
+~
+~
+0 -1 484
+D3
+~
+~
+0 -1 486
+S
+#486
+Kefka's Grand Hall~
+Finally, a room that doesn't move in any way. As soon as you regain your
+bearings, you notice something remarkable. Everything is made of pure gold.
+The torchlight reflects off of the golden walls, casting weird shadows on
+the floor. You think that you are nearing your destination.
+~
+0 9 0
+D1
+~
+~
+0 -1 485
+D2
+~
+~
+0 -1 488
+D3
+~
+~
+0 -1 475
+S
+#488
+Kefka's Grand Hall~
+Finally, a room that doesn't move in any way. As soon as you regain your
+bearings, you notice something remarkable. Everything is made of pure gold.
+The torchlight reflects off of the golden walls, casting weird shadows on
+the floor. You think that you are nearing your destination.
+~
+0 16393 0
+D0
+~
+~
+0 -1 486
+D2
+~
+~
+0 -1 489
+S
+#489
+Kefka's Throne Room~
+This room is completely made of diamond. 100 reflections stare back at
+you as you enter Kefka's domain
+~
+0 16393 0
+D0
+~
+~
+0 -1 488
+S
+#490
+Outside the Tower~
+You stand outside a huge tower and look up.
+You can feel immense power coming from this building. Good luck...
+~
+0 16388 1
+D1
+~
+~
+0 -1 400
+S
+#0
+
+
+
+#SPECIALS
+M 400 spec_cast_undead Load to: The Guardian
+M 402 spec_cast_undead Load to: The Greater Fanatic
+M 403 spec_cast_undead Load to: Kefka's Body Guard 
+M 404 spec_breath_any Load to: Kefka
+S
+
+
+
+#RESETS
+M 0 400 15 413
+M 0 401 15 408
+M 0 401 15 443
+M 0 402 15 443
+M 0 402 10 473
+M 0 403 10 488
+M 0 404 1 489
+E 0 400 0 16
+G 0 400 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

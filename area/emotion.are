@@ -1,0 +1,1298 @@
+#AREADATA
+Name        Garden of Emotion~
+Builders    None~
+VNUMs       31501 31550
+Security    1
+End
+
+
+
+#MOBILES
+#31501
+beautiful butterfly~
+a colourful butterfly~
+A Butterfly flutters about in the breeze.
+~
+~
+65 524456 0 S
+38 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31505
+bird~
+a winged bird~
+A bird circles high above your head.
+~
+~
+65 524416 0 S
+36 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31507
+rosebush~
+a rosebush~
+A bush blooming with red roses grows here.
+~
+~
+67 128 0 S
+47 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31508
+rosebush~
+a rosebush~
+A rosebush blooming with yellow roses grows here.
+~
+~
+67 128 0 S
+45 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31509
+rosebush~
+a rosebush~
+A beautiful bush blooming with purple roses grows here.
+~
+~
+67 128 0 S
+53 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31510
+rosebush~
+a rosebush~
+A beautiful rosebush blooms here.
+~
+~
+67 128 0 S
+51 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31514
+lazy bullfrog~
+a lazy bullfrog~
+A lazy bullfrog zaps it's tongue at a passing bug
+~
+~
+67 128 0 S
+64 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31515
+goldfish~
+a goldfish~
+A slippery fish darts about blowing bubbles.
+~
+~
+65 128 0 S
+60 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31519
+pheasant~
+a pheasant~
+A pheasant becomes startled and takes flight.
+~
+~
+65 524416 0 S
+53 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31522
+bat~
+A bat~
+A hungry bat eyes your jugular vein
+~
+~
+67 524416 0 S
+57 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31523
+katipo spider~
+A Katipo Spider~
+A large black spider crawls towards you.
+~
+~
+99 4194344 0 S
+311 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#31532
+Anger~
+Anger~
+A red faced anger explodes violently at you
+~
+~
+67 524416 0 S
+352 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31533
+guilt~
+Guilt~
+The look of Guilt looks up at you in dispair.
+~
+~
+67 128 0 S
+350 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31534
+Jealousy~
+Jealousy~
+The green eyed monster rears it's ugly head at you.
+~
+~
+67 4718760 0 S
+306 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31535
+tantrum~
+a tantrum~
+An unleashed tantrum is about to happen.
+~
+~
+67 524456 0 S
+82 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31539
+banshee~
+a screaming banshee~
+A Banshee wails loudly fortelling you that your death approaches
+~
+~
+65 4718760 0 S
+500 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#31550
+Garden Mistress Katerina~
+Katerina~
+The Mistress of the Garden lunges at you in a frenzy.
+~
+~
+99 4718760 0 S
+797 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#31508
+thorn~
+a deadly thorn~
+A sharp and deadly thorn lies here
+~
+~
+5 1152 8193
+0 10 15 3
+5 10 0
+A
+19 5
+A
+18 3
+#31510
+thorn~
+a sharp thorn~
+A deadly thorn lies here
+~
+~
+4 130 8193
+50 2 2 43
+5 0 0
+A
+17 20
+A
+19 6
+A
+18 6
+#31514
+frogskin boots~
+a pair of frogskin boots~
+Some dried up frog skin has been dumped here
+~
+~
+9 64 65
+0 0 0 0
+4 10 0
+A
+17 100
+A
+14 150
+A
+13 100
+#31515
+fish scales~
+some fish scales~
+Some fine scales of a dead fish lie discarded.
+~
+~
+9 257 9
+0 0 0 0
+5 10 0
+A
+19 5
+A
+18 5
+#31519
+pheasant tail feather~
+a pheasants tail feather~
+The plumage of a tastey bird floats in the breeze
+~
+~
+5 1 8193
+0 12 15 11
+5 5 0
+A
+17 20
+A
+12 60
+A
+19 6
+A
+18 6
+#31539
+wand of prediction~
+wand of prediction~
+A wand lies lost in the dirt here
+~
+~
+3 0 8193
+50 3 3 53
+2 10 0
+#0
+
+
+
+#ROOMS
+#31501
+Upon a Paved Pathway~
+You stand in the midst of shrubs, surrounded in tall trees.  The wind
+blows high through the tree tops, shaking loose the old brown dying
+leaves,tossing them carelessly to the earth forest flooring below.  High
+above you,birds chatter amongst themselves, as if pre-warning each other
+that a stranger walks their forest homeland.  The small pathway leads off in
+the;northward direction.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31502
+S
+#31502
+A Paved path~
+As you make your way north, you now find it more difficult to pass
+through as the path is over grown with a mass of strangulating vines.  A
+large branch that used to hang high above you amongst the giant trees, now
+lies where it fell some time ago.  The rotting wood now pays patronage to
+many of the forest insects that dwell within it.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31503
+D2
+~
+~
+0 0 31501
+S
+#31503
+A Large Stone Wall~
+You reach a dead end, as a huge stone wall now blocks your path.  It is
+far too high to go over and the hard ground at its base is like concrete, so
+you are unable to go under Creeping vines grow across it's surface almost
+camouflaging its very existance.  There is no way of getting passed this
+wall...  Or is there?  
+~
+0 16384 3
+D0
+~
+~
+0 0 31504
+D2
+~
+~
+0 0 31502
+S
+#31504
+A Small Pathway~
+You stand on a small cobble stoned path that lies between a blanket of
+shrubs on either side of you.  Still the birds chatter high in the trees as
+the wind carries their chattering along with it.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31505
+D2
+~
+~
+0 0 31503
+S
+#31505
+A Small Pathway~
+You notice how uniformed and neat the shrubs are here.  All trimmed to
+perfection with no leaves out of place.  Many animals cross your path, only
+to become startled and bolt for cover amidst the bushes that surround. 
+There they watch you inquisitively, safe from arms reach.  Large colourful
+butterflies flutter about, enjoying a game of tag.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31506
+D2
+~
+~
+0 0 31504
+S
+#31506
+The Ring of Roses~
+#w   .
+     ...  :``..':
+      : ````.'   :''::'
+    ..:..  :     .'' :
+ ``.    `:    .'     :
+     :    :   :        :
+      :   :   :         :
+      :    :   :        :
+       :    :   :..''''``::.
+        : ...:..'     .''
+        .'   .' #g .::::'
+      #w:..'''``#g:::::::
+                `::::
+                   `::.
+                    `::
+                     :::.#w
+ 
+ 
+                         A sign stands here
+ 
+~
+0 16384 3
+E
+sign~
+For ye who walk upon thy path
+Listen for I will forwarn.
+Treat my Roses with Respect
+and all the natures finest.
+For I have nutured all within
+With tender loving kindness
+ 
+And if thyne harm my precious flowers
+I warn thee what thy will do.
+I'll lay a curse upon your soul
+Then come a hunting you!
+ 
+~
+D0
+~
+~
+0 0 31511
+D1
+~
+~
+0 0 31510
+D2
+~
+~
+0 0 31505
+D3
+~
+~
+0 0 31507
+S
+#31507
+Ring of Roses~
+#r.#w
+     #r...  :``..':#w
+      #r: ````.'   :''::'#w
+    #r..:..  :     .'' :#w
+  #r``.    `:    .'     :#w
+     #r:    :   :        :#w
+      #r:   :   :         :#w
+      #r:    :   :        :#w
+       #r:    :   :..''''``::.#w
+        #r: ...:..'     .''#w
+        #r.'   .' #g .::::'
+      #r:..'''``#g:::::::
+                `::::
+                   `::.
+                    `::
+                     :::.#w
+ 
+ 
+~
+0 16384 3
+D1
+~
+~
+0 0 31506
+D3
+~
+~
+0 0 31508
+S
+#31508
+Ring of Roses~
+#y.#w
+     #y...  :``..':#w
+      #y: ````.'   :''::'#w
+    #y..:..  :     .'' :#w
+  #y``.    `:    .'     :#w
+     #y:    :   :        :#w
+      #y:   :   :         :#w
+      #y:    :   :        :#w
+       #y:    :   :..''''``::.#w
+        #y: ...:..'     .''#w
+        #y.'   .' #g .::::'
+      #y:..'''``#g:::::::
+                `::::
+                   `::.
+                    `::
+                     :::.#w
+ 
+ 
+~
+0 16384 3
+D1
+~
+~
+0 0 31507
+D3
+~
+~
+0 0 31509
+S
+#31509
+Ring of Roses~
+#p.#w
+     #p...  :``..':#w
+      #p: ````.'   :''::'#w
+    #p..:..  :     .'' :#w
+  #p``.    `:    .'     :#w
+     #p:    :   :        :#w
+      #p:   :   :         :#w
+      #p:    :   :        :#w
+       #p:    :   :..''''``::.#w
+        #p: ...:..'     .''#w
+        #p.'   .' #g .::::'
+      #p:..'''``#g:::::::
+                `::::
+                   `::.
+                    `::
+                     :::.#w
+ 
+ 
+~
+0 16384 3
+D1
+~
+~
+0 0 31508
+D3
+~
+~
+0 0 31510
+S
+#31510
+Ring of Roses~
+#b.#w
+     #b...  :``..':#w
+      #b: ````.'   :''::'#w
+    #b..:..  :     .'' :#w
+  #b``.    `:    .'     :#w
+     #b:    :   :        :#w
+      #b:   :   :         :#w
+      #b:    :   :        :#w
+       #b:    :   :..''''``::.#w
+        #b: ...:..'     .''#w
+        #b.'   .' #g .::::'
+      #b:..'''``#g:::::::
+                `::::
+                   `::.
+                    `::
+                     :::.#w
+ 
+ 
+~
+0 16384 3
+D1
+~
+~
+0 0 31509
+D3
+~
+~
+0 0 31506
+S
+#31511
+A Small Pathway~
+Your journey has taken you on the Northern path from the glorious rose
+gardens.  The air is filled with an array of heavenly scents that rise up
+from the flower beds and spread over the land.  With all this beauty
+surrounding you, one would think too easily, they are in a paradise far from
+the magical homes from which you have travelled.  The birds still
+chirp;above you, animals still gad about.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31512
+D2
+~
+~
+0 0 31506
+S
+#31512
+A Small Pathway~
+Light winds shift direction, scattering the dried dying leaves that have
+fallen to the soft earth beneath your feet.  Watchful eyes, hidden by the
+canopy of shrubs and brush, watch your every movement.  The sound of falling
+water can be heard not too far off to the North.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31513
+D2
+~
+~
+0 0 31511
+S
+#31513
+A Babbling Brook~
+Water forces it's way in a small torrant here, and to the east comes to
+rest in a mighty pond.  The water is clear as the freshest mountain water,
+as you gaze into it, your reflection is almost mirror like.  
+~
+0 16388 3
+D1
+~
+~
+0 0 31514
+D2
+~
+~
+0 0 31512
+S
+#31514
+A Large Fish Pond~
+Breathtaking beautiful, you stand at the edge of a gorgeous pond.  It's
+crystal clear waters, show the uniformed rockery that sits at the bottom. 
+Dragonflys, buzz the surface as lazy bullfrogs, lie on smooth green
+lilly-pads, waiting for a snack to buzz too close.  
+~
+0 16384 6
+D0
+~
+~
+0 0 31515
+D1
+~
+~
+0 0 31517
+D2
+~
+~
+0 0 31516
+D3
+~
+~
+0 0 31513
+S
+#31515
+A Large Fish Pond~
+Lazy bull-frogs bask their bodies in warm sun rays, as they lie about
+croaking noisely.  Beneath the surface of the Pond large colourful fish flit
+about, hiding amongst the greenery that grows there.  
+~
+0 16384 8
+D2
+~
+~
+0 0 31514
+S
+#31516
+A Large Fish Pond~
+Lazy bull-frogs bask their bodies in warm sun rays, as they lie about
+croaking noisely.  Beneath the surface of the Pond large colourful fish flit
+about, hiding amongst the greenery that grows there.  
+~
+0 16384 6
+D0
+~
+~
+0 0 31514
+S
+#31517
+Upon the Garden Path~
+Back onto dry land you leave the cooling waters of the fish pond behind
+you.  The path is small, set in bricks with all the edgings, trimmed
+perfectly.  
+~
+0 16388 3
+D0
+~
+~
+0 0 31518
+D3
+~
+~
+0 0 31514
+S
+#31518
+Upon the Garden Path~
+The small brick Path twists off to the northern direction.  Birds fly
+about, sometimes dangerously close, as if protecting their home and habitat
+from the stranger {you} that lingers in their forest.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31519
+D2
+~
+~
+0 0 31517
+S
+#31519
+Upon the Garden Path~
+The path continues to stretch off to the north.  Wild life scamper out of
+the brush that sits to either side of the brick pathway.  Eyes, stare back
+at you as your eyes explore the boundaries.  A slight un- nerving feeling
+crosses your body, something unexpected in this beautiful paradisic garden. 
+~
+0 16384 3
+D0
+~
+~
+0 0 31520
+D2
+~
+~
+0 0 31518
+S
+#31520
+Upon a Garden Path~
+The breeze fights it's way through the thick leaves from the many
+towering trees, tossing the dead and dying leaves carelessly about the
+place.  Birds chatter high in the tops, watching, ..  Warning ..  Of the
+encounter of a stranger in these parts.  Small animals, watch from the
+distance, and the ocasional cry, can be heard far off in the distance.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31521
+D2
+~
+~
+0 0 31519
+S
+#31521
+An Intersection of Pathways~
+You stand before a large split in the pathways.  Each direction looks no
+more used than another.  So it is hard to decide which way to go.  As you
+scan around, the animals and birds suddenly go quiet.  As if they wait with
+baited breath in knowing which path you will take.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31524
+D2
+~
+~
+0 0 31520
+D3
+~
+~
+0 0 31523
+D5
+~
+~
+0 0 31522
+S
+#31522
+A Musty Cave~
+You step into a pitch black cave.  The moist musty walls drip with water
+and the earth damp and slippery.  You hear squeaks from within the room and
+wings beating caution your step.  Your eyes soon accustom to the dark and
+you see what you have stepped into.  
+~
+0 16388 0
+D4
+~
+~
+0 0 31521
+S
+#31523
+The Katipo's Web~
+You feel the sticky web of the Katipo Spider grab hold of you.  The more
+you struggle, the more you are bound.  The Deadly spider springs at you,
+with its venomius bite ready to pierce your tender flesh.  For you have
+trodden into her lair, and her motherly instinct of protecting her young
+will soon see that you, will be her youngs first meal.  
+~
+0 16389 0
+D1
+~
+~
+0 0 31521
+S
+#31524
+A Cobbled Pathway~
+A Brownish Brick Path, all cobbled together in a perfect alignment, makes
+up this narrow path amongst the brush and shrubs.  Whoever took the time to
+create this, obviously seeked perfection in every way.  Not one brick is off
+balanced, as it it knits itself to the north of where you stand.  
+~
+0 16388 3
+D0
+~
+~
+0 0 31525
+D2
+~
+~
+0 0 31521
+S
+#31525
+The Foot of a Large Rock Face~
+The Brick Path abrubtly ends here as you stand at the foot of a steep
+rock face Mustering all energy here, you must now ascend to what looks like
+the heavens from your point of view.  This face itself has tracks so
+climbing should be easy enough.  
+~
+0 16384 3
+D2
+~
+~
+0 0 31524
+D4
+~
+~
+0 0 31526
+S
+#31526
+Onwards and Upwards~
+The climb is long, but getting easier, due to the large carved steps in
+the rock.  A hand rail made from the finest crafted brass, helps your weary
+body take that extra step or two.  As you gaze skyward,you don't even see
+the top yet.  
+~
+0 16384 3
+D4
+~
+~
+0 0 31527
+D5
+~
+~
+0 0 31525
+S
+#31527
+The Mist~
+Still you ascend upwards, not knowing if you will ever find the top to
+this rocky face.  The climb is so high you now seem to be in cloud, as
+swirling mist consumes you.  The mist is moist, cooling the heated flesh and
+soothing the aches of your over stretched muscles.  
+~
+0 16384 3
+D4
+~
+~
+0 0 31528
+D5
+~
+~
+0 0 31526
+S
+#31528
+The Mist~
+The mist has thickened here, leaving visibility to nothing.  Using your
+senses, you make your way carefully upward.  Strange eerie noises are heard
+in the distance, so even more caution goes with you in each step.  
+~
+0 16384 3
+D4
+~
+~
+0 0 31529
+D5
+~
+~
+0 0 31527
+S
+#31529
+The Ledge of Emotions~
+Strange vibes can be felt all along this ledge.  The wind blasts your
+skin as the mists swirl across the narrow ground on which you stand. 
+Caution must guide your every step, as the ground may fall beneath you,
+dropping you like a rock to the ground far below.  
+~
+0 16388 3
+D1
+~
+~
+0 0 31531
+D3
+~
+~
+0 0 31530
+D4
+~
+~
+0 0 31536
+D5
+~
+~
+0 0 31528
+S
+#31530
+Ledge of Emotions~
+Strange cries can be heard, coming from beyond your sight.  You can
+almost feel their presence.  An eerie chill creeps down your spine as you
+listen to these calls, or rather pitiful cries in wonderment of what it all
+could be.  Although you stand in a beautiful garden, every place must hold
+its balance of good and evil forces.  Your guess is ..  You have found this
+one.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31535
+D1
+~
+~
+0 0 31529
+D2
+~
+~
+0 0 31534
+S
+#31531
+The Ledge of Emotion~
+Strange cries can be heard, coming from beyond your sight.  You can
+almost feel their presence.  An eerie chill creeps down your spine as you
+listen to these calls, or rather pitiful cries in wonderment of what it all
+could be.  Although you stand in a beautiful garden, every place must hold
+its balance of good and evil forces.  Your guess is ..  You have found this
+one.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31532
+D2
+~
+~
+0 0 31533
+D3
+~
+~
+0 0 31529
+S
+#31532
+The Pit of Anger~
+The room you have just stepped into, causes an instant dislikable feeling
+to rise inside you.  The feeling of utter demise and contempt of everything
+and everybody, seems to flow through your veins.  Your mind becomes
+distorted and muddled as the seathing and bitterniss takes over.  And right
+there in the middle of it, stands the most powerful emotions itself.  Red
+faced, it stands spitting and fuming, as if ready to errupt into a violent
+tantrum.  Your thoughts are to run, but it is too late, it has already
+succeeded to control you.  
+~
+0 16384 3
+D2
+~
+~
+0 0 31531
+S
+#31533
+Your Conscience~
+You immediately begin to question yourself to why you have come here. 
+The feelings of every wrong doing you have ever done in your life, has risen
+up within you.  Your soul stands naked and helpless as you plead for
+salvation and forgiveness.  Standing before you, you also witness a person,
+pleading for redemption of it's sins of past and present.  Perhaps you
+should put it out of it's misery as it's pathetic whimpering goes unheard.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31531
+S
+#31534
+A Sinister End~
+You enter a room that shines of the brightest green aura that almost
+blinds you.  In the centre of the room stands a beast like creature,
+seathing eyes and nasty aggressive mannerisms drip from it's acid tongue. 
+Don't get too close, as this beast is usually the midst of alot of
+troubles,and has the tendancy to overcome you with ease.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31530
+S
+#31535
+The Hall Of Tantrums~
+Screams and rage of things you have witnessed on the most badly behaved
+of young children surround you.  The darkness distorts the visible beings
+here and you have to go with your senses.  If these creature dont get what
+they want, there is no telling what might happen.  
+~
+0 16384 3
+D2
+~
+~
+0 0 31530
+S
+#31536
+A Breath Taking View~
+The view from here as you look back is spectacular.  You are now as high
+as the trees, you first saw as you made your way into the garden.  The air
+is quite thin, from the high altitude, but you are fit and healthy,and
+hopefully, you will stay that way.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31537
+D5
+~
+~
+0 0 31529
+S
+#31537
+A Cobbled Path~
+You leave behind the ledge that contained so many emotions.  The path you
+take, is now northwards.  A thin strip of cobblestone is all you see as it
+stretches out in front of you.  Shrubs and underbrush either side of you
+keep you from straying into the dense woodland.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31538
+D2
+~
+~
+0 0 31536
+S
+#31538
+A Cobbled Path~
+You leave behind the ledge that contained so many emotions.  The path you
+take, is now northwards.  A thin strip of cobblestone is all you see as it
+stretches out in front of you.  Shrubs and underbrush either side of you
+keep you from straying into the dense woodland.  
+~
+0 16388 3
+D0
+~
+~
+0 0 31539
+D2
+~
+~
+0 0 31537
+S
+#31539
+Call of the Banshee~
+Suddenly out of nowhere you hear it.  A high shrilled shriek cries
+out,not too far from you.  You begin to caution your step again, and pray
+that was not the sound of a banshee.  For if it were, you are now in grave
+danger.  Afterall, Banshee's fortells death, and it will no doubt be yours 
+~
+0 16384 3
+D0
+~
+~
+0 0 31540
+D2
+~
+~
+0 0 31538
+S
+#31540
+The Haunted Woodlands~
+The feeling of unease once again befriends you as you make your way
+through the dense woods.  An eerie mist swirls about in here, as the trees
+too grow silent, even though a cold breeze can be felt.  Birds cease to
+chatter, animals have become still and quiet.  It is as if you are all that
+exists from this point on.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31543
+D1
+~
+~
+0 0 31542
+D2
+~
+~
+0 0 31539
+D3
+~
+~
+0 0 31541
+S
+#31541
+The Haunted Woodlands~
+The thick mist swirls closely about you.  The deafening sound of complete
+silence, leaves chills running up and down your spine.  Not even a cricket
+stirs, as you wander through this woodland.  Correction ..  There is one
+sound ..  The sound of your heart beat as adrenaline pumps through it.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31545
+D1
+~
+~
+0 0 31540
+S
+#31542
+The Haunted Woodlands~
+The thick mist swirls closely about you.  The deafening sound of complete
+silence, leaves chills running up and down your spine.  Not even a cricket
+stirs, as you wander through this woodland, with caution in every step you
+take.  Correction ..  There is one sound ..  The sound of your heart beat as
+adrenaline pumps through it.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31544
+D3
+~
+~
+0 0 31540
+S
+#31543
+The Haunted Woodlands~
+Desperation keeps you moving throughout the thick mist.  You can swear
+you see creepy shadows and ice chilling breath not more than a foot away. 
+Blindly you forage through the woods, in hope of an exit from this errie
+place.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31546
+D1
+~
+~
+0 0 31545
+D2
+~
+~
+0 0 31540
+D3
+~
+~
+0 0 31544
+S
+#31544
+The Haunted Woodlands~
+You stumble about, hands waving infront of you, as the mist makes
+visibility near impossible.  A chill in the air can be felt, even though
+there is no wind.  This place is creepy and you wonder if you will ever find
+your way out.  
+~
+0 16384 3
+D1
+~
+~
+0 0 31543
+D2
+~
+~
+0 0 31542
+S
+#31545
+The Haunted Woodlands~
+Terror leashes through you as you stumble over what you hope is a tree
+trunk.  Imagine may wander in the dark as perhaps it was not a tree.. 
+Perhaps it was someone or something merely trying to make you grow paranoid.
+Whatever the case may be, it sure is working.  
+~
+0 16384 3
+D2
+~
+~
+0 0 31541
+D3
+~
+~
+0 0 31543
+S
+#31546
+The Haunted Woodlands~
+So much silence, you hear your heart pound rapidly, as you make your way
+cautiously through the woods.  Pheasants startle and take flight, causing
+un-necessary panic.  The mist swirls over the ground, making it near
+impossible to see where you walk.  All you know, is that this place is
+creepy.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31547
+D2
+~
+~
+0 0 31543
+S
+#31547
+A Narrow Path~
+By pure luck you have stumbled out of the thick mist and found your way
+again.  You stand on a small narrow path that leads uphill.  You can again
+feel the breeze and once again the chattering of birds brings relief.  
+~
+0 16388 3
+D2
+~
+~
+0 0 31546
+D4
+~
+~
+0 0 31548
+S
+#31548
+A Narrow Path~
+You are still walking the narrow path in the midst of nowhere it seems. 
+Your destination still lies northwards, although far off to the distance you
+see a bright light source.  Your step hastens, but you maintain your wits,
+because you have a feeling all is not over yet.  
+~
+0 16384 3
+D0
+~
+~
+0 0 31549
+D5
+~
+~
+0 0 31547
+S
+#31549
+The Garden Shrine~
+You stand infront of a beautiful shrine, made from fine gold and silver. 
+Beautiful roses grow in vines as they creep up the sides of this magnificent
+place.  A large plaque is dug into the earth and you approach to read it's
+inscription.  
+ 
+ 
+                    A Plaque stands here waiting to be read.
+~
+0 16384 3
+E
+plaque~
+To the weary traveller, who has gotten this far.
+I watched from the shadows, you did not suspect.
+You destroyed all living creatures, my flowers you wrecked.
+My emotions were with you, high on the ledge.
+You battered and cut up, every leaf, twig and hedge.
+You were spooked in the woodlands, I sensed your heart beat.
+Still you braved the storm, and now you stand at my feet.
+ 
+Look around you, do you see me yet?
+Im here in await, and its you I will get
+ 
+                       BE AFRAID
+~
+D0
+~
+~
+0 0 31550
+D2
+~
+~
+0 0 31548
+S
+#31550
+Your Worst Nightmare~
+It is Judgement Day as you feel one final wrath upon you.  You see
+nothing but Stars!  
+~
+0 16389 0
+S
+#0
+
+
+
+#SPECIALS
+M 31532 spec_cast_mage Load to: Anger
+M 31539 spec_cast_cleric Load to: a screaming banshee
+M 31550 spec_breath_any Load to: Katerina
+S
+
+
+
+#RESETS
+M 0 31501 7 31501
+M 0 31510 2 31510
+E 0 31510 0 0
+M 0 31509 2 31509
+M 0 31508 2 31508
+E 0 31508 0 0
+M 0 31507 2 31507
+M 0 31505 6 31505
+M 0 31514 2 31514
+E 0 31514 0 0
+M 0 31515 6 31515
+E 0 31515 0 0
+M 0 31519 5 31519
+G 0 31519 0
+M 0 31522 8 31522
+M 0 31523 1 31523
+M 0 31532 1 31532
+M 0 31535 6 31535
+M 0 31533 1 31533
+M 0 31534 1 31534
+M 0 31539 1 31539
+E 0 31539 0 0
+M 0 31550 1 31550
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
